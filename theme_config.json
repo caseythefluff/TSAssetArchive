@@ -66,9 +66,9 @@
     "ariana": {
       "displayName": "Ariana Grande",
       "primary": "#E6E6FA",
-      "secondary": "#DDA0DD",
-      "bgMain": "#0F0F1A",
-      "sidebarBg": "#1A1A2A",
+      "secondary": "#a1c9dd",
+      "bgMain": "#525e66",
+      "sidebarBg": "#515d7b",
       "panelBg": "rgba(26,26,34,0.7)",
       "textMain": "#FFF7FB",
       "textDim": "#D9D2DF"
