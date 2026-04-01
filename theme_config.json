@@ -41,7 +41,10 @@
       "sidebarBg": "#11151c",
       "panelBg": "rgba(26,31,41,0.7)",
       "textMain": "#E2E8F0",
-      "textDim": "#94A3B8"
+      "textDim": "#94A3B8",
+      "logoUrl": "https://raw.githubusercontent.com/caseythefluff/TSAssetArchive/main/logos/07202020-TS19190_1000x.png",
+      "bgUrl": "",
+      "fontUrl": ""
     },
     "gaga": {
       "displayName": "Lady Gaga",
@@ -51,7 +54,10 @@
       "sidebarBg": "#611300",
       "panelBg": "rgba(30,17,28,0.75)",
       "textMain": "#FFFFFF",
-      "textDim": "#D1C7D6"
+      "textDim": "#D1C7D6",
+      "logoUrl": "Template/static/LGAALogo.png",
+      "bgUrl": "",
+      "fontUrl": ""
     },
     "sabrina": {
       "displayName": "Sabrina Carpenter",
@@ -61,7 +67,10 @@
       "sidebarBg": "#1E1117",
       "panelBg": "rgba(30,17,23,0.7)",
       "textMain": "#F8F4FF",
-      "textDim": "#CFC7D9"
+      "textDim": "#CFC7D9",
+      "logoUrl": "Template/static/SCAA.png",
+      "bgUrl": "",
+      "fontUrl": ""
     },
     "ariana": {
       "displayName": "Ariana Grande",
@@ -71,7 +80,10 @@
       "sidebarBg": "#515d7b",
       "panelBg": "rgba(26,26,34,0.7)",
       "textMain": "#FFF7FB",
-      "textDim": "#D9D2DF"
+      "textDim": "#D9D2DF",
+      "logoUrl": "Template/static/AGAA.png",
+      "bgUrl": "",
+      "fontUrl": ""
     },
     "laufey": {
       "displayName": "Laufey",
@@ -81,7 +93,10 @@
       "sidebarBg": "#261F1A",
       "panelBg": "rgba(12,20,24,0.7)",
       "textMain": "#EAF7F2",
-      "textDim": "#9FBFC6"
+      "textDim": "#9FBFC6",
+      "logoUrl": "Template/static/LFAA.png",
+      "bgUrl": "",
+      "fontUrl": ""
     },
     "olivia": {
       "displayName": "Olivia Rodrigo",
@@ -91,7 +106,10 @@
       "sidebarBg": "#1D112E",
       "panelBg": "rgba(16,16,22,0.7)",
       "textMain": "#F3F0FF",
-      "textDim": "#C9C2E6"
+      "textDim": "#C9C2E6",
+      "logoUrl": "Template/static/ORAA.png",
+      "bgUrl": "",
+      "fontUrl": ""
     },
     "conan": {
       "displayName": "Conan Gray",
@@ -101,7 +119,10 @@
       "sidebarBg": "#121217",
       "panelBg": "rgba(14,16,20,0.7)",
       "textMain": "#EAF6FF",
-      "textDim": "#BFD8EA"
+      "textDim": "#BFD8EA",
+      "logoUrl": "Template/static/CGAA.png",
+      "bgUrl": "",
+      "fontUrl": ""
     },
     "raye": {
       "displayName": "RAYE",
@@ -111,7 +132,10 @@
       "sidebarBg": "#161218",
       "panelBg": "rgba(18,16,20,0.7)",
       "textMain": "#FFF3EA",
-      "textDim": "#D9C9B8"
+      "textDim": "#D9C9B8",
+      "logoUrl": "Template/static/RYAA.png",
+      "bgUrl": "",
+      "fontUrl": ""
     },
     "pinkpantheress": {
       "displayName": "PinkPantheress",
@@ -121,7 +145,10 @@
       "sidebarBg": "#1A0F18",
       "panelBg": "rgba(22,12,18,0.7)",
       "textMain": "#FFEFF9",
-      "textDim": "#D9CFEA"
+      "textDim": "#D9CFEA",
+      "logoUrl": "",
+      "bgUrl": "",
+      "fontUrl": ""
     },
     "dev": {
       "displayName": "Developer Portal",
@@ -131,7 +158,10 @@
       "sidebarBg": "#0F1720",
       "panelBg": "rgba(18,20,24,0.6)",
       "textMain": "#E6EEF6",
-      "textDim": "#9FB0C4"
+      "textDim": "#9FB0C4",
+      "logoUrl": "Template/static/WDLogo.png",
+      "bgUrl": "",
+      "fontUrl": ""
     }
   }
 }
