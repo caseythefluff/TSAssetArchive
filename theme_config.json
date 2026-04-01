@@ -1,29 +1,138 @@
 {
-  "teal": "#8ceefc",
-  "pink": "#ff91ab",
-  "bg": "#0b0e14",
-  "sidebar": "#11151c",
-  "logoUrl": "Template/static/WebLogo.png",
-  "bgUrl": "none",
-  "bgEnabled": false,
-  "fontUrl": "",
-  "fontEnabled": false,
-  "gagaTeal": "#e75213",
-  "gagaPink": "#e88426",
-  "gagaBg": "#943b00",
-  "gagaSidebar": "#740d02",
-  "gagaLogoUrl": "Template/static/LGAALogo.png",
-  "gagaBgUrl": "",
-  "gagaBgEnabled": false,
-  "gagaFontUrl": "",
-  "gagaFontEnabled": false,
-  "webTeal": "#00ffcc",
-  "webPink": "#ff0066",
-  "webBg": "#050505",
-  "webSidebar": "#0a0a0a",
-  "webLogoUrl": "Template/static/WDLogo.png",
-  "webBgUrl": "",
-  "webBgEnabled": false,
-  "webFontUrl": "",
-  "webFontEnabled": false
+  "version": "2026-04-01",
+  "updatedBy": "casey",
+  "default": {
+    "bgMain": "#0b0e14",
+    "sidebarBg": "#11151c",
+    "panelBg": "rgba(26,31,41,0.7)",
+    "textMain": "#e2e8f0",
+    "textDim": "#94a3b8",
+    "accentPrimary": "#8ceefc",
+    "accentSecondary": "#ff91ab"
+  },
+  "tabs": {
+    "header": {
+      "bg": "var(--bg-main)",
+      "text": "var(--text-main)"
+    },
+    "sidebar": {
+      "bg": "var(--sidebar-bg)",
+      "text": "var(--text-main)"
+    },
+    "panel": {
+      "bg": "var(--panel-bg)",
+      "border": "var(--border-color)"
+    },
+    "buttons": {
+      "primary": "var(--accent-teal)",
+      "secondary": "var(--accent-pink)"
+    },
+    "lightbox": {
+      "bg": "rgba(5,7,10,0.95)",
+      "metaText": "var(--text-dim)"
+    }
+  },
+  "artists": {
+    "taylor": {
+      "displayName": "Taylor Swift",
+      "primary": "#8CEEFC",
+      "secondary": "#FF91AB",
+      "bgMain": "#0B0E14",
+      "sidebarBg": "#11151C",
+      "panelBg": "rgba(26,31,41,0.7)",
+      "textMain": "#E2E8F0",
+      "textDim": "#94A3B8"
+    },
+    "gaga": {
+      "displayName": "Lady Gaga",
+      "primary": "#D194FF",
+      "secondary": "#FF94B8",
+      "bgMain": "#140B12",
+      "sidebarBg": "#1E111C",
+      "panelBg": "rgba(30,17,28,0.75)",
+      "textMain": "#FFFFFF",
+      "textDim": "#D1C7D6"
+    },
+    "sabrina": {
+      "displayName": "Sabrina Carpenter",
+      "primary": "#FFB6C1",
+      "secondary": "#FF69B4",
+      "bgMain": "#140A0F",
+      "sidebarBg": "#1E1117",
+      "panelBg": "rgba(30,17,23,0.7)",
+      "textMain": "#F8F4FF",
+      "textDim": "#CFC7D9"
+    },
+    "ariana": {
+      "displayName": "Ariana Grande",
+      "primary": "#E6E6FA",
+      "secondary": "#DDA0DD",
+      "bgMain": "#0F0F1A",
+      "sidebarBg": "#1A1A2A",
+      "panelBg": "rgba(26,26,34,0.7)",
+      "textMain": "#FFF7FB",
+      "textDim": "#D9D2DF"
+    },
+    "laufey": {
+      "displayName": "Laufey",
+      "primary": "#A8E6CF",
+      "secondary": "#FFD3B6",
+      "bgMain": "#07121A",
+      "sidebarBg": "#0F1720",
+      "panelBg": "rgba(12,20,24,0.7)",
+      "textMain": "#EAF7F2",
+      "textDim": "#9FBFC6"
+    },
+    "olivia": {
+      "displayName": "Olivia Rodrigo",
+      "primary": "#7C4DFF",
+      "secondary": "#FF6B6B",
+      "bgMain": "#0A0A12",
+      "sidebarBg": "#14121A",
+      "panelBg": "rgba(16,16,22,0.7)",
+      "textMain": "#F3F0FF",
+      "textDim": "#C9C2E6"
+    },
+    "conan": {
+      "displayName": "Conan Gray",
+      "primary": "#9AD0FF",
+      "secondary": "#FFC9DE",
+      "bgMain": "#0B0D12",
+      "sidebarBg": "#121217",
+      "panelBg": "rgba(14,16,20,0.7)",
+      "textMain": "#EAF6FF",
+      "textDim": "#BFD8EA"
+    },
+    "raye": {
+      "displayName": "RAYE",
+      "primary": "#FFB86B",
+      "secondary": "#FF6FA3",
+      "bgMain": "#0C0B10",
+      "sidebarBg": "#161218",
+      "panelBg": "rgba(18,16,20,0.7)",
+      "textMain": "#FFF3EA",
+      "textDim": "#D9C9B8"
+    },
+    "pinkpantheress": {
+      "displayName": "PinkPantheress",
+      "primary": "#FF8FD8",
+      "secondary": "#B28CFF",
+      "bgMain": "#0D0710",
+      "sidebarBg": "#1A0F18",
+      "panelBg": "rgba(22,12,18,0.7)",
+      "textMain": "#FFEFF9",
+      "textDim": "#D9CFEA"
+    },
+    "dev": {
+      "displayName": "Developer Portal",
+      "primary": "#8CEEF C".replace(" ", ""),
+      "secondary": "#FF91AB",
+      "bgMain": "#071018",
+      "sidebarBg": "#0F1720",
+      "panelBg": "rgba(18,20,24,0.6)",
+      "textMain": "#E6EEF6",
+      "textDim": "#9FB0C4"
+    }
+  }
 }
+
