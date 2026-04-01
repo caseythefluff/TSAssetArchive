@@ -35,20 +35,20 @@
   "artists": {
     "taylor": {
       "displayName": "Taylor Swift",
-      "primary": "#8CEEFC",
-      "secondary": "#FF91AB",
-      "bgMain": "#0B0E14",
-      "sidebarBg": "#11151C",
+      "primary": "#8ceefc",
+      "secondary": "#ff91ab",
+      "bgMain": "#0b0e14",
+      "sidebarBg": "#11151c",
       "panelBg": "rgba(26,31,41,0.7)",
       "textMain": "#E2E8F0",
       "textDim": "#94A3B8"
     },
     "gaga": {
       "displayName": "Lady Gaga",
-      "primary": "#D194FF",
-      "secondary": "#FF94B8",
-      "bgMain": "#140B12",
-      "sidebarBg": "#1E111C",
+      "primary": "#ff881a",
+      "secondary": "#fff261",
+      "bgMain": "#853c00",
+      "sidebarBg": "#611300",
       "panelBg": "rgba(30,17,28,0.75)",
       "textMain": "#FFFFFF",
       "textDim": "#D1C7D6"
@@ -75,20 +75,20 @@
     },
     "laufey": {
       "displayName": "Laufey",
-      "primary": "#A8E6CF",
-      "secondary": "#FFD3B6",
-      "bgMain": "#07121A",
-      "sidebarBg": "#0F1720",
+      "primary": "#D2B48C",
+      "secondary": "#8B4513",
+      "bgMain": "#171311",
+      "sidebarBg": "#261F1A",
       "panelBg": "rgba(12,20,24,0.7)",
       "textMain": "#EAF7F2",
       "textDim": "#9FBFC6"
     },
     "olivia": {
       "displayName": "Olivia Rodrigo",
-      "primary": "#7C4DFF",
-      "secondary": "#FF6B6B",
-      "bgMain": "#0A0A12",
-      "sidebarBg": "#14121A",
+      "primary": "#9370DB",
+      "secondary": "#800080",
+      "bgMain": "#11091A",
+      "sidebarBg": "#1D112E",
       "panelBg": "rgba(16,16,22,0.7)",
       "textMain": "#F3F0FF",
       "textDim": "#C9C2E6"
@@ -125,7 +125,7 @@
     },
     "dev": {
       "displayName": "Developer Portal",
-      "primary": "#8CEEF C".replace(" ", ""),
+      "primary": "#8CEEFC",
       "secondary": "#FF91AB",
       "bgMain": "#071018",
       "sidebarBg": "#0F1720",
@@ -135,4 +135,3 @@
     }
   }
 }
-
