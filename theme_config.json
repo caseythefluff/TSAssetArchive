@@ -100,10 +100,10 @@
     },
     "olivia": {
       "displayName": "Olivia Rodrigo",
-      "primary": "#9370DB",
-      "secondary": "#800080",
-      "bgMain": "#11091A",
-      "sidebarBg": "#1D112E",
+      "primary": "#f76398",
+      "secondary": "#8a2448",
+      "bgMain": "#F2B2C9",
+      "sidebarBg": "#a3647a",
       "panelBg": "rgba(16,16,22,0.7)",
       "textMain": "#F3F0FF",
       "textDim": "#C9C2E6",
@@ -146,7 +146,7 @@
       "panelBg": "rgba(22,12,18,0.7)",
       "textMain": "#FFEFF9",
       "textDim": "#D9CFEA",
-      "logoUrl": "Template/static/PPAA.png",
+      "logoUrl": "",
       "bgUrl": "",
       "fontUrl": ""
     },
