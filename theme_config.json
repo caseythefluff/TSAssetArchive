@@ -109,7 +109,7 @@
       "textDim": "#C9C2E6",
       "logoUrl": "Template/static/ORAA.png",
       "bgUrl": "",
-      "fontUrl": ""
+      "fontUrl": "https://raw.githubusercontent.com/caseythefluff/TSAssetArchive/main/Template/fonts/JustLikeHeaven_v2.otf"
     },
     "conan": {
       "displayName": "Conan Gray",
