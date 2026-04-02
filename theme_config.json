@@ -114,9 +114,9 @@
     "conan": {
       "displayName": "Conan Gray",
       "primary": "#9AD0FF",
-      "secondary": "#FFC9DE",
-      "bgMain": "#0B0D12",
-      "sidebarBg": "#121217",
+      "secondary": "#01006d",
+      "bgMain": "#00266d",
+      "sidebarBg": "#003891",
       "panelBg": "rgba(14,16,20,0.7)",
       "textMain": "#EAF6FF",
       "textDim": "#BFD8EA",
@@ -126,7 +126,7 @@
     },
     "raye": {
       "displayName": "RAYE",
-      "primary": "#FFB86B",
+      "primary": "#28001d",
       "secondary": "#FF6FA3",
       "bgMain": "#0C0B10",
       "sidebarBg": "#161218",
