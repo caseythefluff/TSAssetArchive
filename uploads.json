@@ -70,5 +70,11 @@
     "filename": "26UMGIM39303.rgb.jpg",
     "type": "photo",
     "era": "Midnights"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/caseythefluff/TSAssetArchive/main/Template/fonts/MidwestPrincess.otf",
+    "filename": "MidwestPrincess.otf",
+    "type": "font",
+    "era": "System Asset"
   }
 ]
