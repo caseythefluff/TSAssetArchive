@@ -161,7 +161,7 @@
       "textDim": "#DDA0DD",
       "logoUrl": "Template/static/CRAA.png",
       "bgUrl": "",
-      "fontUrl": ""
+      "fontUrl": "https://raw.githubusercontent.com/caseythefluff/TSAssetArchive/main/Template/fonts/MidwestPrincess.otf"
     },
     "dev": {
       "displayName": "Developer Portal",
