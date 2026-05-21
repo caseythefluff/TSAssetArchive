@@ -76,5 +76,11 @@
     "filename": "MidwestPrincess.otf",
     "type": "font",
     "era": "System Asset"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/caseythefluff/TSAssetArchive/main/Template/static/LFAA.png",
+    "filename": "LFAA.png",
+    "type": "photo",
+    "era": "System Asset"
   }
 ]
