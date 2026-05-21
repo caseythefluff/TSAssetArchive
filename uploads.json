@@ -87,5 +87,11 @@
     "filename": "Tilda-Petite.OTF",
     "type": "font",
     "era": "System Asset"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/caseythefluff/TSAssetArchive/main/Template/fonts/IM_FELL_English_SC.ttf",
+    "filename": "IM_FELL_English_SC.ttf",
+    "type": "font",
+    "era": "System Asset"
   }
 ]
