@@ -98,5 +98,11 @@
     "filename": "robotocondensed_i7.bed9f3a01efda68cdff8b63e6195c957a0da68cb.otf",
     "type": "font",
     "era": "System Asset"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/caseythefluff/TSAssetArchive/main/Template/fonts/knewave_latin_regular_400.otf",
+    "filename": "knewave_latin_regular_400.otf",
+    "type": "font",
+    "era": "System Asset"
   }
 ]
