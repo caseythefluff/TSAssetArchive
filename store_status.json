@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-24T16:40:20.619782+00:00",
+  "timestamp": "2026-05-24T22:50:16.982171+00:00",
   "store_status_cache": {
     "US_status": false,
     "UK_status": false,
@@ -36,9 +36,7 @@
     "CHAPPELL EUR_status": false,
     "PINKPANTHERESS US_status": false,
     "PINKPANTHERESS UK_status": false,
-    "PINKPANTHERESS EU_status": false,
-    "GAGA US SHOP_status": true,
-    "GAGA LIVE_status": true
+    "PINKPANTHERESS EU_status": false
   },
   "pending_updates": {
     "CONAN AU_pending_2265455646090124596": {
@@ -54,6 +52,26 @@
     "CONAN AU_pending_-1081733413294169171": {
       "url": "https://shop.umusic.com.au/cdn/shop/files/UMA-Social-Sharing.jpg",
       "u": "2026-05-24T15:00:20.371480+00:00",
+      "status": "pending"
+    },
+    "ARIANA AU_pending_-7566792764385271144": {
+      "url": "https://shop.umusic.com.au/cdn/shop/files/UMA-Social-Sharing.jpg",
+      "u": "2026-05-24T22:37:19.076532+00:00",
+      "status": "pending"
+    },
+    "CONAN AU_pending_-7566792764385271144": {
+      "url": "https://shop.umusic.com.au/cdn/shop/files/UMA-Social-Sharing.jpg",
+      "u": "2026-05-24T22:37:19.076532+00:00",
+      "status": "pending"
+    },
+    "ARIANA AU_pending_-7635521030240586778": {
+      "url": "https://shop.umusic.com.au/cdn/shop/files/UMA-Social-Sharing.jpg",
+      "u": "2026-05-24T22:40:16.634335+00:00",
+      "status": "pending"
+    },
+    "CONAN AU_pending_-7635521030240586778": {
+      "url": "https://shop.umusic.com.au/cdn/shop/files/UMA-Social-Sharing.jpg",
+      "u": "2026-05-24T22:40:16.634335+00:00",
       "status": "pending"
     }
   }
