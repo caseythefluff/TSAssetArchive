@@ -650,7 +650,7 @@
   },
   "US_8239062089928": {
     "t": "The Life of a Showgirl French Terry Crewneck Sweatshirt",
-    "u": "2026-05-24T09:04:03-05:00",
+    "u": "2026-05-24T16:40:44-05:00",
     "v": [
       "44761189122248",
       "44761189155016",
@@ -679,7 +679,7 @@
   },
   "US_8240654319816": {
     "t": "I'm Not A Princess, This Ain't A Fairytale T-Shirt",
-    "u": "2026-05-24T09:04:03-05:00",
+    "u": "2026-05-24T16:40:44-05:00",
     "v": [
       "44766700404936",
       "44766700437704",
@@ -705,7 +705,7 @@
   },
   "US_8239060975816": {
     "t": "The Old Taylor Can't Come To The Phone Right Now \u2013 Phone Case",
-    "u": "2026-05-24T09:04:03-05:00",
+    "u": "2026-05-24T16:40:44-05:00",
     "v": [
       "44761185091784",
       "44761185124552",
@@ -729,7 +729,7 @@
   },
   "US_8238951563464": {
     "t": "The Life of a Showgirl Earbud Case",
-    "u": "2026-05-24T09:04:03-05:00",
+    "u": "2026-05-24T16:40:44-05:00",
     "v": [
       "44766161535176",
       "44766161567944"
@@ -749,7 +749,7 @@
   },
   "US_8236063555784": {
     "t": "For A Fortnight There, We Were Forever Bed Ornament",
-    "u": "2026-05-24T09:04:03-05:00",
+    "u": "2026-05-24T16:40:44-05:00",
     "v": [
       "44747166384328"
     ],
@@ -1002,7 +1002,7 @@
   },
   "UK_15182779613570": {
     "t": "The Life of a Showgirl Longsleeve Rugby T-Shirt",
-    "u": "2026-05-24T16:05:26+01:00",
+    "u": "2026-05-24T23:46:22+01:00",
     "v": [
       "55979153326466",
       "55979153359234",
@@ -1019,7 +1019,7 @@
   },
   "UK_15141621891458": {
     "t": "The Life of a Showgirl Barrette",
-    "u": "2026-05-24T16:05:26+01:00",
+    "u": "2026-05-24T23:46:22+01:00",
     "v": [
       "55796862648706"
     ],
@@ -1027,7 +1027,7 @@
   },
   "UK_15141623169410": {
     "t": "Sequins Are Forever T-Shirt Dress",
-    "u": "2026-05-24T16:05:26+01:00",
+    "u": "2026-05-24T23:46:22+01:00",
     "v": [
       "55796871823746",
       "55796871856514",
@@ -1044,7 +1044,7 @@
   },
   "UK_15141624578434": {
     "t": "The Life of a Showgirl Hair Clip",
-    "u": "2026-05-24T16:05:26+01:00",
+    "u": "2026-05-24T23:46:22+01:00",
     "v": [
       "55796877132162"
     ],
@@ -1052,7 +1052,7 @@
   },
   "UK_15141624611202": {
     "t": "The Life of a Showgirl Mint Faux Fur Coat",
-    "u": "2026-05-24T16:05:26+01:00",
+    "u": "2026-05-24T23:46:22+01:00",
     "v": [
       "55796877164930",
       "55796877197698",
@@ -1064,7 +1064,7 @@
   },
   "UK_15179236737410": {
     "t": "Big Reputation Album Bomber Jacket",
-    "u": "2026-05-24T16:05:26+01:00",
+    "u": "2026-05-24T23:46:22+01:00",
     "v": [
       "55963075314050",
       "55963075346818",
@@ -1081,7 +1081,7 @@
   },
   "UK_15179236901250": {
     "t": "Taylor Swift | The Eras Tour Microphone Set Hoodie",
-    "u": "2026-05-24T16:05:26+01:00",
+    "u": "2026-05-24T23:46:22+01:00",
     "v": [
       "55963075838338",
       "55963075871106",
@@ -1098,7 +1098,7 @@
   },
   "UK_15179237294466": {
     "t": "Speak Now (Taylor's Version) Bird Cage T-Shirt",
-    "u": "2026-05-24T16:05:26+01:00",
+    "u": "2026-05-24T23:46:22+01:00",
     "v": [
       "55963077312898",
       "55963077345666",
@@ -2021,7 +2021,7 @@
   },
   "CA_7411411746913": {
     "t": "Reputation Album Snake Hoodie",
-    "u": "2026-05-18T21:05:42-04:00",
+    "u": "2026-05-24T18:05:39-04:00",
     "v": [
       "42592740999265",
       "42592741032033",
@@ -2033,36 +2033,60 @@
       "42592741228641",
       "42592741261409",
       "42592741294177"
+    ],
+    "tags": [
+      "holiday-25",
+      "holiday-25-core",
+      "reputation holiday"
     ]
   },
   "CA_7411412009057": {
     "t": "The Old Taylor Can't Come To The Phone Right Now \u2013 Phone Case",
-    "u": "2026-05-18T21:05:42-04:00",
+    "u": "2026-05-24T18:05:39-04:00",
     "v": [
       "42592741589089",
       "42592741621857",
       "42592741654625",
       "42592741687393",
       "42592741720161"
+    ],
+    "tags": [
+      "accessories",
+      "holiday-25",
+      "holiday-25-core",
+      "phonecasetm",
+      "reputation holiday"
     ]
   },
   "CA_7411411943521": {
     "t": "Reputation Album Handbag",
-    "u": "2026-05-18T21:05:42-04:00",
+    "u": "2026-05-24T18:05:39-04:00",
     "v": [
       "42592741523553"
+    ],
+    "tags": [
+      "accessories",
+      "holiday-25",
+      "holiday-25-core",
+      "reputation holiday"
     ]
   },
   "CA_7411411910753": {
     "t": "Reputation Album Snake Ear Cuff",
-    "u": "2026-05-18T21:05:42-04:00",
+    "u": "2026-05-24T18:05:39-04:00",
     "v": [
       "42592741490785"
+    ],
+    "tags": [
+      "accessories",
+      "holiday-25",
+      "holiday-25-core",
+      "reputation holiday"
     ]
   },
   "CA_7411412172897": {
     "t": "Folklore Album Quarter Zip Up Sweater",
-    "u": "2026-05-18T21:05:42-04:00",
+    "u": "2026-05-24T18:05:39-04:00",
     "v": [
       "42592742834273",
       "42592742867041",
@@ -2072,11 +2096,16 @@
       "42592742998113",
       "42592743030881",
       "42592743063649"
+    ],
+    "tags": [
+      "folklore holiday",
+      "holiday-25",
+      "holiday-25-core"
     ]
   },
   "CA_7411412074593": {
     "t": "Folklore Album Gray Faux Shearling Jacket",
-    "u": "2026-05-18T21:05:42-04:00",
+    "u": "2026-05-24T18:05:39-04:00",
     "v": [
       "42592742080609",
       "42592742113377",
@@ -2088,13 +2117,25 @@
       "42592742309985",
       "42592742342753",
       "42592742375521"
+    ],
+    "tags": [
+      "folklore holiday",
+      "holiday-25",
+      "holiday-25-core"
     ]
   },
   "CA_7411412271201": {
     "t": "Folklore Album Ear Muffs",
-    "u": "2026-05-18T21:05:42-04:00",
+    "u": "2026-05-24T18:05:39-04:00",
     "v": [
       "42592743817313"
+    ],
+    "tags": [
+      "accessories",
+      "Ear Muffs",
+      "folklore holiday",
+      "holiday-25",
+      "holiday-25-core"
     ]
   },
   "CA_7411412238433": "My House Of Stone Your Ivy Grows Crewneck Sweatshirt",
@@ -2658,7 +2699,7 @@
   },
   "AU_7984401744029": {
     "t": "The Tortured Poets Department Gray Hoodie",
-    "u": "2026-05-19T10:35:05+10:00",
+    "u": "2026-05-25T06:26:55+10:00",
     "v": [
       "44666316751005",
       "44666316783773",
@@ -2666,11 +2707,31 @@
       "44666316849309",
       "44666316882077",
       "44666316914845"
+    ],
+    "tags": [
+      "#.bundle:8125274849437:1:2:12500:44666316751005",
+      "#.bundle:8125274849437:1:2:12500:44666316783773",
+      "#.bundle:8125274849437:1:2:12500:44666316816541",
+      "#.bundle:8125274849437:1:2:12500:44666316849309",
+      "#.bundle:8125274849437:1:2:12500:44666316882077",
+      "#.bundle:8125274849437:1:2:12500:44666316914845",
+      "10daySLA",
+      "2025FebSale",
+      "bfcm-md",
+      "BFCM25",
+      "CM2024",
+      "exflow",
+      "ImageResize",
+      "merchandise",
+      "outerwear",
+      "TAYLORAU-0071",
+      "ttpdhoodie",
+      "winterwear"
     ]
   },
   "AU_7967762317469": {
     "t": "Taylor Swift The Eras Tour Black T-Shirt, Australia",
-    "u": "2026-05-19T10:35:05+10:00",
+    "u": "2026-05-25T06:26:55+10:00",
     "v": [
       "44607764594845",
       "44607764627613",
@@ -2678,22 +2739,50 @@
       "44607764693149",
       "44607764725917",
       "44607764758685"
+    ],
+    "tags": [
+      "#.line-limit",
+      "5daySLA",
+      "EOTSALE",
+      "EOTSALEAU",
+      "exflow",
+      "localtee",
+      "Merch",
+      "oldsale",
+      "orange",
+      "TAYLORAU-0067",
+      "TAYLOTAU-0085",
+      "tour",
+      "tourcat"
     ]
   },
   "AU_7860737048733": {
     "t": "Taylor Swift Gold Rush Long Sleeve",
-    "u": "2026-05-19T10:35:05+10:00",
+    "u": "2026-05-25T06:26:55+10:00",
     "v": [
       "44130540716189",
       "44130540748957",
       "44130540781725",
       "44130540814493",
       "44130540847261"
+    ],
+    "tags": [
+      "5daySLA",
+      "ActiveFeb13",
+      "all",
+      "exflow",
+      "export",
+      "mb-invisible",
+      "Merch",
+      "soh",
+      "TAYLORAU-0062",
+      "TAYLORAU-0062r3",
+      "TAYLOTAU-0085"
     ]
   },
   "AU_8388992106653": {
     "t": "TTPD Florida!!! T-Shirt",
-    "u": "2026-05-19T10:35:05+10:00",
+    "u": "2026-05-25T06:26:55+10:00",
     "v": [
       "45742218117277",
       "45742218150045",
@@ -2701,11 +2790,23 @@
       "45742218215581",
       "45742218248349",
       "45742218281117"
+    ],
+    "tags": [
+      "10daySLA",
+      "BFCM25",
+      "exflow",
+      "holiday",
+      "ImageResize",
+      "merch",
+      "shirts",
+      "TAYLORAU-0100",
+      "TAYLORAU-0100.1",
+      "ttpdholiday"
     ]
   },
   "AU_8388992041117": {
     "t": "Blink Of A Crinkling Eye Crop T-Shirt",
-    "u": "2026-05-19T10:35:05+10:00",
+    "u": "2026-05-25T06:26:55+10:00",
     "v": [
       "45742217887901",
       "45742217920669",
@@ -2713,6 +2814,16 @@
       "45742217986205",
       "45742218018973",
       "45742218051741"
+    ],
+    "tags": [
+      "5daySLA",
+      "exflow",
+      "holiday",
+      "merch",
+      "shirts",
+      "TAYLORAU-0100",
+      "TAYLORAU-0100.1",
+      "ttpdholiday"
     ]
   },
   "AU_8388991942813": "I Love You It's Ruining My Life Sweatpants",
@@ -2722,7 +2833,7 @@
   "AU_8388989649053": "You'll Always Know Me T-Shirt",
   "UK_15179237196162": {
     "t": "Speak Now (Taylor's Version) Sparks Fly Earrings",
-    "u": "2026-05-24T16:05:26+01:00",
+    "u": "2026-05-24T23:46:22+01:00",
     "v": [
       "55963077247362"
     ],
@@ -2730,7 +2841,7 @@
   },
   "UK_15179237392770": {
     "t": "Speak Now (Taylor's Version) Black Crewneck Sweatshirt",
-    "u": "2026-05-24T16:05:26+01:00",
+    "u": "2026-05-24T23:46:22+01:00",
     "v": [
       "55963077804418",
       "55963077837186",
@@ -3003,32 +3114,48 @@
   },
   "SABRINA FRAGRANCE_9761552105767": {
     "t": "SWEET TOOTH EAU DE PARFUM",
-    "u": "2026-05-18T21:08:50-04:00",
+    "u": "2026-05-24T18:46:16-04:00",
     "v": [
       "49815538893095",
       "49815538925863"
+    ],
+    "tags": [
+      "EU",
+      "SCENT BEAUTY"
     ]
   },
   "SABRINA FRAGRANCE_9761551778087": {
     "t": "CARAMEL DREAM BODY MIST",
-    "u": "2026-05-18T21:08:50-04:00",
+    "u": "2026-05-24T18:46:16-04:00",
     "v": [
       "49815537451303"
+    ],
+    "tags": [
+      "EU",
+      "SCENT BEAUTY"
     ]
   },
   "SABRINA FRAGRANCE_9761551581479": {
     "t": "CARAMEL DREAM EAU DE PARFUM",
-    "u": "2026-05-18T21:08:50-04:00",
+    "u": "2026-05-24T18:46:16-04:00",
     "v": [
       "49815537058087",
       "49815537090855"
+    ],
+    "tags": [
+      "EU",
+      "SCENT BEAUTY"
     ]
   },
   "SABRINA FRAGRANCE_9761552761127": {
     "t": "CHERRY BABY BODY MIST",
-    "u": "2026-05-18T21:08:50-04:00",
+    "u": "2026-05-24T18:46:16-04:00",
     "v": [
       "49815544430887"
+    ],
+    "tags": [
+      "SCENT BEAUTY",
+      "UK"
     ]
   },
   "SABRINA FRAGRANCE_9761552630055": {
@@ -3145,7 +3272,7 @@
   },
   "UK_15179237884290": {
     "t": "You Belong With Me Junior Jewels Crewneck Sweatshirt",
-    "u": "2026-05-24T16:05:26+01:00",
+    "u": "2026-05-24T23:46:22+01:00",
     "v": [
       "55963079475586",
       "55963079508354",
@@ -4681,53 +4808,77 @@
   },
   "FR_15437556285824": {
     "t": "The Life of a Showgirl Bathrobe",
-    "u": "2026-04-07T17:22:23+02:00",
+    "u": "2026-05-25T00:46:20+02:00",
     "v": [
       "56897221165440",
       "56897221198208",
       "56897221230976",
       "56897221263744",
       "56897221296512"
+    ],
+    "tags": [
+      "holihotel",
+      "oli52"
     ]
   },
   "FR_15437556253056": {
     "t": "The Life of a Showgirl Laundry Bag Backpack",
-    "u": "2026-04-07T17:22:23+02:00",
+    "u": "2026-05-25T00:46:20+02:00",
     "v": [
       "56897221099904"
+    ],
+    "tags": [
+      "holihotel",
+      "oli52"
     ]
   },
   "FR_15437556187520": {
     "t": "The Life of a Showgirl Notepad and Tray",
-    "u": "2026-04-07T17:22:23+02:00",
+    "u": "2026-05-25T00:46:20+02:00",
     "v": [
       "56897221034368"
+    ],
+    "tags": [
+      "holihotel",
+      "oli52"
     ]
   },
   "FR_15437556154752": {
     "t": "The Life of a Showgirl Flat Weave Towel",
-    "u": "2026-04-07T17:22:23+02:00",
+    "u": "2026-05-25T00:46:20+02:00",
     "v": [
       "56897221001600"
+    ],
+    "tags": [
+      "holihotel",
+      "oli52"
     ]
   },
   "FR_15437556089216": {
     "t": "The Life of a Showgirl Duffel Bag",
-    "u": "2026-04-07T17:22:23+02:00",
+    "u": "2026-05-25T00:46:20+02:00",
     "v": [
       "56897220772224"
+    ],
+    "tags": [
+      "holihotel",
+      "oli52"
     ]
   },
   "FR_15437556056448": {
     "t": "The Life of a Showgirl Keychain",
-    "u": "2026-04-07T17:22:23+02:00",
+    "u": "2026-05-25T00:46:20+02:00",
     "v": [
       "56897220739456"
+    ],
+    "tags": [
+      "holihotel",
+      "oli52"
     ]
   },
   "FR_15437555925376": {
     "t": "The Life of a Showgirl French Terry Shorts",
-    "u": "2026-04-07T17:22:23+02:00",
+    "u": "2026-05-25T00:46:20+02:00",
     "v": [
       "56897220084096",
       "56897220116864",
@@ -4739,11 +4890,15 @@
       "56897220313472",
       "56897220346240",
       "56897220379008"
+    ],
+    "tags": [
+      "holihotel",
+      "oli52"
     ]
   },
   "FR_15437555892608": {
     "t": "The Life of a Showgirl French Terry Crewneck Sweatshirt",
-    "u": "2026-04-07T17:22:23+02:00",
+    "u": "2026-05-25T00:46:20+02:00",
     "v": [
       "56897219756416",
       "56897219789184",
@@ -4755,18 +4910,28 @@
       "56897219985792",
       "56897220018560",
       "56897220051328"
+    ],
+    "tags": [
+      "holihotel",
+      "oli52"
     ]
   },
   "FR_15433096561024": {
     "t": "The Life of a Showgirl Candle",
-    "u": "2026-04-07T17:22:23+02:00",
+    "u": "2026-05-25T00:46:20+02:00",
     "v": [
       "56877770703232"
+    ],
+    "tags": [
+      "holiacc",
+      "holicore",
+      "holiloas",
+      "oli52"
     ]
   },
   "FR_15432623292800": {
     "t": "Who Could Ever Leave Me Darling? Crewneck Sweatshirt",
-    "u": "2026-04-07T17:22:23+02:00",
+    "u": "2026-05-25T00:46:20+02:00",
     "v": [
       "56875725160832",
       "56875725193600",
@@ -4778,11 +4943,17 @@
       "56875725390208",
       "56875725422976",
       "56875725455744"
+    ],
+    "tags": [
+      "holicore",
+      "holicrew",
+      "holilove",
+      "oli52"
     ]
   },
   "FR_15368347812224": {
     "t": "Sequins Are Forever T-Shirt Dress",
-    "u": "2026-04-07T17:22:23+02:00",
+    "u": "2026-05-25T00:46:20+02:00",
     "v": [
       "56669456368000",
       "56669456400768",
@@ -4794,6 +4965,11 @@
       "56669456597376",
       "56669456630144",
       "56669456662912"
+    ],
+    "tags": [
+      "enable-size-chart",
+      "firstfall",
+      "firstfall-lot4"
     ]
   },
   "CA_7411412631649": {
@@ -4859,7 +5035,7 @@
   },
   "EU_14985085485432": {
     "t": "Folklore Album Gray Faux Shearling Jacket",
-    "u": "2026-04-07T17:05:09+02:00",
+    "u": "2026-05-24T22:04:25+02:00",
     "v": [
       "55358378475896",
       "55358378508664",
@@ -4871,11 +5047,15 @@
       "55358378705272",
       "55358378738040",
       "55358378770808"
+    ],
+    "tags": [
+      "bis_exclude",
+      "holiday-25"
     ]
   },
   "EU_14985088172408": {
     "t": "I'm Not A Princess, This Ain't A Fairytale T-Shirt",
-    "u": "2026-04-07T17:05:09+02:00",
+    "u": "2026-05-24T22:04:25+02:00",
     "v": [
       "55358388240760",
       "55358388273528",
@@ -4887,6 +5067,10 @@
       "55358388470136",
       "55358388502904",
       "55358388535672"
+    ],
+    "tags": [
+      "bis_exclude",
+      "holiday-25"
     ]
   },
   "CONAN STORE_7548042379323": {
@@ -5150,7 +5334,7 @@
   },
   "US_8235160633544": {
     "t": "Taylor Swift | The Eras Tour Microphone Set Hoodie",
-    "u": "2026-05-24T09:04:03-05:00",
+    "u": "2026-05-24T16:40:44-05:00",
     "v": [
       "44744339685576",
       "44744339718344",
@@ -5702,42 +5886,85 @@
   },
   "LAUFEY US_9275369586925": {
     "t": "A Matter of Time: The Final Hour - Cassette",
-    "u": "2026-04-07T09:19:04-05:00",
+    "u": "2026-05-24T15:17:20-05:00",
     "v": [
       "49391283896557"
+    ],
+    "tags": [
+      "all-laufey",
+      "cassette",
+      "media",
+      "media-laufey",
+      "music",
+      "the final hour",
+      "townsend"
     ]
   },
   "LAUFEY US_9275368505581": {
     "t": "A Matter of Time: The Final Hour - CD",
-    "u": "2026-04-07T09:19:04-05:00",
+    "u": "2026-05-24T15:17:20-05:00",
     "v": [
       "49391275376877"
+    ],
+    "tags": [
+      "all-laufey",
+      "cd",
+      "media",
+      "media-laufey",
+      "music",
+      "the final hour",
+      "townsend"
     ]
   },
   "LAUFEY US_9275360870637": {
     "t": "A Matter of Time: The Final Hour - Webstore Exclusive Dreamsicle 2LP Vinyl",
-    "u": "2026-04-07T09:19:04-05:00",
+    "u": "2026-05-24T15:17:20-05:00",
     "v": [
       "49391229665517"
+    ],
+    "tags": [
+      "all-laufey",
+      "media",
+      "media-laufey",
+      "music",
+      "the final hour",
+      "townsend",
+      "vinyl"
     ]
   },
   "LAUFEY US_9275358183661": {
     "t": "A Matter of Time: The Final Hour - Watercolor 2LP Vinyl",
-    "u": "2026-04-07T09:19:04-05:00",
+    "u": "2026-05-24T15:17:20-05:00",
     "v": [
       "49391213740269"
+    ],
+    "tags": [
+      "all-laufey",
+      "media",
+      "media-laufey",
+      "music",
+      "the final hour",
+      "townsend",
+      "vinyl"
     ]
   },
   "LAUFEY US_8379526349037": {
     "t": "Valentine Cards (Set of 5)",
-    "u": "2026-04-07T09:19:04-05:00",
+    "u": "2026-05-24T15:17:20-05:00",
     "v": [
       "44998302367981"
+    ],
+    "tags": [
+      "accessories",
+      "accessories-laufey",
+      "all-laufey",
+      "stationery",
+      "valentine"
     ]
   },
   "LAUFEY US_8789471527149": {
     "t": "Bewitched Tour Logo Tee",
-    "u": "2026-04-07T09:19:04-05:00",
+    "u": "2026-05-24T15:17:20-05:00",
     "v": [
       "46833034199277",
       "46833034232045",
@@ -5745,62 +5972,107 @@
       "46833034395885",
       "46833034428653",
       "46833034461421"
+    ],
+    "tags": [
+      "all",
+      "all-laufey",
+      "apparel",
+      "apparel-laufey",
+      "bewitched",
+      "bewitched tour",
+      "sample",
+      "t-shirt",
+      "tour"
     ]
   },
   "LAUFEY US_8789466808557": {
     "t": "Bewitched Tour Logo Baby Tee",
-    "u": "2026-04-07T09:19:04-05:00",
+    "u": "2026-05-24T15:17:20-05:00",
     "v": [
       "46833010016493",
       "46833010049261",
       "46833010082029",
       "46833010114797",
       "46833010147565"
+    ],
+    "tags": [
+      "bewitched tour",
+      "goddess tour",
+      "sample",
+      "tour",
+      "tour tee"
     ]
   },
   "LAUFEY US_8379532935405": {
     "t": "Twin Flame Candlesticks (Set of 2)",
-    "u": "2026-04-07T09:19:04-05:00",
+    "u": "2026-05-24T15:17:20-05:00",
     "v": [
       "44998338117869"
+    ],
+    "tags": [
+      "accessories",
+      "accessories-laufey",
+      "all-laufey",
+      "candles",
+      "sample",
+      "upsell",
+      "valentine"
     ]
   },
   "LAUFEY US_8297155264749": {
     "t": "Bewitched White Tour Tee",
-    "u": "2026-04-07T09:19:04-05:00",
+    "u": "2026-05-24T15:17:20-05:00",
     "v": [
       "44476234203373",
       "44476234236141",
       "44476234268909",
       "44476234301677",
       "44476234334445"
+    ],
+    "tags": [
+      "bewitched tour",
+      "sample",
+      "tour",
+      "tour t-shirt"
     ]
   },
   "LAUFEY US_8297144320237": {
     "t": "Bewitched 2023 Navy Tour Tee",
-    "u": "2026-04-07T09:19:04-05:00",
+    "u": "2026-05-24T15:17:20-05:00",
     "v": [
       "44476198420717",
       "44476198453485",
       "44476198486253",
       "44476198519021",
       "44476198551789"
+    ],
+    "tags": [
+      "bewitched tour",
+      "sample",
+      "tour",
+      "tour t-shirt"
     ]
   },
   "LAUFEY US_8235272667373": {
     "t": "Bewitched Tour Tank",
-    "u": "2026-04-07T09:19:04-05:00",
+    "u": "2026-05-24T15:17:20-05:00",
     "v": [
       "44285427581165",
       "44285427613933",
       "44285427646701",
       "44285427679469",
       "44285427712237"
+    ],
+    "tags": [
+      "bewitched tour",
+      "sample",
+      "tour",
+      "tour tank"
     ]
   },
   "LAUFEY US_9180741927149": {
     "t": "Embroidered Signature Hoodie - Navy",
-    "u": "2026-04-07T09:19:04-05:00",
+    "u": "2026-05-24T15:17:20-05:00",
     "v": [
       "48992125419757",
       "48992125452525",
@@ -5808,38 +6080,83 @@
       "48992125518061",
       "48992125550829",
       "48992125583597"
+    ],
+    "tags": [
+      "all-laufey",
+      "ambient",
+      "apparel",
+      "apparel-laufey",
+      "hoodie",
+      "signature",
+      "townsend"
     ]
   },
   "LAUFEY US_8297282470125": {
     "t": "Bewitched Tour Tote",
-    "u": "2026-04-07T09:19:04-05:00",
+    "u": "2026-05-24T15:17:20-05:00",
     "v": [
       "44476665987309"
+    ],
+    "tags": [
+      "bewitched tour",
+      "sample",
+      "tour",
+      "tour tote"
     ]
   },
   "LAUFEY US_9247193628909": {
     "t": "Strawberry Zip Hoodie",
-    "u": "2026-04-07T09:19:04-05:00",
+    "u": "2026-05-24T15:17:20-05:00",
     "v": [
       "49259799052525",
       "49259799085293",
       "49259799118061",
       "49259799150829",
       "49259799183597"
+    ],
+    "tags": [
+      "2026",
+      "all-laufey",
+      "apparel",
+      "apparel-laufey",
+      "hoodie",
+      "strawberry matcha",
+      "zip hoodie"
     ]
   },
   "LAUFEY US_9244711059693": {
     "t": "Strawberry Ice Mold",
-    "u": "2026-04-07T09:19:04-05:00",
+    "u": "2026-05-24T15:17:20-05:00",
     "v": [
       "49251475685613"
+    ],
+    "tags": [
+      "2026",
+      "accessories",
+      "accessories-laufey",
+      "all-laufey",
+      "drinkware",
+      "merch",
+      "strawberry matcha"
     ]
   },
   "LAUFEY US_9247197659373": {
     "t": "Valentine - Strawberry Matcha Heart-Shaped Vinyl",
-    "u": "2026-04-07T09:19:04-05:00",
+    "u": "2026-05-24T15:17:20-05:00",
     "v": [
       "49259832574189"
+    ],
+    "tags": [
+      "2026",
+      "EIKAL",
+      "media",
+      "media-laufey",
+      "music",
+      "sample",
+      "strawberry matcha",
+      "townsend",
+      "valentine",
+      "vinyl"
     ]
   },
   "LAUFEY US_9247189205229": {
@@ -5883,9 +6200,15 @@
   },
   "SABRINA US_14891630854509": {
     "t": "Oh so, oh so, oh so hot! Matches",
-    "u": "2026-04-07T10:58:22-04:00",
+    "u": "2026-05-24T12:02:17-04:00",
     "v": [
       "53024460439917"
+    ],
+    "tags": [
+      "BDAY27",
+      "MBF",
+      "SABR-00032",
+      "wh_cycle_count"
     ]
   },
   "SABRINA US_14891630821741": {
@@ -5906,20 +6229,31 @@
   },
   "SABRINA US_14891630788973": {
     "t": "Naked Twister Red Baby Tee",
-    "u": "2026-04-07T10:58:22-04:00",
+    "u": "2026-05-24T12:02:17-04:00",
     "v": [
       "53024460112237",
       "53024460145005",
       "53024460177773",
       "53024460210541",
       "53024460243309"
+    ],
+    "tags": [
+      "BDAY27",
+      "MBF",
+      "SABR-00032",
+      "wh_cycle_count"
     ]
   },
   "SABRINA US_14891630756205": {
     "t": "House Tour Door Mat",
-    "u": "2026-04-07T10:58:22-04:00",
+    "u": "2026-05-24T12:02:17-04:00",
     "v": [
       "53024460079469"
+    ],
+    "tags": [
+      "MBF",
+      "SABR-00032",
+      "wh_cycle_count"
     ]
   },
   "SABRINA US_14891630723437": {
@@ -6380,16 +6714,22 @@
   },
   "RAYE US_7856061743244": {
     "t": "Genesis | Pink Light Candle + Matches",
-    "u": "2026-04-07T08:22:23-07:00",
+    "u": "2026-05-24T15:46:24-07:00",
     "v": [
       "43100354969740"
+    ],
+    "tags": [
+      "GENESIS"
     ]
   },
   "RAYE US_7933444882572": {
     "t": "My 21st Century Blues | Cassette",
-    "u": "2026-04-07T08:22:23-07:00",
+    "u": "2026-05-24T15:46:24-07:00",
     "v": [
       "43293113352332"
+    ],
+    "tags": [
+      "GENESIS"
     ]
   },
   "CONAN US_7574101327931": {
@@ -6536,86 +6876,169 @@
   },
   "CONAN US_7488870973499": {
     "t": "Wishbone Flannel Pajama Shorts",
-    "u": "2026-05-18T21:08:50-04:00",
+    "u": "2026-05-24T18:47:17-04:00",
     "v": [
       "42609716723771",
       "42609716756539",
       "42609716789307",
       "42609716822075",
       "42609716854843"
+    ],
+    "tags": [
+      "BFCM2025",
+      "conanapparel",
+      "conanmerch",
+      "GRAY-00012",
+      "WH_CYCLE_COUNT",
+      "wishbone"
     ]
   },
   "CONAN US_7488870940731": {
     "t": "CG Clover T-Shirt",
-    "u": "2026-05-18T21:08:50-04:00",
+    "u": "2026-05-24T18:47:17-04:00",
     "v": [
       "42609716297787",
       "42609716330555",
       "42609716363323",
       "42609716396091",
       "42609716428859"
+    ],
+    "tags": [
+      "BFCM2025",
+      "conanapparel",
+      "conanmerch",
+      "GRAY-00012",
+      "Shirts",
+      "WH_CYCLE_COUNT",
+      "wishbone"
     ]
   },
   "CONAN US_7488870875195": {
     "t": "Wishbone Breaking Keychain",
-    "u": "2026-05-18T21:08:50-04:00",
+    "u": "2026-05-24T18:47:17-04:00",
     "v": [
       "42609716232251"
+    ],
+    "tags": [
+      "accessories",
+      "BFCM2025",
+      "conanapparel",
+      "conanmerch",
+      "GRAY-00012",
+      "WH_CYCLE_COUNT",
+      "wishbone"
     ]
   },
   "CONAN US_7488870842427": {
     "t": "Wishbone Blue Striped Robe",
-    "u": "2026-05-18T21:08:50-04:00",
+    "u": "2026-05-24T18:47:17-04:00",
     "v": [
       "42609715413051",
       "42609715445819",
       "42609715478587",
       "42609715511355",
       "42609715544123"
+    ],
+    "tags": [
+      "accessories",
+      "bestsellers",
+      "BFCM2025",
+      "conanapparel",
+      "conanmerch",
+      "GRAY-00012",
+      "WH_CYCLE_COUNT",
+      "wishbone"
     ]
   },
   "CONAN US_7436114526267": {
     "t": "WBSC Mini Pennant Flag",
-    "u": "2026-05-18T21:08:50-04:00",
+    "u": "2026-05-24T18:47:17-04:00",
     "v": [
       "42387373981755"
+    ],
+    "tags": [
+      "accessories",
+      "BFCM2025",
+      "conanapparel",
+      "TWOTAILS-00020",
+      "WH_CYCLE_COUNT",
+      "wishbone"
     ]
   },
   "CONAN US_7436114460731": {
     "t": "WBSC Logo T-Shirt",
-    "u": "2026-05-18T21:08:50-04:00",
+    "u": "2026-05-24T18:47:17-04:00",
     "v": [
       "42387373785147",
       "42387373817915",
       "42387373850683",
       "42387373883451",
       "42387373916219"
+    ],
+    "tags": [
+      "BFCM2025",
+      "conanapparel",
+      "Shirts",
+      "TWOTAILS-00020",
+      "WH_CYCLE_COUNT",
+      "wishbone"
     ]
   },
   "CONAN US_7431706869819": {
     "t": "Wishbone CD (featuring illustration by Conan)",
-    "u": "2026-05-18T21:08:50-04:00",
+    "u": "2026-05-24T18:47:17-04:00",
     "v": [
       "42365873127483"
+    ],
+    "tags": [
+      "BFCM2025",
+      "CD",
+      "conanmusic",
+      "music-product",
+      "TWOTAILS-00019",
+      "WH_CYCLE_COUNT",
+      "wishbone",
+      "wishbonemusic"
     ]
   },
   "CONAN US_7429043585083": {
     "t": "Olivia Rodrigo x Conan Gray Friendship Necklace Set",
-    "u": "2026-05-18T21:08:50-04:00",
+    "u": "2026-05-24T18:47:17-04:00",
     "v": [
       "42354261426235"
+    ],
+    "tags": [
+      "Accessories",
+      "BFCM2025",
+      "conanapparel",
+      "conanmerch",
+      "TWOTAILS-00018",
+      "WH_CYCLE_COUNT"
     ]
   },
   "CONAN US_7427887497275": {
     "t": "Wishbone Hat",
-    "u": "2026-05-18T21:08:50-04:00",
+    "u": "2026-05-24T18:47:17-04:00",
     "v": [
       "42348389924923"
+    ],
+    "tags": [
+      "accessories",
+      "bestsellers",
+      "bfcm-20merch",
+      "BFCM-MERCH",
+      "BFCM2025",
+      "Conan Merch",
+      "conanapparel",
+      "conanmerch",
+      "TWOTAILS-00012",
+      "WH_CYCLE_COUNT",
+      "Wishbone"
     ]
   },
   "CONAN US_7427887464507": {
     "t": "Wishbone Pajama Shorts",
-    "u": "2026-05-18T21:08:50-04:00",
+    "u": "2026-05-24T18:47:17-04:00",
     "v": [
       "42348389728315",
       "42348389761083",
@@ -6623,27 +7046,74 @@
       "42348389826619",
       "42348389859387",
       "42348389892155"
+    ],
+    "tags": [
+      "accessories",
+      "BFCM2025",
+      "Conan Merch",
+      "conanapparel",
+      "conanmerch",
+      "TWOTAILS-00012",
+      "WH_CYCLE_COUNT",
+      "Wishbone"
     ]
   },
   "CONAN US_7427887431739": {
     "t": "Wishbone Keychain",
-    "u": "2026-05-18T21:08:50-04:00",
+    "u": "2026-05-24T18:47:17-04:00",
     "v": [
       "42348389695547"
+    ],
+    "tags": [
+      "accessories",
+      "bestsellers",
+      "bfcm-20merch",
+      "BFCM-MERCH",
+      "BFCM2025",
+      "Conan Merch",
+      "conanapparel",
+      "conanmerch",
+      "TWOTAILS-00012",
+      "WH_CYCLE_COUNT",
+      "Wishbone"
     ]
   },
   "CONAN US_7427887398971": {
     "t": "Clovers Crossword Mug",
-    "u": "2026-05-18T21:08:50-04:00",
+    "u": "2026-05-24T18:47:17-04:00",
     "v": [
       "42348389662779"
+    ],
+    "tags": [
+      "accessories",
+      "bfcm-20merch",
+      "BFCM-MERCH",
+      "BFCM2025",
+      "Conan Merch",
+      "conanapparel",
+      "conanmerch",
+      "TWOTAILS-00012",
+      "WH_CYCLE_COUNT",
+      "Wishbone"
     ]
   },
   "CONAN US_7427887366203": {
     "t": "Wishbone Vinyl Frame",
-    "u": "2026-05-18T21:08:50-04:00",
+    "u": "2026-05-24T18:47:17-04:00",
     "v": [
       "42348389630011"
+    ],
+    "tags": [
+      "accessories",
+      "bfcm-20merch",
+      "BFCM-MERCH",
+      "BFCM2025",
+      "Conan Merch",
+      "conanapparel",
+      "conanmerch",
+      "TWOTAILS-00012",
+      "WH_CYCLE_COUNT",
+      "Wishbone"
     ]
   },
   "CONAN US_7427887333435": {
@@ -7283,72 +7753,127 @@
   },
   "GAGA AU_6785502871717": {
     "t": "Born This Way The Tenth Anniversary 2CD",
-    "u": "2026-04-08T01:22:23+10:00",
+    "u": "2026-05-25T08:46:21+10:00",
     "v": [
       "39976889942181"
+    ],
+    "tags": [
+      "LADY-02",
+      "mb-invisible",
+      "music-product",
+      "promise-date-03-09-2021"
     ]
   },
   "GAGA AU_6581955854501": {
     "t": "Cheek To Cheek CD",
-    "u": "2026-04-08T01:22:23+10:00",
+    "u": "2026-05-25T08:46:21+10:00",
     "v": [
       "39405982875813"
+    ],
+    "tags": [
+      "LADY-01",
+      "mb-invisible",
+      "music-product"
     ]
   },
   "GAGA AU_6581909979301": {
     "t": "A Star Is Born CD",
-    "u": "2026-04-08T01:22:23+10:00",
+    "u": "2026-05-25T08:46:21+10:00",
     "v": [
       "39405632422053"
+    ],
+    "tags": [
+      "LADY-01",
+      "mb-invisible",
+      "music-product"
     ]
   },
   "GAGA AU_6581892317349": {
     "t": "The Fame CD",
-    "u": "2026-04-08T01:22:23+10:00",
+    "u": "2026-05-25T08:46:21+10:00",
     "v": [
       "39405508067493"
+    ],
+    "tags": [
+      "LADY-01",
+      "mb-invisible",
+      "music-product"
     ]
   },
   "GAGA AU_6581878423717": {
     "t": "The Fame Monster Deluxe 2CD",
-    "u": "2026-04-08T01:22:23+10:00",
+    "u": "2026-05-25T08:46:21+10:00",
     "v": [
       "39405408157861"
+    ],
+    "tags": [
+      "LADY-01",
+      "mb-invisible",
+      "music-product"
     ]
   },
   "GAGA AU_6581867348133": {
     "t": "Joanne CD",
-    "u": "2026-04-08T01:22:23+10:00",
+    "u": "2026-05-25T08:46:21+10:00",
     "v": [
       "39405327188133"
+    ],
+    "tags": [
+      "LADY-01",
+      "mb-invisible",
+      "music-product"
     ]
   },
   "GAGA AU_6581852012709": {
     "t": "Chromatica Exclusive Picture Disc",
-    "u": "2026-04-08T01:22:23+10:00",
+    "u": "2026-05-25T08:46:21+10:00",
     "v": [
       "39405214007461"
+    ],
+    "tags": [
+      "gaga-umusic",
+      "LADY-01",
+      "mb-invisible",
+      "music-product"
     ]
   },
   "GAGA AU_6581828190373": {
     "t": "Chromatica Deluxe CD",
-    "u": "2026-04-08T01:22:23+10:00",
+    "u": "2026-05-25T08:46:21+10:00",
     "v": [
       "39405039321253"
+    ],
+    "tags": [
+      "gaga-umusic",
+      "LADY-01",
+      "mb-invisible",
+      "music-product"
     ]
   },
   "GAGA AU_6581813412005": {
     "t": "Chromatica Cassette 3",
-    "u": "2026-04-08T01:22:23+10:00",
+    "u": "2026-05-25T08:46:21+10:00",
     "v": [
       "39404926369957"
+    ],
+    "tags": [
+      "gaga-umusic",
+      "LADY-01",
+      "mb-invisible",
+      "music-product"
     ]
   },
   "GAGA AU_6581799288997": {
     "t": "Chromatica Cassette 2",
-    "u": "2026-04-08T01:22:23+10:00",
+    "u": "2026-05-25T08:46:21+10:00",
     "v": [
       "39404798902437"
+    ],
+    "tags": [
+      "gaga-umusic",
+      "LADY-01",
+      "mb-invisible",
+      "music-product"
     ]
   },
   "SABRINA AU_7244579602512": {
@@ -7474,111 +7999,203 @@
   },
   "SABRINA AU_7186953273424": {
     "t": "Man's Best Friend D2C Picture Disc",
-    "u": "2026-05-19T11:08:50+10:00",
+    "u": "2026-05-25T08:46:21+10:00",
     "v": [
       "41201070571600"
+    ],
+    "tags": [
+      "29/08/25",
+      "limitededition&exclusives",
+      "music",
+      "music-product",
+      "promise-date-26-09-2025",
+      "SABAU-0022"
     ]
   },
   "SABRINA AU_7186953207888": {
     "t": "Man's Best Friend Standard LP",
-    "u": "2026-05-19T11:08:50+10:00",
+    "u": "2026-05-25T08:46:21+10:00",
     "v": [
       "41201070506064"
+    ],
+    "tags": [
+      "29/08/25",
+      "music",
+      "music-product",
+      "promise-date-26-09-2025",
+      "SABAU-0022"
     ]
   },
   "SABRINA AU_7186953175120": {
     "t": "Man's Best Friend Standard CD",
-    "u": "2026-05-19T11:08:50+10:00",
+    "u": "2026-05-25T08:46:21+10:00",
     "v": [
       "41201070473296"
+    ],
+    "tags": [
+      "29/08/25",
+      "CD",
+      "music",
+      "music-product",
+      "promise-date-12-09-2025",
+      "SABAU-0022"
     ]
   },
   "SABRINA AU_7185907679312": {
     "t": "Honk If You're Stupid! Bumper Sticker",
-    "u": "2026-05-19T11:08:50+10:00",
+    "u": "2026-05-25T08:46:21+10:00",
     "v": [
       "41197572620368"
+    ],
+    "tags": [
+      "Accessories",
+      "Merch",
+      "promise-date-25-07-2025",
+      "SABAU-0021"
     ]
   },
   "SABRINA AU_7185907613776": {
     "t": "Manchild Patch Hat",
-    "u": "2026-05-19T11:08:50+10:00",
+    "u": "2026-05-25T08:46:21+10:00",
     "v": [
       "41197572522064"
+    ],
+    "tags": [
+      "Accessories",
+      "Merch",
+      "promise-date-08-08-2025",
+      "SABAU-0021"
     ]
   },
   "SABRINA AU_7185907482704": {
     "t": "Manchild Rhinestone T-Shirt",
-    "u": "2026-05-19T11:08:50+10:00",
+    "u": "2026-05-25T08:46:21+10:00",
     "v": [
       "41197572128848",
       "41197572161616",
       "41197572194384",
       "41197572227152",
       "41197572259920"
+    ],
+    "tags": [
+      "Merch",
+      "promise-date-25-07-2025",
+      "SABAU-0021"
     ]
   },
   "SABRINA AU_7185907417168": {
     "t": "Honk If You're Stupid! Hoodie",
-    "u": "2026-05-19T11:08:50+10:00",
+    "u": "2026-05-25T08:46:21+10:00",
     "v": [
       "41197571768400",
       "41197571801168",
       "41197571833936",
       "41197571866704",
       "41197571899472"
+    ],
+    "tags": [
+      "Merch",
+      "promise-date-01-08-2025",
+      "SABAU-0021"
     ]
   },
   "SABRINA AU_7185907351632": {
     "t": "I Swear They Choose Me T-Shirt",
-    "u": "2026-05-19T11:08:50+10:00",
+    "u": "2026-05-25T08:46:21+10:00",
     "v": [
       "41197571571792",
       "41197571604560",
       "41197571637328",
       "41197571670096",
       "41197571702864"
+    ],
+    "tags": [
+      "Merch",
+      "promise-date-01-08-2025",
+      "SABAU-0021"
     ]
   },
   "SABRINA AU_7185907318864": {
     "t": "Manchild Photo T-Shirt",
-    "u": "2026-05-19T11:08:50+10:00",
+    "u": "2026-05-25T08:46:21+10:00",
     "v": [
       "41197571342416",
       "41197571375184",
       "41197571407952",
       "41197571440720",
       "41197571473488"
+    ],
+    "tags": [
+      "Merch",
+      "promise-date-29-08-2025",
+      "SABAU-0021"
     ]
   },
   "SABRINA AU_7185389617232": {
     "t": "Manchild (7\" Single)",
-    "u": "2026-05-19T11:08:50+10:00",
+    "u": "2026-05-25T08:46:21+10:00",
     "v": [
       "41194670293072"
+    ],
+    "tags": [
+      "coloured",
+      "femaleartists",
+      "flag: PRE-ORDER",
+      "music",
+      "music-product",
+      "new release",
+      "new releases",
+      "pop",
+      "pre-order",
+      "pre-orders",
+      "promise-date-06-06-2025",
+      "SABAU-0020",
+      "sabrinacarpenteralacarte",
+      "sabumusic",
+      "TBC"
     ]
   },
   "SABRINA AU_7172123721808": {
     "t": "espresso martini crewneck",
-    "u": "2026-05-19T11:08:50+10:00",
+    "u": "2026-05-25T08:46:21+10:00",
     "v": [
       "41160895561808",
       "41160895594576",
       "41160895627344",
       "41160895660112",
       "41160895692880"
+    ],
+    "tags": [
+      "bravado",
+      "catalogue",
+      "femaleartists",
+      "merch",
+      "SABAU-0013",
+      "SABRINAAU-0001.1"
     ]
   },
   "SABRINA AU_7156789117008": {
     "t": "Don't Embarrass Me Trucker Hat",
-    "u": "2026-05-19T11:08:50+10:00",
+    "u": "2026-05-25T08:46:21+10:00",
     "v": [
       "41100117016656"
+    ],
+    "tags": [
+      "Accessories",
+      "cat: sabrina-carpenter",
+      "catalogue",
+      "femaleartists",
+      "Merch",
+      "SABAU-0005",
+      "SABRINAAU-0001.1",
+      "sabrinacarpenteralacarte",
+      "sabumusic",
+      "umusicexport"
     ]
   },
   "SABRINA AU_7156789084240": {
     "t": "Lingerie Tee",
-    "u": "2026-05-19T11:08:50+10:00",
+    "u": "2026-05-25T08:46:21+10:00",
     "v": [
       "41100116820048",
       "41100116852816",
@@ -7586,46 +8203,104 @@
       "41100116918352",
       "41100116951120",
       "41100116983888"
+    ],
+    "tags": [
+      "cat: sabrina-carpenter",
+      "catalogue",
+      "femaleartists",
+      "Merch",
+      "SABAU-0004",
+      "SABRINAAU-0001.1",
+      "sabrinacarpenteralacarte",
+      "sabumusic",
+      "T-Shirt",
+      "umusicexport"
     ]
   },
   "SABRINA AU_7156789051472": {
     "t": "espresso photo tee",
-    "u": "2026-05-19T11:08:50+10:00",
+    "u": "2026-05-25T08:46:21+10:00",
     "v": [
       "41100116656208",
       "41100116688976",
       "41100116721744",
       "41100116754512",
       "41100116787280"
+    ],
+    "tags": [
+      "cat: sabrina-carpenter",
+      "femaleartists",
+      "Merch",
+      "sabau-0001",
+      "sabrina",
+      "SABRINAAU-0001.1",
+      "sabumusic",
+      "T-Shirt",
+      "umusicexport"
     ]
   },
   "SABRINA AU_7156788985936": {
     "t": "can't relate tee",
-    "u": "2026-05-19T11:08:50+10:00",
+    "u": "2026-05-25T08:46:21+10:00",
     "v": [
       "41100116459600",
       "41100116492368",
       "41100116525136",
       "41100116557904",
       "41100116590672"
+    ],
+    "tags": [
+      "cat: sabrina-carpenter",
+      "femaleartists",
+      "Merch",
+      "sabau-0001",
+      "sabrina",
+      "SABRINAAU-0001.1",
+      "sabumusic",
+      "T-Shirt",
+      "umusicexport"
     ]
   },
   "SABRINA AU_7156788953168": {
     "t": "that's that me crop tee",
-    "u": "2026-05-19T11:08:50+10:00",
+    "u": "2026-05-25T08:46:21+10:00",
     "v": [
       "41100116295760",
       "41100116328528",
       "41100116361296",
       "41100116394064",
       "41100116426832"
+    ],
+    "tags": [
+      "cat: sabrina-carpenter",
+      "femaleartists",
+      "Merch",
+      "sabau-0001",
+      "sabrina",
+      "SABRINAAU-0001.1",
+      "sabumusic",
+      "T-Shirt",
+      "umusicexport"
     ]
   },
   "SABRINA AU_7156788756560": {
     "t": "Postcard Tote",
-    "u": "2026-05-19T11:08:50+10:00",
+    "u": "2026-05-25T08:46:21+10:00",
     "v": [
       "41100115705936"
+    ],
+    "tags": [
+      "Accessories",
+      "cat: sabrina-carpenter",
+      "femaleartists",
+      "flag: PRE-ORDER",
+      "merch",
+      "pre-order",
+      "SABAU-0009",
+      "SABRINAAU-0001.1",
+      "sabrinacarpenteralacarte",
+      "sabumusic",
+      "umusicexport"
     ]
   },
   "SABRINA AU_7156788625488": {
@@ -8369,101 +9044,137 @@
   },
   "GAGA FR_15206853443962": {
     "t": "Vanish Sweatpant",
-    "u": "2026-04-07T17:22:23+02:00",
+    "u": "2026-05-25T00:46:20+02:00",
     "v": [
       "55621478089082",
       "55621478121850",
       "55621478154618",
       "55621478187386",
       "55621478220154"
+    ],
+    "tags": [
+      "ball",
+      "ballga"
     ]
   },
   "GAGA FR_15206853345658": {
     "t": "Lace Gaga Short",
-    "u": "2026-04-07T17:22:23+02:00",
+    "u": "2026-05-25T00:46:20+02:00",
     "v": [
       "55621477794170",
       "55621477826938",
       "55621477859706",
       "55621477892474",
       "55621477925242"
+    ],
+    "tags": [
+      "ball",
+      "ballga"
     ]
   },
   "GAGA FR_15206853247354": {
     "t": "MAYHEM Cross Cropped Tank",
-    "u": "2026-04-07T17:22:23+02:00",
+    "u": "2026-05-25T00:46:20+02:00",
     "v": [
       "55621477532026",
       "55621477564794",
       "55621477597562",
       "55621477630330",
       "55621477663098"
+    ],
+    "tags": [
+      "ball",
+      "ballga"
     ]
   },
   "GAGA FR_15206853214586": {
     "t": "MAYHEM Cross Cutoff",
-    "u": "2026-04-07T17:22:23+02:00",
+    "u": "2026-05-25T00:46:20+02:00",
     "v": [
       "55621477171578",
       "55621477204346",
       "55621477237114",
       "55621477269882",
       "55621477302650"
+    ],
+    "tags": [
+      "ball",
+      "ballga"
     ]
   },
   "GAGA FR_15206853181818": {
     "t": "I'm A Killah Cutoff",
-    "u": "2026-04-07T17:22:23+02:00",
+    "u": "2026-05-25T00:46:20+02:00",
     "v": [
       "55621476811130",
       "55621476843898",
       "55621476876666",
       "55621476909434",
       "55621476974970"
+    ],
+    "tags": [
+      "ball",
+      "ballga"
     ]
   },
   "GAGA FR_15206853083514": {
     "t": "MAYHEM Cutoff",
-    "u": "2026-04-07T17:22:23+02:00",
+    "u": "2026-05-25T00:46:20+02:00",
     "v": [
       "55621476450682",
       "55621476483450",
       "55621476516218",
       "55621476548986",
       "55621476581754"
+    ],
+    "tags": [
+      "ball",
+      "ballga"
     ]
   },
   "GAGA FR_15206852493690": {
     "t": "Vanish T-Shirt",
-    "u": "2026-04-07T17:22:23+02:00",
+    "u": "2026-05-25T00:46:20+02:00",
     "v": [
       "55621473632634",
       "55621473665402",
       "55621473698170",
       "55621473730938",
       "55621473763706"
+    ],
+    "tags": [
+      "ball",
+      "ballga"
     ]
   },
   "GAGA FR_15206852460922": {
     "t": "The MAYHEM Ball T-Shirt",
-    "u": "2026-04-07T17:22:23+02:00",
+    "u": "2026-05-25T00:46:20+02:00",
     "v": [
       "55621473468794",
       "55621473501562",
       "55621473534330",
       "55621473567098",
       "55621473599866"
+    ],
+    "tags": [
+      "ball",
+      "ballga"
     ]
   },
   "GAGA FR_15206852362618": {
     "t": "Skull T-Shirt",
-    "u": "2026-04-07T17:22:23+02:00",
+    "u": "2026-05-25T00:46:20+02:00",
     "v": [
       "55621473042810",
       "55621473075578",
       "55621473108346",
       "55621473141114",
       "55621473173882"
+    ],
+    "tags": [
+      "ball",
+      "ballga"
     ]
   },
   "GAGA UK_15149890175349": {
@@ -8677,112 +9388,147 @@
   },
   "GAGA UK_15149874446709": {
     "t": "Opera Haus Hoodie",
-    "u": "2026-04-07T16:20:03+01:00",
+    "u": "2026-05-24T23:46:18+01:00",
     "v": [
       "55608135811445",
       "55608135844213",
       "55608135876981",
       "55608135909749",
       "55608135942517"
+    ],
+    "tags": [
+      "#.show-split",
+      "testing SW"
     ]
   },
   "GAGA UK_15149873103221": {
     "t": "Perfect Celebrity Black Hoodie",
-    "u": "2026-04-07T16:20:03+01:00",
+    "u": "2026-05-24T23:46:18+01:00",
     "v": [
       "55608131584373",
       "55608131617141",
       "55608131649909",
       "55608131682677",
       "55608131715445"
+    ],
+    "tags": [
+      "#.show-split",
+      "testing SW"
     ]
   },
   "GAGA UK_15149872480629": {
     "t": "Princess Die Cropped Jersey",
-    "u": "2026-04-07T16:20:03+01:00",
+    "u": "2026-05-24T23:46:18+01:00",
     "v": [
       "55608128635253",
       "55608128668021",
       "55608128700789",
       "55608128733557",
       "55608128766325"
+    ],
+    "tags": [
+      "testing SW"
     ]
   },
   "GAGA UK_15149870383477": {
     "t": "Perfect Celebrity Gray Hoodie",
-    "u": "2026-04-07T16:20:03+01:00",
+    "u": "2026-05-24T23:46:18+01:00",
     "v": [
       "55608120508789",
       "55608120541557",
       "55608120574325",
       "55608120607093",
       "55608120639861"
+    ],
+    "tags": [
+      "#.show-split",
+      "testing SW"
     ]
   },
   "GAGA UK_15149868712309": {
     "t": "Princess Die Jersey",
-    "u": "2026-04-07T16:20:03+01:00",
+    "u": "2026-05-24T23:46:18+01:00",
     "v": [
       "55608117166453",
       "55608117199221",
       "55608117231989",
       "55608117264757",
       "55608117297525"
+    ],
+    "tags": [
+      "testing SW"
     ]
   },
   "GAGA UK_15149866221941": {
     "t": "Vanish Sweatpant",
-    "u": "2026-04-07T16:20:03+01:00",
+    "u": "2026-05-24T23:46:18+01:00",
     "v": [
       "55608105140597",
       "55608105173365",
       "55608105206133",
       "55608105238901",
       "55608105271669"
+    ],
+    "tags": [
+      "#.show-split",
+      "testing SW"
     ]
   },
   "GAGA UK_15149866123637": {
     "t": "MAYHEM Cross Cropped Tank",
-    "u": "2026-04-07T16:20:03+01:00",
+    "u": "2026-05-24T23:46:18+01:00",
     "v": [
       "55608104649077",
       "55608104681845",
       "55608104714613",
       "55608104747381",
       "55608104780149"
+    ],
+    "tags": [
+      "testing SW"
     ]
   },
   "GAGA UK_15149865304437": {
     "t": "MAYHEM Cross Cutoff",
-    "u": "2026-04-07T16:20:03+01:00",
+    "u": "2026-05-24T23:46:18+01:00",
     "v": [
       "55608101798261",
       "55608101831029",
       "55608101863797",
       "55608101896565",
       "55608101929333"
+    ],
+    "tags": [
+      "testing SW"
     ]
   },
   "GAGA UK_15149863797109": {
     "t": "MAYHEM Cutoff",
-    "u": "2026-04-07T16:20:03+01:00",
+    "u": "2026-05-24T23:46:18+01:00",
     "v": [
       "55608099078517",
       "55608099111285",
       "55608099144053",
       "55608099176821",
       "55608099209589"
+    ],
+    "tags": [
+      "#.show-split",
+      "testing SW"
     ]
   },
   "GAGA UK_15149854065013": {
     "t": "Vanish T-Shirt",
-    "u": "2026-04-07T16:20:03+01:00",
+    "u": "2026-05-24T23:46:18+01:00",
     "v": [
       "55608062542197",
       "55608062574965",
       "55608062607733",
       "55608062640501",
       "55608062673269"
+    ],
+    "tags": [
+      "testing SW"
     ]
   },
   "GAGA UK_15149846266229": {
@@ -9005,102 +9751,111 @@
   },
   "GAGA DE_15292761047427": {
     "t": "Vanish Sweatpant",
-    "u": "2026-04-07T17:22:23+02:00",
+    "u": "2026-05-25T00:46:21+02:00",
     "v": [
       "55965003612547",
       "55965003645315",
       "55965003678083",
       "55965003710851",
       "55965003743619"
-    ]
+    ],
+    "tags": []
   },
   "GAGA DE_15292760883587": {
     "t": "Lace Gaga Short",
-    "u": "2026-04-07T17:22:23+02:00",
+    "u": "2026-05-25T00:46:21+02:00",
     "v": [
       "55965002662275",
       "55965002695043",
       "55965002727811",
       "55965002760579",
       "55965002793347"
-    ]
+    ],
+    "tags": []
   },
   "GAGA DE_15292760818051": {
     "t": "MAYHEM Cross Cropped Tank",
-    "u": "2026-04-07T17:22:23+02:00",
+    "u": "2026-05-25T00:46:21+02:00",
     "v": [
       "55965002236291",
       "55965002269059",
       "55965002301827",
       "55965002334595",
       "55965002367363"
-    ]
+    ],
+    "tags": []
   },
   "GAGA DE_15292759572867": {
     "t": "MAYHEM Cross Cutoff",
-    "u": "2026-04-07T17:22:23+02:00",
+    "u": "2026-05-25T00:46:21+02:00",
     "v": [
       "55964999549315",
       "55964999582083",
       "55964999614851",
       "55964999647619",
       "55964999680387"
-    ]
+    ],
+    "tags": []
   },
   "GAGA DE_15292759245187": {
     "t": "I'm A Killah Cutoff",
-    "u": "2026-04-07T17:22:23+02:00",
+    "u": "2026-05-25T00:46:21+02:00",
     "v": [
       "55964997681539",
       "55964997714307",
       "55964997747075",
       "55964997779843",
       "55964997812611"
-    ]
+    ],
+    "tags": []
   },
   "GAGA DE_15292758622595": {
     "t": "MAYHEM Cutoff",
-    "u": "2026-04-07T17:22:23+02:00",
+    "u": "2026-05-25T00:46:21+02:00",
     "v": [
       "55964997026179",
       "55964997058947",
       "55964997091715",
       "55964997124483",
       "55964997157251"
-    ]
+    ],
+    "tags": []
   },
   "GAGA DE_15292758032771": {
     "t": "The MAYHEM Ball T-Shirt",
-    "u": "2026-04-07T17:22:23+02:00",
+    "u": "2026-05-25T00:46:21+02:00",
     "v": [
       "55964995846531",
       "55964995879299",
       "55964995912067",
       "55964995944835",
       "55964995977603"
-    ]
+    ],
+    "tags": []
   },
   "GAGA DE_15292757868931": {
     "t": "Skull T-Shirt",
-    "u": "2026-04-07T17:22:23+02:00",
+    "u": "2026-05-25T00:46:21+02:00",
     "v": [
       "55964994732419",
       "55964994765187",
       "55964994797955",
       "55964994830723",
       "55964994863491"
-    ]
+    ],
+    "tags": []
   },
   "GAGA DE_15292756558211": {
     "t": "Lace Gaga T-Shirt",
-    "u": "2026-04-07T17:22:23+02:00",
+    "u": "2026-05-25T00:46:21+02:00",
     "v": [
       "55964991717763",
       "55964991750531",
       "55964991783299",
       "55964991816067",
       "55964991848835"
-    ]
+    ],
+    "tags": []
   },
   "SABRINA UK_15108706599289": {
     "t": "Man's Best Friend Object T-Shirt",
@@ -9295,77 +10050,104 @@
   },
   "SABRINA UK_15116275941753": {
     "t": "Man's Best Friend D2C Alt Cover LP + Signed Art Card Bundle",
-    "u": "2026-04-07T16:22:23+01:00",
+    "u": "2026-05-24T23:47:16+01:00",
     "v": [
       "55741239230841"
+    ],
+    "tags": [
+      "Bundle"
     ]
   },
   "SABRINA UK_15116275253625": {
     "t": "Man's Best Friend D2C Alt Cover Cassette + Signed Art Card Bundle",
-    "u": "2026-04-07T16:22:23+01:00",
+    "u": "2026-05-24T23:47:16+01:00",
     "v": [
       "55741235396985"
+    ],
+    "tags": [
+      "Bundle"
     ]
   },
   "SABRINA UK_15116274893177": {
     "t": "Man's Best Friend D2C Picture Disc + Signed Art Card Bundle",
-    "u": "2026-04-07T16:22:23+01:00",
+    "u": "2026-05-24T23:47:16+01:00",
     "v": [
       "55741234479481"
+    ],
+    "tags": [
+      "Bundle"
     ]
   },
   "SABRINA UK_15116274336121": {
     "t": "Man's Best Friend Standard Cassette + Signed Art Card Bundle",
-    "u": "2026-04-07T16:22:23+01:00",
+    "u": "2026-05-24T23:47:16+01:00",
     "v": [
       "55741233004921"
+    ],
+    "tags": [
+      "Bundle"
     ]
   },
   "SABRINA UK_15116273811833": {
     "t": "Man's Best Friend Standard CD + Signed Art Card Bundle",
-    "u": "2026-04-07T16:22:23+01:00",
+    "u": "2026-05-24T23:47:16+01:00",
     "v": [
       "55741229695353"
+    ],
+    "tags": [
+      "Bundle"
     ]
   },
   "SABRINA UK_15116273516921": {
     "t": "Man's Best Friend Standard LP + Signed Art Card Bundle",
-    "u": "2026-04-07T16:22:23+01:00",
+    "u": "2026-05-24T23:47:16+01:00",
     "v": [
       "55741227172217"
+    ],
+    "tags": [
+      "Bundle"
     ]
   },
   "SABRINA UK_15108712169849": {
     "t": "Girl Who's Been Dumped Fitted Longsleeve T-Shirt",
-    "u": "2026-04-07T16:22:23+01:00",
+    "u": "2026-05-24T23:47:16+01:00",
     "v": [
       "55711658279289",
       "55711658312057",
       "55711658344825",
       "55711658377593",
       "55711658410361"
+    ],
+    "tags": [
+      "testing SW"
     ]
   },
   "SABRINA UK_15108710433145": {
     "t": "Good Old Fashioned Fun Baby T-Shirt",
-    "u": "2026-04-07T16:22:23+01:00",
+    "u": "2026-05-24T23:47:16+01:00",
     "v": [
       "55711646286201",
       "55711646318969",
       "55711646351737",
       "55711646384505",
       "55711646417273"
+    ],
+    "tags": [
+      "testing SW"
     ]
   },
   "SABRINA UK_15108710236537": {
     "t": "Man's Best Friend Varsity Jacket",
-    "u": "2026-04-07T16:22:23+01:00",
+    "u": "2026-05-24T23:47:16+01:00",
     "v": [
       "55711645729145",
       "55711645761913",
       "55711645794681",
       "55711645827449",
       "55711645860217"
+    ],
+    "tags": [
+      "testing SW"
     ]
   },
   "SABRINA UK_15108707844473": {
@@ -9381,37 +10163,49 @@
   },
   "SABRINA UK_15108707746169": {
     "t": "MBF Doggie T-Shirt",
-    "u": "2026-04-07T16:22:23+01:00",
+    "u": "2026-05-24T23:47:16+01:00",
     "v": [
       "55711634817401",
       "55711634850169",
       "55711634882937",
       "55711634915705"
+    ],
+    "tags": [
+      "testing SW"
     ]
   },
   "SABRINA UK_15108706926969": {
     "t": "Man's Best Friend Black Beret",
-    "u": "2026-04-07T16:22:23+01:00",
+    "u": "2026-05-24T23:47:16+01:00",
     "v": [
       "55711630918009"
+    ],
+    "tags": [
+      "testing SW"
     ]
   },
   "SABRINA UK_15108704174457": {
     "t": "A Little Respect for Women T-Shirt",
-    "u": "2026-04-02T18:09:39+01:00",
+    "u": "2026-05-24T23:47:16+01:00",
     "v": [
       "55711618924921",
       "55711618957689",
       "55711618990457",
       "55711619023225",
       "55711619055993"
+    ],
+    "tags": [
+      "testing SW"
     ]
   },
   "SABRINA UK_15108703289721": {
     "t": "Man's Best Friend Fuzzy Tote Bag",
-    "u": "2026-04-02T18:09:39+01:00",
+    "u": "2026-05-24T23:47:16+01:00",
     "v": [
       "55711615713657"
+    ],
+    "tags": [
+      "testing SW"
     ]
   },
   "CONAN UK_15666857279872": {
@@ -9630,35 +10424,49 @@
   },
   "CONAN UK_15173899780480": {
     "t": "Wishbone LP (Black Cat Edition)",
-    "u": "2026-04-07T16:20:04+01:00",
+    "u": "2026-05-24T23:47:19+01:00",
     "v": [
       "55997407887744"
+    ],
+    "tags": [
+      "O&O3465"
     ]
   },
   "CONAN UK_15197756883328": {
     "t": "Wishbone Signed Art Card",
-    "u": "2026-04-07T16:20:04+01:00",
+    "u": "2026-05-24T23:47:19+01:00",
     "v": [
       "56072041791872"
+    ],
+    "tags": [
+      "testing SW"
     ]
   },
   "CONAN UK_15184370925952": {
     "t": "Wishbone Digital Album",
-    "u": "2026-04-07T16:20:04+01:00",
+    "u": "2026-05-24T23:47:19+01:00",
     "v": [
       "56027226571136"
+    ],
+    "tags": [
+      "#.show-split",
+      "testing SW"
     ]
   },
   "CONAN UK_15115875713408": {
     "t": "Kid Krow, Decomposed (5 Year Anniversary) LP",
-    "u": "2026-04-07T16:20:04+01:00",
+    "u": "2026-05-24T23:47:19+01:00",
     "v": [
       "55787796169088"
+    ],
+    "tags": [
+      "#.show-split",
+      "O&O3465"
     ]
   },
   "CONAN UK_15110641713536": {
     "t": "Kid Krow Embroidered Hoodie",
-    "u": "2026-04-07T16:20:04+01:00",
+    "u": "2026-05-24T23:47:19+01:00",
     "v": [
       "55769697517952",
       "55769697550720",
@@ -9666,11 +10474,14 @@
       "55769697616256",
       "55769697649024",
       "55769697681792"
+    ],
+    "tags": [
+      "testing SW"
     ]
   },
   "CONAN UK_15110641090944": {
     "t": "Kid Krow Puff-Print Hoodie",
-    "u": "2026-04-07T16:20:04+01:00",
+    "u": "2026-05-24T23:47:19+01:00",
     "v": [
       "55769695125888",
       "55769695158656",
@@ -9678,11 +10489,14 @@
       "55769695224192",
       "55769695256960",
       "55769695289728"
+    ],
+    "tags": [
+      "testing SW"
     ]
   },
   "CONAN UK_15110640566656": {
     "t": "Kid Krow Tee",
-    "u": "2026-04-07T16:20:04+01:00",
+    "u": "2026-05-24T23:47:19+01:00",
     "v": [
       "55769688867200",
       "55769688899968",
@@ -9690,6 +10504,9 @@
       "55769688965504",
       "55769688998272",
       "55769689031040"
+    ],
+    "tags": [
+      "testing SW"
     ]
   },
   "CONAN UK_15060625588608": {
@@ -9765,9 +10582,22 @@
   },
   "OLIVIA CA_9450730160349": {
     "t": "girl in love embroidered hat",
-    "u": "2026-04-07T11:12:56-04:00",
+    "u": "2026-05-24T18:47:16-04:00",
     "v": [
       "47732934181085"
+    ],
+    "tags": [
+      "accessories",
+      "Artist: Oliva Rodrigo",
+      "artist: Olivia Rodrigo",
+      "cat: olivia-rodrigo",
+      "girlsoinlove",
+      "hat",
+      "hats",
+      "merch-product",
+      "new arrivals",
+      "OLIROD-00020",
+      "WH_CYCLE_COUNT"
     ]
   },
   "OLIVIA CA_9450730094813": {
@@ -10570,79 +11400,117 @@
   },
   "GAGA CA_8959404474590": {
     "t": "Vanish T-Shirt",
-    "u": "2026-04-07T11:22:23-04:00",
+    "u": "2026-05-24T18:46:24-04:00",
     "v": [
       "47067196063966",
       "47067196096734",
       "47067196129502",
       "47067196162270",
       "47067196195038"
+    ],
+    "tags": [
+      "GAGA-00028",
+      "merch-product",
+      "rush_launch",
+      "wh_cycle_count"
     ]
   },
   "GAGA CA_8959404409054": {
     "t": "Lace Gaga T-Shirt",
-    "u": "2026-04-07T11:22:23-04:00",
+    "u": "2026-05-24T18:46:24-04:00",
     "v": [
       "47067195736286",
       "47067195769054",
       "47067195801822",
       "47067195834590",
       "47067195867358"
+    ],
+    "tags": [
+      "GAGA-00028",
+      "merch-product",
+      "rush_launch",
+      "wh_cycle_count"
     ]
   },
   "GAGA CA_8959404310750": {
     "t": "Roses T-Shirt",
-    "u": "2026-04-07T11:22:23-04:00",
+    "u": "2026-05-24T18:46:24-04:00",
     "v": [
       "47067195539678",
       "47067195572446",
       "47067195605214",
       "47067195637982",
       "47067195670750"
+    ],
+    "tags": [
+      "GAGA-00028",
+      "merch-product",
+      "rush_launch",
+      "wh_cycle_count"
     ]
   },
   "GAGA CA_8959404245214": {
     "t": "Cameo T-Shirt",
-    "u": "2026-04-07T11:22:23-04:00",
+    "u": "2026-05-24T18:46:24-04:00",
     "v": [
       "47067195310302",
       "47067195343070",
       "47067195375838",
       "47067195408606",
       "47067195441374"
+    ],
+    "tags": [
+      "GAGA-00028",
+      "merch-product",
+      "rush_launch",
+      "wh_cycle_count"
     ]
   },
   "GAGA CA_8959404212446": {
     "t": "Chessboard T-Shirt",
-    "u": "2026-04-07T11:22:23-04:00",
+    "u": "2026-05-24T18:46:24-04:00",
     "v": [
       "47067195146462",
       "47067195179230",
       "47067195211998",
       "47067195244766",
       "47067195277534"
+    ],
+    "tags": [
+      "GAGA-00028",
+      "merch-product",
+      "rush_launch",
+      "wh_cycle_count"
     ]
   },
   "GAGA CA_8880434184414": {
     "t": "Cropped Black and Orange Logo Hoodie",
-    "u": "2026-04-07T11:22:23-04:00",
+    "u": "2026-05-24T18:46:24-04:00",
     "v": [
       "46627458515166",
       "46627458547934",
       "46627458613470",
       "46627458646238",
       "46627458679006"
+    ],
+    "tags": [
+      "GAGA-00008",
+      "TRUCK1"
     ]
   },
   "GAGA CA_8880433856734": {
     "t": "Contrast Tracklist Hoodie",
-    "u": "2026-04-07T11:22:23-04:00",
+    "u": "2026-05-24T18:46:24-04:00",
     "v": [
       "46627458056414",
       "46627458089182",
       "46627458121950",
       "46627458154718",
       "46627458187486"
+    ],
+    "tags": [
+      "GAGA-00008",
+      "TRUCK1"
     ]
   },
   "ARIANA UK_10856178778430": {
@@ -11016,118 +11884,234 @@
   },
   "SABRINA US_14847489114477": {
     "t": "Short n' Sweet Adore Me Residency T-Shirt",
-    "u": "2026-04-07T10:58:22-04:00",
+    "u": "2026-05-24T12:02:16-04:00",
     "v": [
       "52828142961005",
       "52828142993773",
       "52828143026541",
       "52828143059309",
       "52828143092077"
+    ],
+    "tags": [
+      "4.6release",
+      "Collective_SabrinaCarpenter",
+      "Complex_Collective",
+      "Final Sale",
+      "rush_launch",
+      "SABR-00033",
+      "Shopify Collective",
+      "SNS",
+      "wh_cycle_count"
     ]
   },
   "SABRINA US_14820460364141": {
     "t": "Fruitcake Jamboree T-Shirt",
-    "u": "2026-04-07T10:58:22-04:00",
+    "u": "2026-05-24T12:02:16-04:00",
     "v": [
       "52712790458733",
       "52712790491501",
       "52712790524269",
       "52712790557037",
       "52712790589805"
+    ],
+    "tags": [
+      "4.6release",
+      "Collective_SabrinaCarpenter",
+      "Complex_Collective",
+      "SABR-00031",
+      "Shopify Collective",
+      "wh_cycle_count"
     ]
   },
   "SABRINA US_14820460331373": {
     "t": "Lifetime Full of Happiness T-Shirt",
-    "u": "2026-04-07T10:58:22-04:00",
+    "u": "2026-05-24T12:02:16-04:00",
     "v": [
       "52712790294893",
       "52712790327661",
       "52712790360429",
       "52712790393197",
       "52712790425965"
+    ],
+    "tags": [
+      "4.6release",
+      "Collective_SabrinaCarpenter",
+      "Complex_Collective",
+      "MBF",
+      "SABR-00031",
+      "Shopify Collective",
+      "wh_cycle_count"
     ]
   },
   "SABRINA US_14723290988909": {
     "t": "Man's Best Friend T-Shirt",
-    "u": "2026-04-07T10:58:22-04:00",
+    "u": "2026-05-24T12:02:16-04:00",
     "v": [
       "52122591265133",
       "52122591297901",
       "52122591330669",
       "52122591363437",
       "52122591396205"
+    ],
+    "tags": [
+      "4.6release",
+      "ASCOTT-00007",
+      "bfcm25",
+      "Collective_SabrinaCarpenter",
+      "Complex_Collective",
+      "MBF",
+      "mbfmerch",
+      "Shopify Collective",
+      "wh_cycle_count"
     ]
   },
   "SABRINA US_14692106371437": {
     "t": "Hey Men! Lace Rhinestone Tank Top",
-    "u": "2026-04-07T10:58:22-04:00",
+    "u": "2026-05-24T12:02:16-04:00",
     "v": [
       "51988773568877",
       "51988773601645",
       "51988773634413",
       "51988773667181",
       "51988773699949"
+    ],
+    "tags": [
+      "4.6release",
+      "ASCOTT-00003",
+      "BDAY27",
+      "Collective_SabrinaCarpenter",
+      "Complex_Collective",
+      "MBF",
+      "merch",
+      "Shopify Collective",
+      "wh_cycle_count"
     ]
   },
   "SABRINA US_14673947328877": {
     "t": "I'm working late black t-shirt",
-    "u": "2026-04-07T10:58:22-04:00",
+    "u": "2026-05-24T12:02:16-04:00",
     "v": [
       "51882869424493",
       "51882869457261",
       "51882869490029",
       "51882869522797",
       "51882869555565"
+    ],
+    "tags": [
+      "4.6release",
+      "bfcm25",
+      "Collective_SabrinaCarpenter",
+      "Complex_Collective",
+      "MONROE-00013",
+      "Shopify Collective",
+      "SNS",
+      "wh_cycle_count"
     ]
   },
   "SABRINA US_14654048371053": {
     "t": "short n' sweet mug",
-    "u": "2026-04-07T10:58:22-04:00",
+    "u": "2026-05-24T12:02:16-04:00",
     "v": [
       "51792693297517"
+    ],
+    "tags": [
+      "4.6release",
+      "bfcm25",
+      "Collective_SabrinaCarpenter",
+      "Complex_Collective",
+      "MONROE-00004",
+      "Shopify Collective",
+      "SNS",
+      "wh_cycle_count"
     ]
   },
   "SABRINA US_14627647160685": {
     "t": "Buy Me Presents Crewneck",
-    "u": "2026-04-07T10:58:22-04:00",
+    "u": "2026-05-24T12:02:16-04:00",
     "v": [
       "51668120895853",
       "51668120928621",
       "51668120961389",
       "51668120994157",
       "51668121026925"
+    ],
+    "tags": [
+      "4.6release",
+      "Collective_SabrinaCarpenter",
+      "Complex_Collective",
+      "MONROE-27",
+      "Shopify Collective",
+      "wh_cycle_count"
     ]
   },
   "SABRINA US_14625450066285": {
     "t": "Please Please Please Cosmetics Bag",
-    "u": "2026-04-07T10:58:22-04:00",
+    "u": "2026-05-24T12:02:16-04:00",
     "v": [
       "51654909690221"
+    ],
+    "tags": [
+      "4.11 restock",
+      "4.6release",
+      "bfcm25",
+      "Collective_SabrinaCarpenter",
+      "Complex_Collective",
+      "MONROE-25",
+      "Shopify Collective",
+      "SNS",
+      "wh_cycle_count"
     ]
   },
   "SABRINA US_14625449935213": {
     "t": "Bed Chem Sleep Kit",
-    "u": "2026-04-07T10:58:22-04:00",
+    "u": "2026-05-24T12:02:16-04:00",
     "v": [
       "51654909362541"
+    ],
+    "tags": [
+      "4.11 restock",
+      "4.6release",
+      "bfcm25",
+      "Collective_SabrinaCarpenter",
+      "Complex_Collective",
+      "MONROE-25",
+      "relaunch",
+      "Shopify Collective",
+      "SNS",
+      "wh_cycle_count"
     ]
   },
   "SABRINA US_14959816671597": {
     "t": "Just Robbed A House Baby Tee",
-    "u": "2026-04-07T10:58:22-04:00",
+    "u": "2026-05-24T12:02:16-04:00",
     "v": [
       "53199895134573",
       "53199895167341",
       "53199895200109",
       "53199895232877",
       "53199895265645"
+    ],
+    "tags": [
+      "MBF",
+      "rush_launch",
+      "SABR-00045",
+      "wh_cycle_count"
     ]
   },
   "SABRINA US_14959816638829": {
     "t": "House Tour 7in Single",
-    "u": "2026-04-07T10:58:22-04:00",
+    "u": "2026-05-24T12:02:17-04:00",
     "v": [
       "53199895101805"
+    ],
+    "tags": [
+      "MBF",
+      "music-product",
+      "rush_launch",
+      "SABR-00045",
+      "USONLY",
+      "vinyl",
+      "wh_cycle_count"
     ]
   },
   "SABRINA FRAGRANCE_10151308067111": {
@@ -11178,35 +12162,57 @@
   },
   "OLIVIA AU_15063326294384": {
     "t": "you seem pretty sad for a girl so in love - exclusive 180-gram vinyl + signed art card",
-    "u": "2026-05-19T11:08:50+10:00",
+    "u": "2026-05-25T08:46:23+10:00",
     "v": [
       "53479257342320"
+    ],
+    "tags": [
+      "Bundle",
+      "OLIVIAAU-0051",
+      "promise-date-12-06-2026"
     ]
   },
   "OLIVIA AU_15063325835632": {
     "t": "you seem pretty sad for a girl so in love - cd + signed art card",
-    "u": "2026-05-19T11:08:50+10:00",
+    "u": "2026-05-25T08:46:23+10:00",
     "v": [
       "53479252951408"
+    ],
+    "tags": [
+      "Bundle",
+      "OLIVIAAU-0051",
+      "promise-date-12-06-2026"
     ]
   },
   "OLIVIA AU_15062749282672": {
     "t": "girl in love embroidered hat",
-    "u": "2026-05-19T11:08:50+10:00",
+    "u": "2026-05-25T08:46:23+10:00",
     "v": [
       "53476921311600"
+    ],
+    "tags": [
+      "merch",
+      "merchandise",
+      "OLIVIAAU-0051",
+      "promise-date-12-06-2026"
     ]
   },
   "OLIVIA AU_15062748791152": {
     "t": "logo lace top knee high sock set",
-    "u": "2026-05-19T11:08:50+10:00",
+    "u": "2026-05-25T08:46:23+10:00",
     "v": [
       "53476920787312"
+    ],
+    "tags": [
+      "merch",
+      "merchandise",
+      "OLIVIAAU-0051",
+      "promise-date-12-06-2026"
     ]
   },
   "OLIVIA AU_15062745612656": {
     "t": "album embroidered women's spaghetti strap tank",
-    "u": "2026-05-19T11:08:50+10:00",
+    "u": "2026-05-25T08:46:23+10:00",
     "v": [
       "53476916691312",
       "53476916724080",
@@ -11214,6 +12220,12 @@
       "53476916789616",
       "53476916822384",
       "53476917641584"
+    ],
+    "tags": [
+      "merch",
+      "merchandise",
+      "OLIVIAAU-0051",
+      "promise-date-12-06-2026"
     ]
   },
   "OLIVIA AU_15062744301936": {
@@ -11572,92 +12584,164 @@
   },
   "CHAPPELL US_9287440138454": {
     "t": "Witness Stand",
-    "u": "2026-05-18T20:12:00-04:00",
+    "u": "2026-05-24T16:14:01-04:00",
     "v": [
       "47933677568214"
+    ],
+    "tags": [
+      "CHAPPELL-00018",
+      "no-sale",
+      "rush_launch"
     ]
   },
   "CHAPPELL US_9057390035158": {
     "t": "The Dentist: Lighter",
-    "u": "2026-05-18T20:12:00-04:00",
+    "u": "2026-05-24T16:14:01-04:00",
     "v": [
       "47105760690390"
+    ],
+    "tags": [
+      "ALL",
+      "CHAPPELL-00018",
+      "lighter",
+      "merch",
+      "rush_launch",
+      "WH_CYCLE_COUNT"
     ]
   },
   "CHAPPELL US_9057389936854": {
     "t": "The Construction Worker: Lighter",
-    "u": "2026-05-18T20:12:00-04:00",
+    "u": "2026-05-24T16:14:01-04:00",
     "v": [
       "47105760526550"
+    ],
+    "tags": [
+      "ALL",
+      "CHAPPELL-00018",
+      "lighter",
+      "merch",
+      "rush_launch",
+      "WH_CYCLE_COUNT"
     ]
   },
   "CHAPPELL US_9057389805782": {
     "t": "The Private Investigator: Lighter",
-    "u": "2026-05-18T20:12:00-04:00",
+    "u": "2026-05-24T16:14:01-04:00",
     "v": [
       "47105760297174"
+    ],
+    "tags": [
+      "ALL",
+      "CHAPPELL-00018",
+      "lighter",
+      "merch",
+      "rush_launch",
+      "WH_CYCLE_COUNT"
     ]
   },
   "CHAPPELL US_9057389707478": {
     "t": "The Plumber: Lighter",
-    "u": "2026-05-18T20:12:00-04:00",
+    "u": "2026-05-24T16:14:01-04:00",
     "v": [
       "47105760133334"
+    ],
+    "tags": [
+      "ALL",
+      "CHAPPELL-00018",
+      "lighter",
+      "merch",
+      "rush_launch",
+      "WH_CYCLE_COUNT"
     ]
   },
   "CHAPPELL US_9054659903702": {
     "t": "The Lawyer: Lighter",
-    "u": "2026-05-18T20:12:00-04:00",
+    "u": "2026-05-24T16:14:01-04:00",
     "v": [
       "47098653901014"
+    ],
+    "tags": [
+      "ALL",
+      "CHAPPELL-00018",
+      "lighter",
+      "merch",
+      "rush_launch",
+      "WH_CYCLE_COUNT"
     ]
   },
   "CHAPPELL US_9267435634902": {
     "t": "Chappell Roan x Fortnite Long Sleeve",
-    "u": "2026-05-18T20:12:00-04:00",
+    "u": "2026-05-24T16:14:01-04:00",
     "v": [
       "47872236716246",
       "47872236749014",
       "47872236781782",
       "47872236814550",
       "47872236847318"
+    ],
+    "tags": [
+      "CHAPPELL-00016",
+      "WH_CYCLE_COUNT"
     ]
   },
   "CHAPPELL US_9267435503830": {
     "t": "Chappell Roan x Fortnite T-Shirt",
-    "u": "2026-05-18T20:12:00-04:00",
+    "u": "2026-05-24T16:14:01-04:00",
     "v": [
       "47872236486870",
       "47872236519638",
       "47872236552406",
       "47872236585174",
       "47872236617942"
+    ],
+    "tags": [
+      "CHAPPELL-00016",
+      "WH_CYCLE_COUNT"
     ]
   },
   "CHAPPELL US_9122066301142": {
     "t": "Midwest Princess Camo Hat",
-    "u": "2026-05-18T20:12:00-04:00",
+    "u": "2026-05-24T16:14:01-04:00",
     "v": [
       "47370365960406"
+    ],
+    "tags": [
+      "ALL",
+      "CHAPPELL-00007",
+      "umg-upsell",
+      "umg_upsell",
+      "WH_CYCLE_COUNT"
     ]
   },
   "CHAPPELL US_9122066268374": {
     "t": "Rabbit Bandana",
-    "u": "2026-05-18T20:12:00-04:00",
+    "u": "2026-05-24T16:14:01-04:00",
     "v": [
       "47370365927638"
+    ],
+    "tags": [
+      "ALL",
+      "CHAPPELL-00007",
+      "umg-upsell",
+      "WH_CYCLE_COUNT"
     ]
   },
   "CHAPPELL US_9122066202838": {
     "t": "The Damsel Jumbo Tote",
-    "u": "2026-05-18T20:12:00-04:00",
+    "u": "2026-05-24T16:14:01-04:00",
     "v": [
       "47370365862102"
+    ],
+    "tags": [
+      "ALL",
+      "CHAPPELL-00007",
+      "umg-upsell",
+      "WH_CYCLE_COUNT"
     ]
   },
   "CHAPPELL US_9122066170070": {
     "t": "Butterfly Hoodie",
-    "u": "2026-05-18T20:12:00-04:00",
+    "u": "2026-05-24T16:14:01-04:00",
     "v": [
       "47373112017110",
       "47370365698262",
@@ -11665,11 +12749,17 @@
       "47370365763798",
       "47370365796566",
       "47370365829334"
+    ],
+    "tags": [
+      "ALL",
+      "CHAPPELL-00007",
+      "umg-upsell",
+      "WH_CYCLE_COUNT"
     ]
   },
   "CHAPPELL US_9122066137302": {
     "t": "Live in Concert Hoodie",
-    "u": "2026-05-18T20:12:00-04:00",
+    "u": "2026-05-24T16:14:01-04:00",
     "v": [
       "47370365534422",
       "47370365567190",
@@ -11677,11 +12767,17 @@
       "47370365632726",
       "47370365665494",
       "47373110837462"
+    ],
+    "tags": [
+      "ALL",
+      "CHAPPELL-00007",
+      "umg-upsell",
+      "WH_CYCLE_COUNT"
     ]
   },
   "CHAPPELL US_9122066104534": {
     "t": "Dangerous Things Show Hoodie",
-    "u": "2026-05-18T20:12:00-04:00",
+    "u": "2026-05-24T16:14:01-04:00",
     "v": [
       "47410624692438",
       "47370365370582",
@@ -11690,11 +12786,17 @@
       "47370365468886",
       "47370365501654",
       "47373111460054"
+    ],
+    "tags": [
+      "ALL",
+      "CHAPPELL-00007",
+      "umg-upsell",
+      "WH_CYCLE_COUNT"
     ]
   },
   "CHAPPELL US_9122066071766": {
     "t": "Lavender & Lace Visions Show T-Shirt",
-    "u": "2026-05-18T20:12:00-04:00",
+    "u": "2026-05-24T16:14:01-04:00",
     "v": [
       "47373107593430",
       "47370365206742",
@@ -11702,11 +12804,17 @@
       "47370365272278",
       "47370365305046",
       "47370365337814"
+    ],
+    "tags": [
+      "ALL",
+      "CHAPPELL-00007",
+      "umg-upsell",
+      "WH_CYCLE_COUNT"
     ]
   },
   "CHAPPELL US_9122066038998": {
     "t": "Shigella T-Shirt",
-    "u": "2026-05-18T20:12:00-04:00",
+    "u": "2026-05-24T16:14:01-04:00",
     "v": [
       "47395117007062",
       "47370365042902",
@@ -11715,6 +12823,12 @@
       "47370365141206",
       "47370365173974",
       "47373103464662"
+    ],
+    "tags": [
+      "ALL",
+      "CHAPPELL-00007",
+      "umg-upsell",
+      "WH_CYCLE_COUNT"
     ]
   },
   "RAYE UK/EUR_15364968612219": {
@@ -11885,129 +12999,175 @@
   },
   "CHAPPELL UK_9924692672759": {
     "t": "Full Box of Tools",
-    "u": "2026-05-19T02:08:50+01:00",
+    "u": "2026-05-24T23:47:16+01:00",
     "v": [
       "50574424670455"
-    ]
+    ],
+    "tags": []
   },
   "CHAPPELL UK_9924691099895": {
     "t": "Full Bathroom Set",
-    "u": "2026-05-19T02:08:50+01:00",
+    "u": "2026-05-24T23:47:16+01:00",
     "v": [
       "50574409990391"
-    ]
+    ],
+    "tags": []
   },
   "CHAPPELL UK_9924660658423": {
     "t": "The Dentist: Lighter",
-    "u": "2026-05-19T02:08:50+01:00",
+    "u": "2026-05-24T23:47:16+01:00",
     "v": [
       "50574217085175"
+    ],
+    "tags": [
+      "testing SW"
     ]
   },
   "CHAPPELL UK_9924660199671": {
     "t": "The Construction Worker: Lighter",
-    "u": "2026-05-19T02:08:50+01:00",
+    "u": "2026-05-24T23:47:16+01:00",
     "v": [
       "50574215741687"
+    ],
+    "tags": [
+      "testing SW"
     ]
   },
   "CHAPPELL UK_9924659446007": {
     "t": "The Private Investigator: Lighter",
-    "u": "2026-05-19T02:08:50+01:00",
+    "u": "2026-05-24T23:47:16+01:00",
     "v": [
       "50574211449079"
+    ],
+    "tags": [
+      "testing SW"
     ]
   },
   "CHAPPELL UK_9924658921719": {
     "t": "The Plumber: Lighter",
-    "u": "2026-05-19T02:08:50+01:00",
+    "u": "2026-05-24T23:47:16+01:00",
     "v": [
       "50574206238967"
+    ],
+    "tags": [
+      "testing SW"
     ]
   },
   "CHAPPELL UK_9924657807607": {
     "t": "The Lawyer: Lighter",
-    "u": "2026-05-19T02:08:50+01:00",
+    "u": "2026-05-24T23:47:16+01:00",
     "v": [
       "50574197620983"
+    ],
+    "tags": [
+      "testing SW"
     ]
   },
   "CHAPPELL UK_9898749985015": {
     "t": "Chappell Roan x Fortnite Long Sleeve",
-    "u": "2026-05-19T02:08:50+01:00",
+    "u": "2026-05-24T23:47:16+01:00",
     "v": [
       "50475736891639",
       "50475736924407",
       "50475736957175",
       "50475736989943",
       "50475737022711"
+    ],
+    "tags": [
+      "testing SW"
     ]
   },
   "CHAPPELL UK_9898749952247": {
     "t": "Chappell Roan x Fortnite T-Shirt",
-    "u": "2026-05-19T02:08:50+01:00",
+    "u": "2026-05-24T23:47:16+01:00",
     "v": [
       "50475737055479",
       "50475737088247",
       "50475737121015",
       "50475737153783",
       "50475737186551"
+    ],
+    "tags": [
+      "testing SW"
     ]
   },
   "CHAPPELL UK_9822141317367": {
     "t": "Pink Pony Club / Naked in Manhattan\tTiny Vinyl",
-    "u": "2026-05-19T02:08:50+01:00",
+    "u": "2026-05-24T23:47:16+01:00",
     "v": [
       "50208673399031"
+    ],
+    "tags": [
+      "testing SW"
     ]
   },
   "CHAPPELL UK_9756112158967": {
     "t": "Good Luck, Babe!: Limited Red Vinyl 7\" Single",
-    "u": "2026-05-19T02:08:50+01:00",
+    "u": "2026-05-24T23:47:16+01:00",
     "v": [
       "49918736826615"
+    ],
+    "tags": [
+      "#.show-split",
+      "Exclusive",
+      "Limited"
     ]
   },
   "CHAPPELL UK_9756112126199": {
     "t": "The Rise & Fall of a Midwest Princess: CD",
-    "u": "2026-05-19T02:08:50+01:00",
+    "u": "2026-05-24T23:47:16+01:00",
     "v": [
       "49918736761079"
-    ]
+    ],
+    "tags": []
   },
   "CHAPPELL UK_9756112027895": {
     "t": "The Rise and Fall of a Midwest Princess Standard Vinyl",
-    "u": "2026-05-19T02:08:50+01:00",
+    "u": "2026-05-24T23:47:16+01:00",
     "v": [
       "49918733680887"
-    ]
+    ],
+    "tags": []
   },
   "CHAPPELL UK_9756111962359": {
     "t": "The Rise And Fall Of A Midwest Princess (Popstar Edition): Limited Coke Bottle Clear 2LP",
-    "u": "2026-05-19T02:08:50+01:00",
+    "u": "2026-05-24T23:47:16+01:00",
     "v": [
       "49918730633463"
+    ],
+    "tags": [
+      "Limited"
     ]
   },
   "CHAPPELL UK_9756111929591": {
     "t": "The Rise And Fall Of A Midwest Princess: Popstar Edition Cassette",
-    "u": "2026-05-19T02:08:50+01:00",
+    "u": "2026-05-24T23:47:16+01:00",
     "v": [
       "49918730567927"
+    ],
+    "tags": [
+      "#.show-split"
     ]
   },
   "CHAPPELL UK_9756111667447": {
     "t": "The Rise and Fall of a Midwest Princess (Anniversary Edition): Limited 'My Kink Is Coral' Vinyl 2LP",
-    "u": "2026-05-19T02:08:50+01:00",
+    "u": "2026-05-24T23:47:16+01:00",
     "v": [
       "49918727323895"
+    ],
+    "tags": [
+      "#.show-split",
+      "Limited"
     ]
   },
   "CHAPPELL UK_9756111569143": {
     "t": "Pink Pony Club 7\" Single",
-    "u": "2026-05-19T02:08:50+01:00",
+    "u": "2026-05-24T23:47:16+01:00",
     "v": [
       "49918726963447"
+    ],
+    "tags": [
+      "#.show-split"
     ]
   },
   "OLIVIA UK_15690599039350": {
@@ -12333,9 +13493,14 @@
   },
   "CHAPPELL EUR_8685046399133": {
     "t": "The Giver",
-    "u": "2026-04-07T17:22:23+02:00",
+    "u": "2026-05-25T00:46:25+02:00",
     "v": [
       "47064839159965"
+    ],
+    "tags": [
+      "colored_vinyl",
+      "exclusive",
+      "limited"
     ]
   },
   "CONAN US_7590357237819": {
@@ -12568,18 +13733,25 @@
   },
   "OLIVIA AU_15085736657264": {
     "t": "versailles zip hoodie",
-    "u": "2026-05-19T11:08:50+10:00",
+    "u": "2026-05-25T08:46:23+10:00",
     "v": [
       "53637045420400",
       "53637045453168",
       "53637045485936",
       "53637045518704",
       "53637045551472"
+    ],
+    "tags": [
+      "dropdead",
+      "merch",
+      "merchandise",
+      "OLIVIAAU-0053",
+      "promise-date-12-06-2026"
     ]
   },
   "OLIVIA AU_15085728399728": {
     "t": "versailles women's spaghetti strap tank",
-    "u": "2026-05-19T11:08:50+10:00",
+    "u": "2026-05-25T08:46:23+10:00",
     "v": [
       "53637032477040",
       "53637032509808",
@@ -12587,67 +13759,120 @@
       "53637032575344",
       "53637032608112",
       "53637037752688"
+    ],
+    "tags": [
+      "dropdead",
+      "merch",
+      "merchandise",
+      "OLIVIAAU-0053",
+      "promise-date-12-06-2026"
     ]
   },
   "OLIVIA AU_15085727613296": {
     "t": "drop dead embroidered women's crop tank",
-    "u": "2026-05-19T11:08:50+10:00",
+    "u": "2026-05-25T08:46:23+10:00",
     "v": [
       "53637030117744",
       "53637025104240",
       "53637025137008",
       "53637025169776",
       "53637025202544"
+    ],
+    "tags": [
+      "dropdead",
+      "merch",
+      "merchandise",
+      "OLIVIAAU-0053",
+      "promise-date-12-06-2026"
     ]
   },
   "OLIVIA AU_15085726433648": {
     "t": "versailles oversized t-shirt",
-    "u": "2026-05-19T11:08:50+10:00",
+    "u": "2026-05-25T08:46:23+10:00",
     "v": [
       "53637021794672",
       "53637021827440",
       "53637021860208",
       "53637021892976",
       "53637021925744"
+    ],
+    "tags": [
+      "dropdead",
+      "merch",
+      "merchandise",
+      "OLIVIAAU-0053",
+      "promise-date-12-06-2026"
     ]
   },
   "OLIVIA AU_15085719880048": {
     "t": "feminine intuition oversized t-shirt",
-    "u": "2026-05-19T11:08:50+10:00",
+    "u": "2026-05-25T08:46:23+10:00",
     "v": [
       "53637011374448",
       "53637011407216",
       "53637011439984",
       "53637011472752",
       "53637011505520"
+    ],
+    "tags": [
+      "dropdead",
+      "merch",
+      "merchandise",
+      "OLIVIAAU-0053",
+      "promise-date-12-06-2026"
     ]
   },
   "OLIVIA AU_15062748070256": {
     "t": "logo wireless bluetooth karaoke microphone",
-    "u": "2026-05-19T11:08:50+10:00",
+    "u": "2026-05-25T08:46:23+10:00",
     "v": [
       "53476920066416"
+    ],
+    "tags": [
+      "dropdead",
+      "merch",
+      "merchandise",
+      "OLIVIAAU-0053",
+      "promise-date-12-06-2026"
     ]
   },
   "OLIVIA AU_15067230732656": {
     "t": "drop dead - chewing gum 7\" vinyl",
-    "u": "2026-05-19T11:08:50+10:00",
+    "u": "2026-05-25T08:46:23+10:00",
     "v": [
       "53542274630000"
+    ],
+    "tags": [
+      "music",
+      "music-product",
+      "OLIVIAAU-0052",
+      "promise-date-17-04-2026"
     ]
   },
   "OLIVIA AU_15067229946224": {
     "t": "drop dead - cassette",
-    "u": "2026-05-19T11:08:50+10:00",
+    "u": "2026-05-25T08:46:23+10:00",
     "v": [
       "53542273712496"
+    ],
+    "tags": [
+      "music",
+      "music-product",
+      "OLIVIAAU-0052",
+      "promise-date-17-04-2026"
     ]
   },
   "OLIVIA AU_15067229192560": {
     "t": "drop dead - cd",
-    "u": "2026-05-19T11:08:50+10:00",
+    "u": "2026-05-25T08:46:23+10:00",
     "v": [
       "53542272860528"
+    ],
+    "tags": [
+      "music",
+      "music-product",
+      "OLIVIAAU-0052",
+      "promise-date-17-04-2026"
     ]
   },
   "SABRINA US_14975623758189": {
@@ -15078,6 +16303,760 @@
       "lp",
       "MOUSE-00001",
       "music-product"
+    ]
+  },
+  "OLIVIA US_8491997495475": {
+    "t": "Limited Edition FC Barcelona x Olivia Rodrigo 25/26 men's home jersey signed by the starting line-ups of the men's El Cl\u00e1sico match (10/05) and the women's match vs. Levante UD (06/05)",
+    "u": "2026-05-24T18:34:02-04:00",
+    "v": [
+      "45483887329459"
+    ],
+    "tags": [
+      "OLIVIA-00053"
+    ]
+  },
+  "ARIANA US_8809589637143": {
+    "t": "Petal Hat (Black)",
+    "u": "2026-05-24T18:38:38-04:00",
+    "v": [
+      "45093058609175"
+    ],
+    "tags": [
+      "Accessories",
+      "MERCH",
+      "MOUSE-00001",
+      "mousemerch",
+      "umg-upsell",
+      "wh_cycle_count"
+    ]
+  },
+  "OLIVIA US_8491997462707": {
+    "t": "Stickers FC Barcelona x Olivia Rodrigo x Spotify",
+    "u": "2026-05-24T18:34:02-04:00",
+    "v": [
+      "45483887296691"
+    ],
+    "tags": [
+      "OLIVIA-00053"
+    ]
+  },
+  "OLIVIA CA_9466487963869": {
+    "t": "drop dead heart keyed padlock set",
+    "u": "2026-05-24T18:47:16-04:00",
+    "v": [
+      "47801620398301"
+    ],
+    "tags": [
+      "accessories",
+      "girlsoinlove",
+      "merch-product",
+      "OLIROD-00023"
+    ]
+  },
+  "ARIANA CA_8420607033535": {
+    "t": "petal translucent pearly white lp",
+    "u": "2026-05-24T18:46:26-04:00",
+    "v": [
+      "45598884102335"
+    ],
+    "tags": [
+      "colour lp",
+      "lp",
+      "MOUSE-00001",
+      "music-product"
+    ]
+  },
+  "ARIANA UK_12363742478654": {
+    "t": "Petal Tile Photo T-Shirt",
+    "u": "2026-05-24T23:46:21+01:00",
+    "v": [
+      "53399888134462",
+      "53399888167230",
+      "53399888199998",
+      "53399888232766",
+      "53399888265534",
+      "53399888298302"
+    ],
+    "tags": [
+      "testing SW"
+    ]
+  },
+  "OLIVIA US_8491997429939": {
+    "t": "Tote Bag FC Barcelona x Olivia Rodrigo x Spotify",
+    "u": "2026-05-24T18:34:02-04:00",
+    "v": [
+      "45483887263923"
+    ],
+    "tags": [
+      "OLIVIA-00053"
+    ]
+  },
+  "ARIANA US_8809589604375": {
+    "t": "Bunny Baby T-Shirt",
+    "u": "2026-05-24T18:38:38-04:00",
+    "v": [
+      "45093058478103",
+      "45093058510871",
+      "45093058543639",
+      "45093058576407"
+    ],
+    "tags": [
+      "MERCH",
+      "MOUSE-00001",
+      "mousemerch",
+      "Tee",
+      "umg-upsell",
+      "wh_cycle_count"
+    ]
+  },
+  "ARIANA UK_12363742413118": {
+    "t": "Petal Portrait T-Shirt",
+    "u": "2026-05-24T23:46:21+01:00",
+    "v": [
+      "53399887872318",
+      "53399887905086",
+      "53399887937854",
+      "53399887970622",
+      "53399888003390",
+      "53399888036158"
+    ],
+    "tags": [
+      "testing SW"
+    ]
+  },
+  "OLIVIA CA_9466487832797": {
+    "t": "drop dead heart keyed padlock necklace",
+    "u": "2026-05-24T18:47:16-04:00",
+    "v": [
+      "47801619775709"
+    ],
+    "tags": [
+      "accessories",
+      "girlsoinlove",
+      "merch-product",
+      "OLIROD-00023"
+    ]
+  },
+  "ARIANA UK_12363742380350": {
+    "t": "Petal Crewneck",
+    "u": "2026-05-24T23:46:21+01:00",
+    "v": [
+      "53399887642942",
+      "53399887675710",
+      "53399887708478",
+      "53399887741246",
+      "53399887774014",
+      "53399887806782"
+    ],
+    "tags": [
+      "testing SW"
+    ]
+  },
+  "ARIANA CA_8420607000767": {
+    "t": "petal CD",
+    "u": "2026-05-24T18:46:26-04:00",
+    "v": [
+      "45598884069567"
+    ],
+    "tags": [
+      "cd",
+      "MOUSE-00001",
+      "music-product"
+    ]
+  },
+  "ARIANA UK_12363742249278": {
+    "t": "petal digital album",
+    "u": "2026-05-24T23:46:21+01:00",
+    "v": [
+      "53399887249726"
+    ],
+    "tags": [
+      "#.show-split",
+      "testing SW"
+    ]
+  },
+  "OLIVIA US_8491997397171": {
+    "t": "Bucket FC Barcelona x Olivia Rodrigo x Spotify",
+    "u": "2026-05-24T18:34:02-04:00",
+    "v": [
+      "45483887231155"
+    ],
+    "tags": [
+      "OLIVIA-00053"
+    ]
+  },
+  "ARIANA US_8809589571607": {
+    "t": "Petal Tile Photo T-Shirt",
+    "u": "2026-05-24T18:38:38-04:00",
+    "v": [
+      "45093058281495",
+      "45093058314263",
+      "45093058347031",
+      "45093058379799",
+      "45093058412567",
+      "45093058445335"
+    ],
+    "tags": [
+      "MERCH",
+      "MOUSE-00001",
+      "mousemerch",
+      "Tee",
+      "umg-upsell",
+      "wh_cycle_count"
+    ]
+  },
+  "OLIVIA CA_9466487603421": {
+    "t": "drop dead heart keyed padlock journal",
+    "u": "2026-05-24T18:47:16-04:00",
+    "v": [
+      "47801617285341"
+    ],
+    "tags": [
+      "girlsoinlove",
+      "merch-product",
+      "OLIROD-00023"
+    ]
+  },
+  "ARIANA UK_12363742216510": {
+    "t": "petal cloudy gray girl lp (store exclusive)",
+    "u": "2026-05-24T23:46:21+01:00",
+    "v": [
+      "53399887118654"
+    ],
+    "tags": [
+      "testing SW"
+    ]
+  },
+  "EU_14985088237944": {
+    "t": "Red (Taylor's Version) Plaid Skirt Days",
+    "u": "2026-05-24T22:04:25+02:00",
+    "v": [
+      "55358388896120",
+      "55358388928888",
+      "55358388961656",
+      "55358388994424",
+      "55358389027192",
+      "55358389059960",
+      "55358389092728",
+      "55358389125496",
+      "55358389158264",
+      "55358389191032",
+      "55358389223800",
+      "55358389256568",
+      "55358389289336",
+      "55358389322104",
+      "55358389354872",
+      "55358389387640",
+      "55358389420408",
+      "55358389453176",
+      "55358389485944",
+      "55358389518712",
+      "55358389551480"
+    ],
+    "tags": [
+      "bis_exclude",
+      "holiday-25"
+    ]
+  },
+  "ARIANA US_8809589538839": {
+    "t": "Petal Portrait T-Shirt",
+    "u": "2026-05-24T18:38:38-04:00",
+    "v": [
+      "45093058084887",
+      "45093058117655",
+      "45093058150423",
+      "45093058183191",
+      "45093058215959",
+      "45093058248727"
+    ],
+    "tags": [
+      "MERCH",
+      "MOUSE-00001",
+      "mousemerch",
+      "Tee",
+      "umg-upsell",
+      "wh_cycle_count"
+    ]
+  },
+  "OLIVIA CA_9466487406813": {
+    "t": "drop dead embroidered women's crop tank",
+    "u": "2026-05-24T18:47:16-04:00",
+    "v": [
+      "47801615745245",
+      "47801615778013",
+      "47801615810781",
+      "47801615843549",
+      "47801615876317"
+    ],
+    "tags": [
+      "girlsoinlove",
+      "merch-product",
+      "OLIROD-00023"
+    ]
+  },
+  "ARIANA US_8809589506071": {
+    "t": "petal cassette",
+    "u": "2026-05-24T18:38:38-04:00",
+    "v": [
+      "45093058052119"
+    ],
+    "tags": [
+      "MOUSE-00001",
+      "mousemusic",
+      "music-product",
+      "umg-upsell",
+      "USonly",
+      "wh_cycle_count"
+    ]
+  },
+  "OLIVIA CA_9453763854557": {
+    "t": "drop dead - cassette",
+    "u": "2026-05-24T18:47:16-04:00",
+    "v": [
+      "47742754554077"
+    ],
+    "tags": [
+      "#.free-shipping",
+      "#.line-limit",
+      "artist: Olivia Rodrigo",
+      "cassette",
+      "cat: olivia-rodrigo",
+      "girlsoinlove",
+      "mb-invisible",
+      "music-product",
+      "new arrivals",
+      "street_date: 20260612",
+      "WH_CYCLE_COUNT"
+    ]
+  },
+  "OLIVIA US_8491997364403": {
+    "t": "Scarf FC Barcelona x Olivia Rodrigo x Spotify",
+    "u": "2026-05-24T18:34:02-04:00",
+    "v": [
+      "45483887198387"
+    ],
+    "tags": [
+      "OLIVIA-00053"
+    ]
+  },
+  "ARIANA US_8809589473303": {
+    "t": "petal CD (signed)",
+    "u": "2026-05-24T18:38:38-04:00",
+    "v": [
+      "45093058019351"
+    ],
+    "tags": [
+      "MOUSE-00001",
+      "mousemusic",
+      "music-product",
+      "umg-upsell",
+      "USonly",
+      "wh_cycle_count"
+    ]
+  },
+  "OLIVIA CA_9453727056093": {
+    "t": "drop dead - chewing gum 7\" vinyl",
+    "u": "2026-05-24T18:47:16-04:00",
+    "v": [
+      "47742671716573"
+    ],
+    "tags": [
+      "7in",
+      "artist: Olivia Rodrigo",
+      "colour vinyl",
+      "girlsoinlove",
+      "lp",
+      "music-product",
+      "new arrivals",
+      "OLIROD-00022",
+      "WH_CYCLE_COUNT"
+    ]
+  },
+  "ARIANA US_8809589440535": {
+    "t": "petal cloudy gray girl lp (store exclusive)",
+    "u": "2026-05-24T18:38:38-04:00",
+    "v": [
+      "45093057986583"
+    ],
+    "tags": [
+      "MOUSE-00001",
+      "mousemusic",
+      "music-product",
+      "umg-upsell",
+      "USonly",
+      "wh_cycle_count"
+    ]
+  },
+  "OLIVIA US_8491997331635": {
+    "t": "Hoodie Nike FC Barcelona x Olivia Rodrigo x Spotify",
+    "u": "2026-05-24T18:34:02-04:00",
+    "v": [
+      "45483887165619"
+    ],
+    "tags": [
+      "OLIVIA-00053"
+    ]
+  },
+  "OLIVIA CA_9453723189469": {
+    "t": "drop dead - cd",
+    "u": "2026-05-24T18:47:16-04:00",
+    "v": [
+      "47742664769757"
+    ],
+    "tags": [
+      "artist: Olivia Rodrigo",
+      "cd",
+      "girlsoinlove",
+      "music-product",
+      "new arrivals",
+      "OLIROD-00022",
+      "WH_CYCLE_COUNT"
+    ]
+  },
+  "OLIVIA US_8491997298867": {
+    "t": "Tee Nike FC Barcelona x Olivia Rodrigo x Spotify",
+    "u": "2026-05-24T18:34:02-04:00",
+    "v": [
+      "45483887132851"
+    ],
+    "tags": [
+      "OLIVIA-00053"
+    ]
+  },
+  "ARIANA CA_8420606967999": {
+    "t": "Petal Blanket",
+    "u": "2026-05-24T18:46:26-04:00",
+    "v": [
+      "45598884036799"
+    ],
+    "tags": [
+      "MOUSE-00001"
+    ]
+  },
+  "OLIVIA UK_15706696024438": {
+    "t": "versailles oversized t-shirt + baby blue cassette bundle",
+    "u": "2026-05-24T23:46:26+01:00",
+    "v": [
+      "57699986932086",
+      "57699986964854",
+      "57699986997622",
+      "57699987030390",
+      "57699987063158"
+    ],
+    "tags": [
+      "Bundle"
+    ]
+  },
+  "OLIVIA UK_15706695598454": {
+    "t": "drop dead heart keyed padlock set",
+    "u": "2026-05-24T23:46:26+01:00",
+    "v": [
+      "57699985424758"
+    ],
+    "tags": [
+      "testing SW"
+    ]
+  },
+  "ARIANA US_8809589407767": {
+    "t": "petal translucent pearly white lp (signed)",
+    "u": "2026-05-24T18:38:38-04:00",
+    "v": [
+      "45093057953815"
+    ],
+    "tags": [
+      "MOUSE-00001",
+      "mousemusic",
+      "music-product",
+      "umg-upsell",
+      "USonly",
+      "wh_cycle_count"
+    ]
+  },
+  "OLIVIA US_8491997266099": {
+    "t": "Crew Nike FC Barcelona x Olivia Rodrigo x Spotify",
+    "u": "2026-05-24T18:34:02-04:00",
+    "v": [
+      "45483887100083"
+    ],
+    "tags": [
+      "OLIVIA-00053"
+    ]
+  },
+  "ARIANA CA_8420606935231": {
+    "t": "Petal Hoodie (Gray)",
+    "u": "2026-05-24T18:46:26-04:00",
+    "v": [
+      "45598883840191",
+      "45598883872959",
+      "45598883905727",
+      "45598883938495",
+      "45598883971263",
+      "45598884004031"
+    ],
+    "tags": [
+      "merch-product",
+      "MOUSE-00001"
+    ]
+  },
+  "OLIVIA UK_15706695401846": {
+    "t": "feminine intuition oversized t-shirt + baby pink cassette  bundle",
+    "u": "2026-05-24T23:46:26+01:00",
+    "v": [
+      "57699983360374",
+      "57699983393142",
+      "57699983425910",
+      "57699983458678",
+      "57699983491446"
+    ],
+    "tags": [
+      "Bundle"
+    ]
+  },
+  "GAGA CA_8880433397982": {
+    "t": "Cross Sleeve Fitted Longsleeve T-Shirt",
+    "u": "2026-05-24T18:46:24-04:00",
+    "v": [
+      "46627457466590",
+      "46627457499358",
+      "46627457532126",
+      "46627457564894",
+      "46627457630430"
+    ],
+    "tags": [
+      "GAGA-00008",
+      "TRUCK1"
+    ]
+  },
+  "OLIVIA US_8491997233331": {
+    "t": "Travel Mug FC Barcelona x Olivia Rodrigo x Spotify",
+    "u": "2026-05-24T18:34:02-04:00",
+    "v": [
+      "45483887067315"
+    ],
+    "tags": [
+      "OLIVIA-00053"
+    ]
+  },
+  "OLIVIA UK_15706657194358": {
+    "t": "logo wireless bluetooth karaoke microphone",
+    "u": "2026-05-24T23:46:26+01:00",
+    "v": [
+      "57699751494006"
+    ],
+    "tags": [
+      "testing SW"
+    ]
+  },
+  "OLIVIA US_8490766762163": {
+    "t": "the unraveled tour t-shirt",
+    "u": "2026-05-24T18:34:02-04:00",
+    "v": [
+      "45480506949811",
+      "45480506982579",
+      "45480507015347",
+      "45480507048115",
+      "45480507080883",
+      "45480507113651"
+    ],
+    "tags": [
+      "merch",
+      "OLIROD-00025",
+      "rush_launch",
+      "WH_CYCLE_COUNT"
+    ]
+  },
+  "ARIANA CA_8420606902463": {
+    "t": "Petal Buttons",
+    "u": "2026-05-24T18:46:26-04:00",
+    "v": [
+      "45598883807423"
+    ],
+    "tags": [
+      "merch-product",
+      "MOUSE-00001"
+    ]
+  },
+  "ARIANA CA_8420606836927": {
+    "t": "Bunnies Hoodie (Black)",
+    "u": "2026-05-24T18:46:26-04:00",
+    "v": [
+      "45598883578047",
+      "45598883610815",
+      "45598883643583",
+      "45598883676351",
+      "45598883709119",
+      "45598883741887"
+    ],
+    "tags": [
+      "merch-product",
+      "MOUSE-00001"
+    ]
+  },
+  "OLIVIA UK_15706656997750": {
+    "t": "drop dead heart keyed padlock necklace",
+    "u": "2026-05-24T23:46:26+01:00",
+    "v": [
+      "57699751264630"
+    ],
+    "tags": [
+      "testing SW"
+    ]
+  },
+  "OLIVIA US_8490766696627": {
+    "t": "the unraveled tour poster",
+    "u": "2026-05-24T18:34:02-04:00",
+    "v": [
+      "45480506785971"
+    ],
+    "tags": [
+      "merch",
+      "OLIROD-00025",
+      "rush_launch",
+      "WH_CYCLE_COUNT"
+    ]
+  },
+  "OLIVIA UK_15706656440694": {
+    "t": "drop dead heart keyed padlock journal",
+    "u": "2026-05-24T23:46:26+01:00",
+    "v": [
+      "57699731374454"
+    ],
+    "tags": [
+      "testing SW"
+    ]
+  },
+  "ARIANA CA_8420606804159": {
+    "t": "Petal Socks (White)",
+    "u": "2026-05-24T18:46:26-04:00",
+    "v": [
+      "45598883545279"
+    ],
+    "tags": [
+      "merch-product",
+      "MOUSE-00001"
+    ]
+  },
+  "OLIVIA UK_15706655195510": {
+    "t": "logo portable cassette player and headphones set",
+    "u": "2026-05-24T23:46:26+01:00",
+    "v": [
+      "57699727966582"
+    ],
+    "tags": [
+      "#.show-split",
+      "testing SW"
+    ]
+  },
+  "ARIANA CA_8420606771391": {
+    "t": "Petal Hat (Black)",
+    "u": "2026-05-24T18:46:26-04:00",
+    "v": [
+      "45598883512511"
+    ],
+    "tags": [
+      "merch-product",
+      "MOUSE-00001"
+    ]
+  },
+  "OLIVIA UK_15706655031670": {
+    "t": "versailles zip hoodie",
+    "u": "2026-05-24T23:46:26+01:00",
+    "v": [
+      "57699727638902",
+      "57699727671670",
+      "57699727704438",
+      "57699727737206",
+      "57699727769974"
+    ],
+    "tags": [
+      "testing SW"
+    ]
+  },
+  "OLIVIA UK_15706653786486": {
+    "t": "versailles women's spaghetti strap tank",
+    "u": "2026-05-24T23:46:26+01:00",
+    "v": [
+      "57699724689782",
+      "57699724722550",
+      "57699724755318",
+      "57699724788086",
+      "57699724820854",
+      "57699724853622"
+    ],
+    "tags": [
+      "testing SW"
+    ]
+  },
+  "OLIVIA US_8490766598323": {
+    "t": "the unraveled tour youth t-shirt",
+    "u": "2026-05-24T18:34:02-04:00",
+    "v": [
+      "45480506425523",
+      "45480506458291",
+      "45480506491059",
+      "45480506523827",
+      "45480506556595"
+    ],
+    "tags": [
+      "merch",
+      "OLIROD-00025",
+      "rush_launch",
+      "WH_CYCLE_COUNT"
+    ]
+  },
+  "ARIANA CA_8420606738623": {
+    "t": "Bunny Baby T-Shirt",
+    "u": "2026-05-24T18:46:26-04:00",
+    "v": [
+      "45598883381439",
+      "45598883414207",
+      "45598883446975",
+      "45598883479743"
+    ],
+    "tags": [
+      "merch-product",
+      "MOUSE-00001"
+    ]
+  },
+  "OLIVIA UK_15706652606838": {
+    "t": "drop dead embroidered women's crop tank",
+    "u": "2026-05-24T23:46:26+01:00",
+    "v": [
+      "57699723149686",
+      "57699723182454",
+      "57699723215222",
+      "57699723247990"
+    ],
+    "tags": [
+      "testing SW"
+    ]
+  },
+  "OLIVIA UK_15706650673526": {
+    "t": "versailles oversized t-shirt",
+    "u": "2026-05-24T23:46:26+01:00",
+    "v": [
+      "57699719905654",
+      "57699719938422",
+      "57699719971190",
+      "57699720003958",
+      "57699720036726"
+    ],
+    "tags": [
+      "testing SW"
+    ]
+  },
+  "OLIVIA UK_15706649919862": {
+    "t": "feminine intuition oversized t-shirt",
+    "u": "2026-05-24T23:46:26+01:00",
+    "v": [
+      "57699716858230",
+      "57699716890998",
+      "57699716923766",
+      "57699716956534",
+      "57699716989302"
+    ],
+    "tags": [
+      "testing SW"
     ]
   }
 }
