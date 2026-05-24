@@ -286,7 +286,7 @@
   },
   "US_8159877136584": {
     "t": "Taylor Swift | The Eras Tour Through Vancouver I Black Hoodie",
-    "u": "2026-05-18T19:28:45-05:00",
+    "u": "2026-05-24T09:04:03-05:00",
     "v": [
       "44439876468936",
       "44439876501704",
@@ -296,11 +296,28 @@
       "44439876632776",
       "44439876665544",
       "44439876698312"
+    ],
+    "tags": [
+      "bis_exclude",
+      "gwpeligible",
+      "Hoodies",
+      "merchprod",
+      "SMI",
+      "SWIFT-232",
+      "SWIFT-232.4",
+      "SWIFT-241",
+      "SWIFT-265",
+      "SWIFT-265.2",
+      "SWIFT-270",
+      "SWIFT-272",
+      "tsprod",
+      "venuemerch",
+      "WH_CYCLE_COUNT"
     ]
   },
   "US_8159874941128": {
     "t": "Taylor Swift | The Eras Tour Through Vancouver I White T-Shirt",
-    "u": "2026-05-18T19:28:45-05:00",
+    "u": "2026-05-24T09:04:03-05:00",
     "v": [
       "44439862018248",
       "44439862051016",
@@ -312,11 +329,30 @@
       "44439862247624",
       "44439862280392",
       "44439862313160"
+    ],
+    "tags": [
+      "bis_exclude",
+      "export",
+      "gwpeligible",
+      "merchprod",
+      "Short Sleeve Shirts",
+      "SMI",
+      "SWIFT-232",
+      "SWIFT-232.4",
+      "SWIFT-241",
+      "SWIFT-264",
+      "SWIFT-265",
+      "SWIFT-265.2",
+      "SWIFT-270",
+      "SWIFT-272",
+      "tsprod",
+      "venuemerch",
+      "WH_CYCLE_COUNT"
     ]
   },
   "US_8159860949192": {
     "t": "Taylor Swift | The Eras Tour Through Vancouver I Black T-Shirt",
-    "u": "2026-05-18T19:28:45-05:00",
+    "u": "2026-05-24T09:04:03-05:00",
     "v": [
       "44439810080968",
       "44439810113736",
@@ -328,25 +364,70 @@
       "44439810310344",
       "44439810343112",
       "44439810375880"
+    ],
+    "tags": [
+      "bis_exclude",
+      "gwpeligible",
+      "merchprod",
+      "Short Sleeve Shirts",
+      "SMI",
+      "SWIFT-232",
+      "SWIFT-232.1",
+      "SWIFT-236",
+      "SWIFT-236.2",
+      "SWIFT-264",
+      "SWIFT-265",
+      "SWIFT-265.2",
+      "SWIFT-270",
+      "SWIFT-272",
+      "tsprod",
+      "venuemerch",
+      "WH_CYCLE_COUNT"
     ]
   },
   "US_7878086426824": {
     "t": "The Tortured Poets Department Mug",
-    "u": "2026-05-18T19:28:45-05:00",
+    "u": "2026-05-24T09:04:03-05:00",
     "v": [
       "43632042344648"
+    ],
+    "tags": [
+      "bis_exclude",
+      "Drinkware",
+      "export",
+      "gwpeligible",
+      "merchprod",
+      "SWIFT-181.2",
+      "SWIFT-230",
+      "SWIFT-261",
+      "SWIFT-265",
+      "SWIFT-265.2",
+      "SWIFT-270",
+      "tsprod",
+      "WH_CYCLE_COUNT"
     ]
   },
   "US_8245685059784": {
     "t": "Reputation Album Snake Cuff Bracelet",
-    "u": "2026-05-18T19:28:45-05:00",
+    "u": "2026-05-24T09:04:03-05:00",
     "v": [
       "44787099238600"
+    ],
+    "tags": [
+      "Accessories",
+      "bis_exclude",
+      "exflow",
+      "Jewelry",
+      "merchprod",
+      "SWIFT-245",
+      "SWIFT-245.1",
+      "tsprod",
+      "WH_CYCLE_COUNT"
     ]
   },
   "US_8236045402312": {
     "t": "Taylor Swift | The Eras Tour Crewneck Sweatshirt",
-    "u": "2026-05-18T19:28:45-05:00",
+    "u": "2026-05-24T09:04:03-05:00",
     "v": [
       "44747083972808",
       "44747084005576",
@@ -358,11 +439,21 @@
       "44747084202184",
       "44747084234952",
       "44747084267720"
+    ],
+    "tags": [
+      "bis_exclude",
+      "Crewnecks",
+      "exflow",
+      "merchprod",
+      "SWIFT-245",
+      "SWIFT-245.4",
+      "tsprod",
+      "WH_CYCLE_COUNT"
     ]
   },
   "US_8236052218056": {
     "t": "Taylor Swift | The Eras Tour Acoustic Piano Zip Up Hoodie",
-    "u": "2026-05-18T19:28:45-05:00",
+    "u": "2026-05-24T09:04:03-05:00",
     "v": [
       "44747100553416",
       "44747100586184",
@@ -374,11 +465,21 @@
       "44747100782792",
       "44747100815560",
       "44747100848328"
+    ],
+    "tags": [
+      "bis_exclude",
+      "exflow",
+      "Hoodies",
+      "merchprod",
+      "SWIFT-245",
+      "SWIFT-245.5",
+      "tsprod",
+      "WH_CYCLE_COUNT"
     ]
   },
   "US_8240068526280": {
     "t": "The Life of a Showgirl Longsleeve Rugby T-Shirt",
-    "u": "2026-05-18T19:28:45-05:00",
+    "u": "2026-05-24T09:04:03-05:00",
     "v": [
       "44764457828552",
       "44764457861320",
@@ -390,11 +491,24 @@
       "44764458057928",
       "44764458090696",
       "44764458123464"
+    ],
+    "tags": [
+      "bis_exclude",
+      "exflow",
+      "Long Sleeve Shirts",
+      "merchprod",
+      "SWIFT-245",
+      "SWIFT-245.2",
+      "SWIFT-251",
+      "SWIFT-259",
+      "tloasinv",
+      "tsprod",
+      "WH_CYCLE_COUNT"
     ]
   },
   "US_8239093153992": {
     "t": "The Life of a Showgirl Signet Ring",
-    "u": "2026-05-18T19:28:45-05:00",
+    "u": "2026-05-24T09:04:03-05:00",
     "v": [
       "44761472336072",
       "44761472368840",
@@ -403,43 +517,111 @@
       "44761472467144",
       "44761472499912",
       "44761472532680"
+    ],
+    "tags": [
+      "Accessories",
+      "bis_exclude",
+      "exflow",
+      "Jewelry",
+      "merchprod",
+      "SWIFT-245",
+      "SWIFT-245.2",
+      "SWIFT-251",
+      "SWIFT-259",
+      "tloasinv",
+      "tsprod",
+      "WH_CYCLE_COUNT"
     ]
   },
   "US_8239063040200": {
     "t": "The Life of a Showgirl Flat Weave Towel",
-    "u": "2026-05-18T19:28:45-05:00",
+    "u": "2026-05-24T09:04:03-05:00",
     "v": [
       "44761192202440"
+    ],
+    "tags": [
+      "010826",
+      "bis_exclude",
+      "Home Decor",
+      "merchprod",
+      "SWIFT-245",
+      "SWIFT-245.2",
+      "SWIFT-251",
+      "SWIFT-259",
+      "tloasinv",
+      "tsprod",
+      "WH_CYCLE_COUNT"
     ]
   },
   "US_8239062614216": {
     "t": "The Life of a Showgirl Notepad and Tray",
-    "u": "2026-05-18T19:28:45-05:00",
+    "u": "2026-05-24T09:04:03-05:00",
     "v": [
       "44761191743688"
+    ],
+    "tags": [
+      "Accessories",
+      "bis_exclude",
+      "exflow",
+      "merchprod",
+      "Stationery",
+      "SWIFT-245",
+      "SWIFT-245.2",
+      "SWIFT-251",
+      "SWIFT-259",
+      "tloasinv",
+      "tsprod",
+      "WH_CYCLE_COUNT"
     ]
   },
   "US_8239062515912": {
     "t": "The Life of a Showgirl Laundry Bag Backpack",
-    "u": "2026-05-18T19:28:45-05:00",
+    "u": "2026-05-24T09:04:03-05:00",
     "v": [
       "44761191514312"
+    ],
+    "tags": [
+      "Accessories",
+      "Bags",
+      "bis_exclude",
+      "exflow",
+      "merchprod",
+      "SWIFT-245",
+      "SWIFT-245.2",
+      "SWIFT-251",
+      "SWIFT-259",
+      "tloasinv",
+      "tsprod",
+      "WH_CYCLE_COUNT"
     ]
   },
   "US_8239062450376": {
     "t": "The Life of a Showgirl Bathrobe",
-    "u": "2026-05-18T19:28:45-05:00",
+    "u": "2026-05-24T09:04:03-05:00",
     "v": [
       "44761191088328",
       "44761191121096",
       "44761191153864",
       "44761191186632",
       "44761191219400"
+    ],
+    "tags": [
+      "bis_exclude",
+      "exflow",
+      "Loungewear",
+      "merchprod",
+      "SWIFT-245",
+      "SWIFT-245.2",
+      "SWIFT-251",
+      "SWIFT-259",
+      "tloasinv",
+      "tsprod",
+      "WH_CYCLE_COUNT"
     ]
   },
   "US_8239062286536": {
     "t": "The Life of a Showgirl French Terry Shorts",
-    "u": "2026-05-18T19:28:45-05:00",
+    "u": "2026-05-24T09:04:03-05:00",
     "v": [
       "44761189843144",
       "44761189875912",
@@ -451,11 +633,24 @@
       "44761190072520",
       "44761190105288",
       "44761190138056"
+    ],
+    "tags": [
+      "bis_exclude",
+      "exflow",
+      "merchprod",
+      "Shorts",
+      "SWIFT-245",
+      "SWIFT-245.2",
+      "SWIFT-251",
+      "SWIFT-259",
+      "tloasinv",
+      "tsprod",
+      "WH_CYCLE_COUNT"
     ]
   },
   "US_8239062089928": {
     "t": "The Life of a Showgirl French Terry Crewneck Sweatshirt",
-    "u": "2026-05-18T19:28:45-05:00",
+    "u": "2026-05-24T09:04:03-05:00",
     "v": [
       "44761189122248",
       "44761189155016",
@@ -467,11 +662,24 @@
       "44761189351624",
       "44761189384392",
       "44761189417160"
+    ],
+    "tags": [
+      "bis_exclude",
+      "Crewnecks",
+      "exflow",
+      "merchprod",
+      "SWIFT-245",
+      "SWIFT-245.2",
+      "SWIFT-251",
+      "SWIFT-259",
+      "tloasinv",
+      "tsprod",
+      "WH_CYCLE_COUNT"
     ]
   },
   "US_8240654319816": {
     "t": "I'm Not A Princess, This Ain't A Fairytale T-Shirt",
-    "u": "2026-05-18T19:28:45-05:00",
+    "u": "2026-05-24T09:04:03-05:00",
     "v": [
       "44766700404936",
       "44766700437704",
@@ -483,32 +691,79 @@
       "44766700634312",
       "44766700667080",
       "44766700699848"
+    ],
+    "tags": [
+      "exflow",
+      "kso",
+      "merchprod",
+      "Short Sleeve Shirts",
+      "SWIFT-245",
+      "SWIFT-245.1",
+      "tsprod",
+      "WH_CYCLE_COUNT"
     ]
   },
   "US_8239060975816": {
     "t": "The Old Taylor Can't Come To The Phone Right Now \u2013 Phone Case",
-    "u": "2026-05-18T19:28:45-05:00",
+    "u": "2026-05-24T09:04:03-05:00",
     "v": [
       "44761185091784",
       "44761185124552",
       "44761185157320",
       "44761185190088",
       "44761185222856"
+    ],
+    "tags": [
+      "Accessories",
+      "bis_exclude",
+      "exflow",
+      "kso",
+      "merchprod",
+      "Phone Cases",
+      "phonecasetm",
+      "SWIFT-245",
+      "SWIFT-245.1",
+      "tsprod",
+      "WH_CYCLE_COUNT"
     ]
   },
   "US_8238951563464": {
     "t": "The Life of a Showgirl Earbud Case",
-    "u": "2026-05-18T19:28:45-05:00",
+    "u": "2026-05-24T09:04:03-05:00",
     "v": [
       "44766161535176",
       "44766161567944"
+    ],
+    "tags": [
+      "Accessories",
+      "bis_exclude",
+      "exflow",
+      "kso",
+      "merchprod",
+      "SWIFT-245",
+      "SWIFT-245.1",
+      "tloasinv",
+      "tsprod",
+      "WH_CYCLE_COUNT"
     ]
   },
   "US_8236063555784": {
     "t": "For A Fortnight There, We Were Forever Bed Ornament",
-    "u": "2026-05-18T19:28:45-05:00",
+    "u": "2026-05-24T09:04:03-05:00",
     "v": [
       "44747166384328"
+    ],
+    "tags": [
+      "Accessories",
+      "bis_exclude",
+      "exflow",
+      "merchprod",
+      "ornament",
+      "Ornaments",
+      "SWIFT-245",
+      "SWIFT-245.1",
+      "tsprod",
+      "WH_CYCLE_COUNT"
     ]
   },
   "UK_15266102149506": "Opalite CD Single with Double-Sided Cover",
@@ -616,7 +871,7 @@
   },
   "UK_15184273736066": {
     "t": "Taylor Swift | The Eras Tour Crewneck Sweatshirt",
-    "u": "2026-04-07T16:22:23+01:00",
+    "u": "2026-05-24T16:05:26+01:00",
     "v": [
       "55986368446850",
       "55986368512386",
@@ -628,11 +883,12 @@
       "55986368676226",
       "55986368708994",
       "55986368741762"
-    ]
+    ],
+    "tags": []
   },
   "UK_15183655502210": {
     "t": "Taylor Swift | The Eras Tour Acoustic Piano Zip Up Hoodie",
-    "u": "2026-04-07T16:22:23+01:00",
+    "u": "2026-05-24T16:05:26+01:00",
     "v": [
       "55983180251522",
       "55983180284290",
@@ -644,11 +900,12 @@
       "55983180480898",
       "55983180513666",
       "55983180546434"
-    ]
+    ],
+    "tags": []
   },
   "UK_15182788034946": {
     "t": "The Life of a Showgirl Signet Ring",
-    "u": "2026-04-07T16:22:23+01:00",
+    "u": "2026-05-24T16:05:26+01:00",
     "v": [
       "55979234165122",
       "55979234197890",
@@ -657,32 +914,36 @@
       "55979234296194",
       "55979234328962",
       "55979234361730"
-    ]
+    ],
+    "tags": []
   },
   "UK_15182782136706": {
     "t": "The Life of a Showgirl Flat Weave Towel",
-    "u": "2026-04-07T16:22:23+01:00",
+    "u": "2026-05-24T16:05:26+01:00",
     "v": [
       "55979161256322"
-    ]
+    ],
+    "tags": []
   },
   "UK_15182782005634": {
     "t": "The Life of a Showgirl Notepad and Tray",
-    "u": "2026-04-07T16:22:23+01:00",
+    "u": "2026-05-24T16:05:26+01:00",
     "v": [
       "55979160961410"
-    ]
+    ],
+    "tags": []
   },
   "UK_15182781481346": {
     "t": "The Life of a Showgirl Laundry Bag Backpack",
-    "u": "2026-04-07T16:22:23+01:00",
+    "u": "2026-05-24T16:05:26+01:00",
     "v": [
       "55979159683458"
-    ]
+    ],
+    "tags": []
   },
   "UK_15182781415810": {
     "t": "The Life of a Showgirl Slippers",
-    "u": "2026-04-07T16:22:23+01:00",
+    "u": "2026-05-24T16:05:26+01:00",
     "v": [
       "55979159421314",
       "55979159454082",
@@ -690,22 +951,24 @@
       "55979159519618",
       "55979159355778",
       "55979159388546"
-    ]
+    ],
+    "tags": []
   },
   "UK_15182780629378": {
     "t": "The Life of a Showgirl Bathrobe",
-    "u": "2026-04-07T16:22:23+01:00",
+    "u": "2026-05-24T16:05:26+01:00",
     "v": [
       "55979156472194",
       "55979156504962",
       "55979156537730",
       "55979156570498",
       "55979156603266"
-    ]
+    ],
+    "tags": []
   },
   "UK_15182780563842": {
     "t": "The Life of a Showgirl French Terry Shorts",
-    "u": "2026-04-07T16:22:23+01:00",
+    "u": "2026-05-24T16:05:26+01:00",
     "v": [
       "55979156078978",
       "55979156111746",
@@ -717,11 +980,12 @@
       "55979156308354",
       "55979156341122",
       "55979156373890"
-    ]
+    ],
+    "tags": []
   },
   "UK_15182779777410": {
     "t": "The Life of a Showgirl French Terry Crewneck Sweatshirt",
-    "u": "2026-04-07T16:22:23+01:00",
+    "u": "2026-05-24T16:05:26+01:00",
     "v": [
       "55979154112898",
       "55979154145666",
@@ -733,11 +997,12 @@
       "55979154342274",
       "55979154375042",
       "55979154407810"
-    ]
+    ],
+    "tags": []
   },
   "UK_15182779613570": {
     "t": "The Life of a Showgirl Longsleeve Rugby T-Shirt",
-    "u": "2026-04-07T16:22:23+01:00",
+    "u": "2026-05-24T16:05:26+01:00",
     "v": [
       "55979153326466",
       "55979153359234",
@@ -749,18 +1014,20 @@
       "55979153555842",
       "55979153588610",
       "55979153621378"
-    ]
+    ],
+    "tags": []
   },
   "UK_15141621891458": {
     "t": "The Life of a Showgirl Barrette",
-    "u": "2026-04-07T16:22:23+01:00",
+    "u": "2026-05-24T16:05:26+01:00",
     "v": [
       "55796862648706"
-    ]
+    ],
+    "tags": []
   },
   "UK_15141623169410": {
     "t": "Sequins Are Forever T-Shirt Dress",
-    "u": "2026-04-07T16:22:23+01:00",
+    "u": "2026-05-24T16:05:26+01:00",
     "v": [
       "55796871823746",
       "55796871856514",
@@ -772,29 +1039,32 @@
       "55796872053122",
       "55796872085890",
       "55796872118658"
-    ]
+    ],
+    "tags": []
   },
   "UK_15141624578434": {
     "t": "The Life of a Showgirl Hair Clip",
-    "u": "2026-04-07T16:22:23+01:00",
+    "u": "2026-05-24T16:05:26+01:00",
     "v": [
       "55796877132162"
-    ]
+    ],
+    "tags": []
   },
   "UK_15141624611202": {
     "t": "The Life of a Showgirl Mint Faux Fur Coat",
-    "u": "2026-04-07T16:22:23+01:00",
+    "u": "2026-05-24T16:05:26+01:00",
     "v": [
       "55796877164930",
       "55796877197698",
       "55796877230466",
       "55796877263234",
       "55796877296002"
-    ]
+    ],
+    "tags": []
   },
   "UK_15179236737410": {
     "t": "Big Reputation Album Bomber Jacket",
-    "u": "2026-04-07T16:22:23+01:00",
+    "u": "2026-05-24T16:05:26+01:00",
     "v": [
       "55963075314050",
       "55963075346818",
@@ -806,11 +1076,12 @@
       "55963075543426",
       "55963075576194",
       "55963075608962"
-    ]
+    ],
+    "tags": []
   },
   "UK_15179236901250": {
     "t": "Taylor Swift | The Eras Tour Microphone Set Hoodie",
-    "u": "2026-04-07T16:22:23+01:00",
+    "u": "2026-05-24T16:05:26+01:00",
     "v": [
       "55963075838338",
       "55963075871106",
@@ -822,11 +1093,12 @@
       "55963076067714",
       "55963076100482",
       "55963076133250"
-    ]
+    ],
+    "tags": []
   },
   "UK_15179237294466": {
     "t": "Speak Now (Taylor's Version) Bird Cage T-Shirt",
-    "u": "2026-04-07T16:22:23+01:00",
+    "u": "2026-05-24T16:05:26+01:00",
     "v": [
       "55963077312898",
       "55963077345666",
@@ -838,7 +1110,8 @@
       "55963077542274",
       "55963077575042",
       "55963077607810"
-    ]
+    ],
+    "tags": []
   },
   "TAYLORSWIFT-_8634363183427": "SPEAK NOW (TAYLOR'S VERSION) 3LP ORCHID\u00c9E MARBR\u00c9",
   "TAYLORSWIFT-_15441133109632": "Taylor Swift | The Eras Tour Acoustic Piano Snow Globe",
@@ -1817,14 +2090,15 @@
   "AU_8388989649053": "You'll Always Know Me T-Shirt",
   "UK_15179237196162": {
     "t": "Speak Now (Taylor's Version) Sparks Fly Earrings",
-    "u": "2026-04-07T16:22:23+01:00",
+    "u": "2026-05-24T16:05:26+01:00",
     "v": [
       "55963077247362"
-    ]
+    ],
+    "tags": []
   },
   "UK_15179237392770": {
     "t": "Speak Now (Taylor's Version) Black Crewneck Sweatshirt",
-    "u": "2026-04-07T16:22:23+01:00",
+    "u": "2026-05-24T16:05:26+01:00",
     "v": [
       "55963077804418",
       "55963077837186",
@@ -1836,7 +2110,8 @@
       "55963078033794",
       "55963078066562",
       "55963078099330"
-    ]
+    ],
+    "tags": []
   },
   "US_8282431914184": "Opalite (Ely Oaks Remix) CD Single",
   "US_8282431848648": "Opalite (Skream Remix) CD Single",
@@ -2096,7 +2371,7 @@
   },
   "UK_15179237884290": {
     "t": "You Belong With Me Junior Jewels Crewneck Sweatshirt",
-    "u": "2026-04-07T16:22:23+01:00",
+    "u": "2026-05-24T16:05:26+01:00",
     "v": [
       "55963079475586",
       "55963079508354",
@@ -2108,7 +2383,8 @@
       "55963079704962",
       "55963079737730",
       "55963079770498"
-    ]
+    ],
+    "tags": []
   },
   "LAUFEY STORE_9312305905901": {
     "t": "Vine Pin",
@@ -4014,7 +4290,7 @@
   },
   "US_8235160633544": {
     "t": "Taylor Swift | The Eras Tour Microphone Set Hoodie",
-    "u": "2026-05-18T19:28:45-05:00",
+    "u": "2026-05-24T09:04:03-05:00",
     "v": [
       "44744339685576",
       "44744339718344",
@@ -4026,6 +4302,16 @@
       "44744339914952",
       "44744339947720",
       "44744339980488"
+    ],
+    "tags": [
+      "bis_exclude",
+      "exflow",
+      "Hoodies",
+      "merchprod",
+      "SWIFT-245",
+      "SWIFT-245.1",
+      "tsprod",
+      "WH_CYCLE_COUNT"
     ]
   },
   "CONAN STORE_7574101327931": {
