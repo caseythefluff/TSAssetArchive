@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-29T19:05:03.182369+00:00",
+  "timestamp": "2026-05-29T19:10:03.634204+00:00",
   "store_status_cache": {
     "US_status": true,
     "UK_status": true,
@@ -9,7 +9,7 @@
     "AU_status": true,
     "GAGA UK_status": true,
     "GAGA FR_status": true,
-    "GAGA DE_status": true,
+    "GAGA DE_status": false,
     "GAGA CA_status": true,
     "GAGA AU_status": true,
     "SABRINA US_status": true,
