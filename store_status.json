@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-30T04:38:43.685655+00:00",
+  "timestamp": "2026-05-30T05:21:34.374078+00:00",
   "store_status_cache": {
     "US_status": false,
     "UK_status": false,
@@ -182,16 +182,6 @@
     "CONAN AU_pending_1631610928759061426": {
       "url": "https://shop.umusic.com.au/cdn/shop/files/UMA-Social-Sharing.jpg",
       "u": "2026-05-30T03:56:34.008836+00:00",
-      "status": "pending"
-    },
-    "ARIANA AU_pending_6499807024684989725": {
-      "url": "https://shop.umusic.com.au/cdn/shop/files/UMA-Social-Sharing.jpg",
-      "u": "2026-05-30T04:03:43.205751+00:00",
-      "status": "pending"
-    },
-    "CONAN AU_pending_6499807024684989725": {
-      "url": "https://shop.umusic.com.au/cdn/shop/files/UMA-Social-Sharing.jpg",
-      "u": "2026-05-30T04:03:43.205751+00:00",
       "status": "pending"
     }
   }
