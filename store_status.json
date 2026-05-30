@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-05-30T03:30:05.611347+00:00",
+  "timestamp": "2026-05-30T04:06:34.194490+00:00",
   "store_status_cache": {
-    "US_status": false,
-    "UK_status": false,
-    "FR_status": false,
-    "EU_status": false,
-    "CA_status": false,
+    "US_status": true,
+    "UK_status": true,
+    "FR_status": true,
+    "EU_status": true,
+    "CA_status": true,
     "AU_status": false,
     "GAGA UK_status": false,
     "GAGA FR_status": false,
@@ -152,6 +152,36 @@
     "CONAN AU_pending_3234119024345633938": {
       "url": "https://shop.umusic.com.au/cdn/shop/files/UMA-Social-Sharing.jpg",
       "u": "2026-05-30T03:20:05.534109+00:00",
+      "status": "pending"
+    },
+    "ARIANA AU_pending_-4585933967401337371": {
+      "url": "https://shop.umusic.com.au/cdn/shop/files/UMA-Social-Sharing.jpg",
+      "u": "2026-05-30T03:37:56.995481+00:00",
+      "status": "pending"
+    },
+    "CONAN AU_pending_-4585933967401337371": {
+      "url": "https://shop.umusic.com.au/cdn/shop/files/UMA-Social-Sharing.jpg",
+      "u": "2026-05-30T03:37:56.995481+00:00",
+      "status": "pending"
+    },
+    "ARIANA AU_pending_2924748067469269529": {
+      "url": "https://shop.umusic.com.au/cdn/shop/files/UMA-Social-Sharing.jpg",
+      "u": "2026-05-30T03:50:43.620674+00:00",
+      "status": "pending"
+    },
+    "CONAN AU_pending_2924748067469269529": {
+      "url": "https://shop.umusic.com.au/cdn/shop/files/UMA-Social-Sharing.jpg",
+      "u": "2026-05-30T03:50:43.620674+00:00",
+      "status": "pending"
+    },
+    "ARIANA AU_pending_1631610928759061426": {
+      "url": "https://shop.umusic.com.au/cdn/shop/files/UMA-Social-Sharing.jpg",
+      "u": "2026-05-30T03:56:34.008836+00:00",
+      "status": "pending"
+    },
+    "CONAN AU_pending_1631610928759061426": {
+      "url": "https://shop.umusic.com.au/cdn/shop/files/UMA-Social-Sharing.jpg",
+      "u": "2026-05-30T03:56:34.008836+00:00",
       "status": "pending"
     }
   }
