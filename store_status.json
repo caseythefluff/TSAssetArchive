@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-30T03:15:53.735536+00:00",
+  "timestamp": "2026-05-30T03:30:05.611347+00:00",
   "store_status_cache": {
     "US_status": false,
     "UK_status": false,
@@ -16,6 +16,7 @@
     "SABRINA FRAGRANCE_status": false,
     "SABRINA UK_status": false,
     "SABRINA AU_status": false,
+    "SABRINA CA_status": false,
     "ARIANA US_status": false,
     "ARIANA UK_status": false,
     "ARIANA AU_status": false,
@@ -141,6 +142,16 @@
     "CONAN AU_pending_5264500173574225286": {
       "url": "https://shop.umusic.com.au/cdn/shop/files/UMA-Social-Sharing.jpg",
       "u": "2026-05-30T03:00:53.851096+00:00",
+      "status": "pending"
+    },
+    "ARIANA AU_pending_3234119024345633938": {
+      "url": "https://shop.umusic.com.au/cdn/shop/files/UMA-Social-Sharing.jpg",
+      "u": "2026-05-30T03:20:05.534109+00:00",
+      "status": "pending"
+    },
+    "CONAN AU_pending_3234119024345633938": {
+      "url": "https://shop.umusic.com.au/cdn/shop/files/UMA-Social-Sharing.jpg",
+      "u": "2026-05-30T03:20:05.534109+00:00",
       "status": "pending"
     }
   }
