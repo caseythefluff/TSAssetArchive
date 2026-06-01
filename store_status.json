@@ -1,40 +1,40 @@
 {
-  "timestamp": "2026-06-01T15:34:02.182061+00:00",
+  "timestamp": "2026-06-01T15:44:01.792930+00:00",
   "store_status_cache": {
-    "US_status": true,
+    "US_status": false,
     "UK_status": true,
-    "EU_status": true,
-    "CA_status": true,
-    "AU_status": true,
+    "EU_status": false,
+    "CA_status": false,
+    "AU_status": false,
     "GAGA UK_status": false,
     "GAGA DE_status": false,
-    "GAGA CA_status": false,
-    "GAGA AU_status": false,
+    "GAGA CA_status": true,
+    "GAGA AU_status": true,
     "SABRINA US_status": false,
     "SABRINA FRAGRANCE_status": false,
     "SABRINA UK_status": false,
     "SABRINA AU_status": false,
-    "SABRINA CA_status": false,
+    "SABRINA CA_status": true,
     "ARIANA US_status": false,
     "ARIANA UK_status": false,
-    "ARIANA AU_status": false,
+    "ARIANA AU_status": true,
     "ARIANA CA_status": false,
     "LAUFEY US_status": false,
     "OLIVIA US_status": false,
-    "OLIVIA UK_status": false,
+    "OLIVIA UK_status": true,
     "OLIVIA AU_status": false,
-    "OLIVIA CA_status": false,
-    "CONAN UK_status": false,
+    "OLIVIA CA_status": true,
+    "CONAN UK_status": true,
     "CONAN AU_status": false,
     "RAYE US_status": false,
-    "RAYE UK/EUR_status": false,
+    "RAYE UK/EUR_status": true,
     "RAYE GLOBAL_status": false,
-    "CHAPPELL US_status": false,
-    "CHAPPELL UK_status": false,
+    "CHAPPELL US_status": true,
+    "CHAPPELL UK_status": true,
     "CHAPPELL EUR_status": false,
     "PINKPANTHERESS US_status": false,
     "PINKPANTHERESS UK_status": false,
-    "PINKPANTHERESS EU_status": false
+    "PINKPANTHERESS EU_status": true
   },
   "pending_updates": {
     "CONAN AU_pending_2265455646090124596": {
@@ -259,6 +259,81 @@
     },
     "CONAN AU_pending_8501199514634933799": {
       "url": "https://shop.umusic.com.au/cdn/shop/files/UMA-Social-Sharing.jpg",
+      "u": "2026-06-01T15:29:03.203964+00:00",
+      "status": "pending"
+    },
+    "US_pending_-701747396827830792": {
+      "url": "https://store.taylorswift.com/cdn/shop/files/Share-Card_1200x630_Available-Now.jpg",
+      "u": "2026-06-01T15:29:03.203964+00:00",
+      "status": "pending"
+    },
+    "US_pending_8629549147176849437": {
+      "url": "https://cdn.shopify.com/videos/c/o/v/b3a1f13008d342b3b9116ae47af82125.mp4",
+      "u": "2026-06-01T15:29:03.203964+00:00",
+      "status": "pending"
+    },
+    "US_pending_44751052767040659": {
+      "url": "https://cdn.shopify.com/videos/c/o/v/a1f88dfad72a41b0a3bd8ec9ca023879.mp4",
+      "u": "2026-06-01T15:29:03.203964+00:00",
+      "status": "pending"
+    },
+    "UK_pending_7607399520178777588": {
+      "url": "https://storeuk.taylorswift.com/cdn/shop/files/Share-Card_1200x630_Available-Now.jpg",
+      "u": "2026-06-01T15:29:03.203964+00:00",
+      "status": "pending"
+    },
+    "UK_pending_8629549147176849437": {
+      "url": "https://cdn.shopify.com/videos/c/o/v/b3a1f13008d342b3b9116ae47af82125.mp4",
+      "u": "2026-06-01T15:29:03.203964+00:00",
+      "status": "pending"
+    },
+    "UK_pending_44751052767040659": {
+      "url": "https://cdn.shopify.com/videos/c/o/v/a1f88dfad72a41b0a3bd8ec9ca023879.mp4",
+      "u": "2026-06-01T15:29:03.203964+00:00",
+      "status": "pending"
+    },
+    "EU_pending_5766919282049424649": {
+      "url": "https://storeeu.taylorswift.com/cdn/shop/files/Share-Card_1200x630_Available-Now.jpg",
+      "u": "2026-06-01T15:29:03.203964+00:00",
+      "status": "pending"
+    },
+    "EU_pending_8629549147176849437": {
+      "url": "https://cdn.shopify.com/videos/c/o/v/b3a1f13008d342b3b9116ae47af82125.mp4",
+      "u": "2026-06-01T15:29:03.203964+00:00",
+      "status": "pending"
+    },
+    "EU_pending_44751052767040659": {
+      "url": "https://cdn.shopify.com/videos/c/o/v/a1f88dfad72a41b0a3bd8ec9ca023879.mp4",
+      "u": "2026-06-01T15:29:03.203964+00:00",
+      "status": "pending"
+    },
+    "AU_pending_-7602599395492920019": {
+      "url": "https://storeau.taylorswift.com/cdn/shop/files/download.jpg",
+      "u": "2026-06-01T15:29:03.203964+00:00",
+      "status": "pending"
+    },
+    "AU_pending_8629549147176849437": {
+      "url": "https://cdn.shopify.com/videos/c/o/v/b3a1f13008d342b3b9116ae47af82125.mp4",
+      "u": "2026-06-01T15:29:03.203964+00:00",
+      "status": "pending"
+    },
+    "AU_pending_44751052767040659": {
+      "url": "https://cdn.shopify.com/videos/c/o/v/a1f88dfad72a41b0a3bd8ec9ca023879.mp4",
+      "u": "2026-06-01T15:29:03.203964+00:00",
+      "status": "pending"
+    },
+    "CA_pending_-7395807944981575715": {
+      "url": "https://storeca.taylorswift.com/cdn/shop/files/imgi_1.jpg",
+      "u": "2026-06-01T15:29:03.203964+00:00",
+      "status": "pending"
+    },
+    "CA_pending_8629549147176849437": {
+      "url": "https://cdn.shopify.com/videos/c/o/v/b3a1f13008d342b3b9116ae47af82125.mp4",
+      "u": "2026-06-01T15:29:03.203964+00:00",
+      "status": "pending"
+    },
+    "CA_pending_44751052767040659": {
+      "url": "https://cdn.shopify.com/videos/c/o/v/a1f88dfad72a41b0a3bd8ec9ca023879.mp4",
       "u": "2026-06-01T15:29:03.203964+00:00",
       "status": "pending"
     }
