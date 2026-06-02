@@ -17467,5 +17467,44 @@
       "SABR-00032",
       "valentine's day"
     ]
+  },
+  "AU_8934979698845": {
+    "t": "\u201cI Knew It, I Knew You (Piano Version)\u201d CD Single with Double-Sided Cover",
+    "u": "2026-06-02T18:52:17+10:00",
+    "v": [
+      "48361816522909"
+    ],
+    "tags": [
+      "Music",
+      "music-product",
+      "TAYLORAU-0146"
+    ]
+  },
+  "US_8319278678216": {
+    "t": "\u201cI Knew It, I Knew You (Piano Version)\u201d CD Single with Double-Sided Cover",
+    "u": "2026-06-02T03:31:43-05:00",
+    "v": [
+      "45099583373512"
+    ],
+    "tags": [
+      "bis_exclude",
+      "CD",
+      "CDs",
+      "exflow",
+      "music-product",
+      "Music_CD",
+      "musicprod",
+      "SWIFT-295",
+      "tsprod",
+      "WH_CYCLE_COUNT"
+    ]
+  },
+  "EU_15031606182264": {
+    "t": "\u201cI Knew It, I Knew You\u201d CD Single with Double-Sided Cover",
+    "u": "2026-06-02T10:52:27+02:00",
+    "v": [
+      "55572902936952"
+    ],
+    "tags": []
   }
 }
