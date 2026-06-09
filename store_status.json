@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-02T23:52:45.468176+00:00",
+  "timestamp": "2026-06-09T09:11:17.663317+00:00",
   "store_status_cache": {
     "US_status": false,
     "UK_status": false,
@@ -21,15 +21,12 @@
     "LAUFEY US_status": false,
     "OLIVIA US_status": false,
     "OLIVIA UK_status": false,
-    "OLIVIA AU_status": false,
     "OLIVIA CA_status": false,
     "CONAN UK_status": false,
     "CONAN AU_status": false,
     "RAYE US_status": false,
     "RAYE UK/EUR_status": false,
     "RAYE GLOBAL_status": false,
-    "CHAPPELL US_status": false,
-    "CHAPPELL UK_status": false,
     "CHAPPELL EUR_status": false,
     "PINKPANTHERESS US_status": false,
     "PINKPANTHERESS UK_status": false,
@@ -344,6 +341,16 @@
     "CONAN AU_pending_-6291204894546218635": {
       "url": "https://shop.umusic.com.au/cdn/shop/files/UMA-Social-Sharing.jpg",
       "u": "2026-06-02T19:02:45.360380+00:00",
+      "status": "pending"
+    },
+    "ARIANA AU_pending_5467814823038009641": {
+      "url": "https://shop.umusic.com.au/cdn/shop/files/UMA-Social-Sharing.jpg",
+      "u": "2026-06-09T09:06:16.150787+00:00",
+      "status": "pending"
+    },
+    "CONAN AU_pending_5467814823038009641": {
+      "url": "https://shop.umusic.com.au/cdn/shop/files/UMA-Social-Sharing.jpg",
+      "u": "2026-06-09T09:06:16.150787+00:00",
       "status": "pending"
     }
   }
