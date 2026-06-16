@@ -18310,5 +18310,164 @@
       "tsprod",
       "WH_CYCLE_COUNT"
     ]
+  },
+  "US_7628623053000": {
+    "t": "Wildest Dreams Blue Pajama Set",
+    "u": "2026-06-16T14:42:26-05:00",
+    "v": [
+      "42964661305544",
+      "42964661338312",
+      "42964661371080",
+      "42964661403848",
+      "42964661436616",
+      "42964661469384",
+      "42964661502152",
+      "42964661534920"
+    ],
+    "tags": [
+      "1989tv",
+      "bis_exclude",
+      "Color_Blue",
+      "Era_1989 (Taylor's Version) Shop",
+      "ex_flow",
+      "gwpeligible",
+      "merchprod",
+      "Pajamas",
+      "Product Type_Pajamas",
+      "RS26",
+      "SWIFT-166",
+      "SWIFT-190",
+      "SWIFT-240",
+      "SWIFT-284.5",
+      "tsprod",
+      "WH_CYCLE_COUNT"
+    ]
+  },
+  "US_7628622987464": {
+    "t": "From The Vault Photo 1989 (Taylor's Version) Gray Hoodie",
+    "u": "2026-06-16T14:42:26-05:00",
+    "v": [
+      "42964661010632",
+      "42964661043400",
+      "42964661076168",
+      "42964661108936",
+      "42964661141704",
+      "42964661174472",
+      "42964661207240",
+      "42964661240008"
+    ],
+    "tags": [
+      "1989tv",
+      "__tab1:size-chart-18500",
+      "BF24",
+      "bis_exclude",
+      "CM24",
+      "ex_flow",
+      "gwpeligible",
+      "Hoodie (pullover)",
+      "Hoodies",
+      "maymerchbringbacks2",
+      "mb-invisible",
+      "merchprod",
+      "RS26",
+      "SWIFT-166",
+      "SWIFT-190",
+      "SWIFT-284.5",
+      "tsprod",
+      "WH_CYCLE_COUNT"
+    ]
+  },
+  "US_7628622921928": {
+    "t": "We Found Wonderland Quarter Zip Pullover",
+    "u": "2026-06-16T14:42:26-05:00",
+    "v": [
+      "42964660617416",
+      "42964660650184",
+      "42964660682952",
+      "42964660715720",
+      "42964660748488",
+      "42964660781256",
+      "42964660814024",
+      "42964660846792"
+    ],
+    "tags": [
+      "1989tv",
+      "__tab1:size-chart-wonderland-quarterzip",
+      "BF24",
+      "bis_exclude",
+      "CM24",
+      "Color_Beige",
+      "Era_1989 (Taylor's Version) Shop",
+      "ex_flow",
+      "gwpeligible",
+      "hide-dc",
+      "maymerchbringbacks2",
+      "mb-invisible",
+      "merchprod",
+      "Product Type_Pullover",
+      "RS26",
+      "SWIFT-166",
+      "SWIFT-190",
+      "SWIFT-284.5",
+      "tsprod",
+      "WH_CYCLE_COUNT"
+    ]
+  },
+  "US_8192760053960": {
+    "t": "Speak Now (Taylor's Version) Vintage T-Shirt",
+    "u": "2026-06-16T14:42:26-05:00",
+    "v": [
+      "44570812645576",
+      "44570812678344",
+      "44570812711112",
+      "44570812743880",
+      "44570812776648",
+      "44570812809416",
+      "44570812842184",
+      "44570812874952",
+      "44570812907720",
+      "44570812940488"
+    ],
+    "tags": [
+      "bis_exclude",
+      "enable-size-chart",
+      "ex_flow",
+      "exflow",
+      "merchprod",
+      "RS26",
+      "Short Sleeve Shirts",
+      "SWIFT-237",
+      "SWIFT-284.5",
+      "tsprod",
+      "WH_CYCLE_COUNT"
+    ]
+  },
+  "US_8192758448328": {
+    "t": "Speak Now (Taylor's Version) Jacket",
+    "u": "2026-06-16T14:42:26-05:00",
+    "v": [
+      "44570808320200",
+      "44570808352968",
+      "44570808385736",
+      "44570808418504",
+      "44570808451272",
+      "44570808484040",
+      "44570808516808",
+      "44570808549576",
+      "44570808582344",
+      "44570808615112"
+    ],
+    "tags": [
+      "bis_exclude",
+      "ex_flow",
+      "exflow",
+      "Jackets",
+      "merchprod",
+      "RS26",
+      "SWIFT-237",
+      "SWIFT-284.5",
+      "tsprod",
+      "WH_CYCLE_COUNT"
+    ]
   }
 }
