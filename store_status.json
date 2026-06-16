@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-11T15:15:05.438631+00:00",
+  "timestamp": "2026-06-16T19:07:06.467338+00:00",
   "store_status_cache": {
     "US_status": false,
     "UK_status": false,
@@ -31,9 +31,7 @@
     "CHAPPELL EUR_status": false,
     "PINKPANTHERESS US_status": false,
     "PINKPANTHERESS UK_status": false,
-    "PINKPANTHERESS EU_status": false,
-    "GAGA US SHOP_status": true,
-    "GAGA LIVE_status": true
+    "PINKPANTHERESS EU_status": false
   },
   "pending_updates": {
     "CONAN AU_pending_2265455646090124596": {
