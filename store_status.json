@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-12T19:08:42.794608+00:00",
+  "timestamp": "2026-08-12T19:13:41.671974+00:00",
   "store_status_cache": {
     "US_status": false,
     "UK_status": true,
@@ -25,7 +25,7 @@
     "OLIVIA US_status": false,
     "OLIVIA UK_status": true,
     "OLIVIA AU_status": true,
-    "OLIVIA CA_status": true,
+    "OLIVIA CA_status": false,
     "CONAN US_status": false,
     "CONAN UK_status": true,
     "CONAN AU_status": false,
