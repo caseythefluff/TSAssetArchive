@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-09-22T18:31:35.485010+00:00",
+  "timestamp": "2026-09-22T18:36:38.803784+00:00",
   "store_status_cache": {
     "US_status": false,
     "UK_status": false,
-    "FR_status": true,
-    "EU_status": true,
+    "FR_status": false,
+    "EU_status": false,
     "CA_status": false,
-    "AU_status": true,
+    "AU_status": false,
     "GAGA UK_status": false,
     "GAGA FR_status": false,
     "GAGA DE_status": false,
