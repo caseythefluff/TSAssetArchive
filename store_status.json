@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-09-22T15:07:42.171946+00:00",
+  "timestamp": "2026-09-22T16:10:32.984569+00:00",
   "store_status_cache": {
-    "US_status": false,
+    "US_status": true,
     "UK_status": false,
     "FR_status": false,
     "EU_status": false,
