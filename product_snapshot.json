@@ -1,1 +1,397 @@
-{}
+{
+  "US_8343823155400": {
+    "t": "Patient Zero (Piano Version) CD with Double-Sided Cover",
+    "u": "2026-09-23T06:35:35-05:00",
+    "v": [
+      "45217346158792"
+    ],
+    "tags": [
+      "bis_exclude",
+      "CDs",
+      "exflow",
+      "music-product",
+      "SWIFT-299",
+      "tloas",
+      "WH_CYCLE_COUNT"
+    ]
+  },
+  "US_8343823122632": {
+    "t": "Patient Zero (Acoustic Version) CD with Double-Sided Cover",
+    "u": "2026-09-23T06:35:35-05:00",
+    "v": [
+      "45217346126024"
+    ],
+    "tags": [
+      "bis_exclude",
+      "CDs",
+      "exflow",
+      "music-product",
+      "SWIFT-299",
+      "tloas",
+      "WH_CYCLE_COUNT"
+    ]
+  },
+  "US_8343823089864": {
+    "t": "Patient Zero CD with Double-Sided Cover",
+    "u": "2026-09-23T06:35:35-05:00",
+    "v": [
+      "45217346060488"
+    ],
+    "tags": [
+      "bis_exclude",
+      "CDs",
+      "exflow",
+      "music-product",
+      "SWIFT-299",
+      "tloas",
+      "WH_CYCLE_COUNT"
+    ]
+  },
+  "US_4734125998165": {
+    "t": "the \"in the trees\" Edition Deluxe Cassette",
+    "u": "2026-09-23T06:35:35-05:00",
+    "v": [
+      "32581629608021"
+    ],
+    "tags": [
+      "23",
+      "76321",
+      "bis_exclude",
+      "Cassettes",
+      "CDCassette",
+      "exflow",
+      "FMS26",
+      "folkcore",
+      "folklore music",
+      "folklore music drafted",
+      "FRS26",
+      "live-capped",
+      "mb-invisible",
+      "music-codes",
+      "music-product",
+      "musicprod",
+      "push5",
+      "S1",
+      "SWIFT-138.3",
+      "SWIFT-173",
+      "SWIFT-33",
+      "SWIFT-90",
+      "trademark-folklore",
+      "tsprod",
+      "WH_CYCLE_COUNT"
+    ]
+  },
+  "US_4734125899861": {
+    "t": "the \"in the trees\" edition deluxe cd",
+    "u": "2026-09-23T06:35:35-05:00",
+    "v": [
+      "32581629542485"
+    ],
+    "tags": [
+      "#.line-limit",
+      "23",
+      "76321",
+      "bis_exclude",
+      "CDCassette",
+      "CDs",
+      "exflow",
+      "FMS26",
+      "folkcore",
+      "folklore music",
+      "folklore music drafted",
+      "folkloreera",
+      "FRS26",
+      "hide-dc",
+      "live-capped",
+      "maymusicbringbacks",
+      "mb-invisible",
+      "meta",
+      "music-codes",
+      "music-product",
+      "musicprod",
+      "musicproduct",
+      "MusicProducts",
+      "push5",
+      "S1",
+      "SWIFT-184",
+      "SWIFT-33",
+      "SWIFT-90",
+      "tsprod",
+      "WH_CYCLE_COUNT"
+    ]
+  },
+  "US_7552665845960": {
+    "t": "Karma is a Cat Cropped T-Shirt",
+    "u": "2026-09-23T06:35:35-05:00",
+    "v": [
+      "42695532871880",
+      "42695532904648",
+      "42695532937416",
+      "42695532970184",
+      "42695533002952",
+      "42695533035720"
+    ],
+    "tags": [
+      "__tab1:size-chart-3600-crop",
+      "bis_exclude",
+      "ex_flow",
+      "gwpeligible",
+      "mb-invisible",
+      "merchprod",
+      "RS26",
+      "Short Sleeve Shirts",
+      "SWIFT-152",
+      "SWIFT-284.5",
+      "tsprod",
+      "WH_CYCLE_COUNT"
+    ]
+  },
+  "US_7505580785864": {
+    "t": "Taylor Swift Eras Car Decals",
+    "u": "2026-09-23T06:35:35-05:00",
+    "v": [
+      "42535171391688"
+    ],
+    "tags": [
+      "Accessories2",
+      "BFCM23",
+      "bis_exclude",
+      "ex_flow",
+      "gwpeligible",
+      "mb-invisible",
+      "merchprod",
+      "RS26",
+      "SWIFT-141",
+      "SWIFT-171.5",
+      "SWIFT-284.5",
+      "tsprod",
+      "WH_CYCLE_COUNT"
+    ]
+  },
+  "US_7505580622024": {
+    "t": "Taylor Swift Eras Crewneck",
+    "u": "2026-09-23T06:35:35-05:00",
+    "v": [
+      "42535170375880",
+      "42535170408648",
+      "42535170441416",
+      "42535170474184",
+      "42535170506952",
+      "42535170539720",
+      "42535170572488",
+      "42535170605256"
+    ],
+    "tags": [
+      "__tab1:size-chart-ss3000",
+      "BFCM23",
+      "bis_exclude",
+      "Crewnecks",
+      "ex_flow",
+      "gwpeligible",
+      "mb-invisible",
+      "merchprod",
+      "push4",
+      "RS26",
+      "SWIFT-141",
+      "SWIFT-171.5",
+      "SWIFT-284.5",
+      "tsprod",
+      "WH_CYCLE_COUNT"
+    ]
+  },
+  "US_7573688058056": {
+    "t": "Speak Now (Taylor's Version) Eras Patch Set",
+    "u": "2026-09-23T06:35:35-05:00",
+    "v": [
+      "42801849434312"
+    ],
+    "tags": [
+      "Accessories2",
+      "BF24",
+      "bis_exclude",
+      "CM24",
+      "Color_Multicolor",
+      "Era_Speak Now (Taylor's Version) Shop",
+      "ex_flow",
+      "gwpeligible",
+      "hide-dc",
+      "ldwsale",
+      "maymerchbringbacks2",
+      "mb-invisible",
+      "merchprod",
+      "Product Type_Accessories",
+      "RS26",
+      "SWIFT-157",
+      "SWIFT-169",
+      "SWIFT-169.6",
+      "SWIFT-190",
+      "SWIFT-209",
+      "SWIFT-209.3",
+      "SWIFT-209.5",
+      "SWIFT-284.5",
+      "tsprod",
+      "WH_CYCLE_COUNT"
+    ]
+  },
+  "US_7572049592520": {
+    "t": "Speak Now (Taylor's Version) Charm Bracelet",
+    "u": "2026-09-23T06:35:35-05:00",
+    "v": [
+      "42797102891208"
+    ],
+    "tags": [
+      "04.03",
+      "bis_exclude",
+      "ex_flow",
+      "Jewelry",
+      "KG7op922eM",
+      "merchprod",
+      "RS26",
+      "SWIFT-159",
+      "SWIFT-183",
+      "SWIFT-209",
+      "SWIFT-209.3",
+      "SWIFT-230",
+      "SWIFT-233",
+      "SWIFT-265",
+      "SWIFT-265.4",
+      "SWIFT-269",
+      "SWIFT-284.5",
+      "tsprod",
+      "WH_CYCLE_COUNT"
+    ]
+  },
+  "US_7574938255560": {
+    "t": "Speak Now (Taylor's Version) Pin Set",
+    "u": "2026-09-23T06:35:35-05:00",
+    "v": [
+      "42805973680328"
+    ],
+    "tags": [
+      "Accessories2",
+      "BF24",
+      "bis_exclude",
+      "CM24",
+      "Color_Multicolor",
+      "Era_Speak Now (Taylor's Version) Shop",
+      "ex_flow",
+      "gwpeligible",
+      "hide-dc",
+      "maymerchbringbacks2",
+      "mb-invisible",
+      "merchprod",
+      "Product Type_Accessories",
+      "RS26",
+      "SWIFT-159",
+      "SWIFT-190",
+      "SWIFT-209",
+      "SWIFT-209.3",
+      "SWIFT-209.5",
+      "SWIFT-284.5",
+      "tsprod",
+      "WH_CYCLE_COUNT"
+    ]
+  },
+  "US_7574937239752": {
+    "t": "Long Live All The Magic We Made Picture Frame",
+    "u": "2026-09-23T06:35:35-05:00",
+    "v": [
+      "42805971026120"
+    ],
+    "tags": [
+      "Accessories",
+      "Accessories2",
+      "BF24",
+      "bis_exclude",
+      "CM24",
+      "Color_Brown",
+      "Era_Speak Now (Taylor's Version) Shop",
+      "ex_flow",
+      "gwpeligible",
+      "hide-dc",
+      "maymerchbringbacks",
+      "mb-invisible",
+      "merchprod",
+      "Product Type_Picture Frames",
+      "RS26",
+      "SWIFT-159",
+      "SWIFT-183",
+      "SWIFT-209",
+      "SWIFT-209.3",
+      "SWIFT-209.5",
+      "SWIFT-265",
+      "SWIFT-265.2",
+      "SWIFT-265.3",
+      "SWIFT-270",
+      "SWIFT-284.5",
+      "tsprod",
+      "WH_CYCLE_COUNT"
+    ]
+  },
+  "US_7573688090824": {
+    "t": "Speak Now (Taylor's Version) Eras Tote Bag",
+    "u": "2026-09-23T06:35:35-05:00",
+    "v": [
+      "42801849467080"
+    ],
+    "tags": [
+      "Accessories2",
+      "Bags",
+      "BF24",
+      "bis_exclude",
+      "CM24",
+      "Color_Purple",
+      "Era_Speak Now (Taylor's Version) Shop",
+      "ex_flow",
+      "gwpeligible",
+      "hide-dc",
+      "ldwsale",
+      "maymerchbringbacks2",
+      "mb-invisible",
+      "merchprod",
+      "Product Type_Bags",
+      "RS26",
+      "SWIFT-157",
+      "SWIFT-169",
+      "SWIFT-169.6",
+      "SWIFT-190",
+      "SWIFT-209",
+      "SWIFT-209.3",
+      "SWIFT-209.5",
+      "SWIFT-284.5",
+      "tsprod",
+      "WH_CYCLE_COUNT"
+    ]
+  },
+  "US_7611656437960": {
+    "t": "1989 (Taylor's Version) Seagull Crewneck",
+    "u": "2026-09-23T06:35:35-05:00",
+    "v": [
+      "42917052711112",
+      "42917052743880",
+      "42917052776648",
+      "42917052809416",
+      "42917052842184",
+      "42917052874952",
+      "42917052907720",
+      "42917052940488"
+    ],
+    "tags": [
+      "1989tv",
+      "__tab1:size-chart-bravado-colorblocked-crew",
+      "bis_exclude",
+      "Crewnecks",
+      "ex_flow",
+      "gwpeligible",
+      "maymerchbringbacks2",
+      "mb-invisible",
+      "merchprod",
+      "RS26",
+      "SWIFT-164",
+      "SWIFT-190",
+      "SWIFT-284.5",
+      "tsprod",
+      "WH_CYCLE_COUNT"
+    ]
+  }
+}
