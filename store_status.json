@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-18T18:07:43.331830+00:00",
+  "timestamp": "2026-11-18T18:22:42.744608+00:00",
   "store_status_cache": {
     "US_status": false,
     "UK_status": false,
@@ -11,7 +11,7 @@
     "GAGA UK_status": false,
     "US_theme_hash": "ccfdd07c1e570490d16bdd9af031ca5420e4de46a015b51d0e706ba7bacbc74b",
     "US_countdown": true,
-    "US_empty_collections": "1989-taylors-version-holiday|1989-taylors-version-merch|1989-taylors-version-music|1989-taylors-version-shop|accessories|all|all-accessories|all-apparel|all-home|all-merch|all-music|bags|best-sellers|blankets|cassettes|cds|christmas-tree-farm-shop|collectible-vinyl|decor|drinkware|fearless-taylors-version-holiday|fearless-taylors-version-merch|fearless-taylors-version-music|fearless-taylors-version-shop|folklore-album-cardigan-cat-collection|folklore-album-cardigan-collection|folklore-album-holiday|folklore-album-merch|from-the-vault|home-decor",
+    "US_empty_collections": "1989-taylors-version-holiday|1989-taylors-version-merch|1989-taylors-version-music|1989-taylors-version-shop|accessories|all|all-accessories|all-apparel|all-home|all-merch|all-music|bags|best-sellers|blankets|cassettes|cds|christmas-tree-farm-shop|collectible-vinyl|decor|drinkware|fearless-taylors-version-holiday|fearless-taylors-version-merch|fearless-taylors-version-music|fearless-taylors-version-shop|folklore-album-cardigan-cat-collection|folklore-album-holiday|folklore-album-merch|folklore-album-music|from-the-vault|home-decor",
     "US_collections": [
       "1989-taylors-version-holiday (0)",
       "1989-taylors-version-merch (0)",
@@ -38,9 +38,9 @@
       "fearless-taylors-version-music (0)",
       "fearless-taylors-version-shop (0)",
       "folklore-album-cardigan-cat-collection (0)",
-      "folklore-album-cardigan-collection (0)",
       "folklore-album-holiday (0)",
       "folklore-album-merch (0)",
+      "folklore-album-music (0)",
       "from-the-vault (0)",
       "home-decor (0)"
     ],
