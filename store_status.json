@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-19T18:37:17.090238+00:00",
+  "timestamp": "2026-11-20T21:06:39.885248+00:00",
   "store_status_cache": {
     "US_status": false,
     "UK_status": false,
@@ -7,13 +7,11 @@
     "EU_status": false,
     "CA_status": false,
     "AU_status": false,
-    "GAGA UK_status": false,
     "US_locked": false,
-    "GAGA FR_status": false,
-    "US_theme_hash": "5dca91c8c58213dc11bcd5beb4a2f8ec56cb251999620abe1d8d24af8b77498e",
-    "GAGA DE_status": false,
+    "US_theme_hash": "cec59947a76646137ffa84645320518cfacae90ae1be498c8d5f1b6dc1ba3b8d",
+    "GAGA UK_status": false,
     "US_countdown": true,
-    "GAGA CA_status": false,
+    "GAGA FR_status": false,
     "US_empty_collections": "1989-taylors-version-holiday|1989-taylors-version-merch|1989-taylors-version-music|1989-taylors-version-shop|accessories|all|all-accessories|all-apparel|all-home|all-merch|all-music|bags|best-sellers|blankets|cassettes|cds|christmas-tree-farm-shop|collectible-vinyl|decor|drinkware|fearless-taylors-version-holiday|fearless-taylors-version-merch|fearless-taylors-version-music|fearless-taylors-version-shop|folklore-album-holiday|folklore-album-merch|folklore-album-music|folklore-album-shop|from-the-vault|home-decor",
     "US_collections": [
       "1989-taylors-version-holiday (0)",
@@ -47,11 +45,10 @@
       "from-the-vault (0)",
       "home-decor (0)"
     ],
-    "GAGA AU_status": false,
     "UK_locked": false,
-    "SABRINA US_status": false,
-    "UK_theme_hash": "2f8ec69b68d90df093bf7cd8cb88e14401363858d7f3b49f0a5f985d50b666c4",
-    "SABRINA FRAGRANCE_status": false,
+    "GAGA DE_status": false,
+    "UK_theme_hash": "b56ecfc10c2297d138c269588738260aaa69ba69fb48aafb9441161c6fc508b6",
+    "GAGA CA_status": false,
     "UK_countdown": true,
     "UK_empty_collections": "1989-taylors-version-holiday|1989-taylors-version-shop|1989-taylors-version-summer|accessories|all|all-apparel|all-home|all-merch|all-music|august-slipped-away-summer-sale|august-slipped-away-summer-sale-accessories|august-slipped-away-summer-sale-apparel|bags|best-sellers|blankets|bundle|cds|christmas-tree-farm-shop|cold-weather-gifts|digital|drinkware|eras-t-shirts|evermore-summer|fearless-taylors-version-holiday|fearless-taylors-version-shop|fearless-taylors-version-summer|folklore-album-holiday|folklore-album-music|folklore-album-shop|from-the-vault",
     "UK_collections": [
@@ -86,11 +83,10 @@
       "folklore-album-shop (0)",
       "from-the-vault (0)"
     ],
-    "SABRINA UK_status": false,
+    "GAGA AU_status": false,
     "FR_locked": false,
-    "SABRINA AU_status": false,
-    "FR_theme_hash": "dee4a54a07b90d15f95f7ff51535528adf100035287bdf9e17eb006726042771",
-    "SABRINA CA_status": false,
+    "FR_theme_hash": "5cb5a3b25d5f4759474bd213796dd0bc2003a26bd912ec274c4b11623f64c4dc",
+    "SABRINA US_status": false,
     "FR_countdown": true,
     "FR_empty_collections": "1989-taylors-version|1989-taylors-version-editions-exclusives|1989-taylors-version-holiday|1989-taylors-version-holiday-2025|1989-taylors-version-shop|1989-taylors-version-standards|1989-taylors-version-summer|accessoires|acheter-tous-les-albums|all|best-sellers|bijoux|cadeaux-pour-le-froid|casquettes|cassette-the-bolter|cassette-ttpd|cassettes|cd-deluxe-ordre-2|cd-deluxe-ttpm|cd-drop-standard|cds|christmas-tree-farm-shop|collection-essentiels|couverture|crewneck-i-love-you|cyber-monday-accessoires-1|cyber-monday-collection|from-the-vault|kaja19|offre-limitee",
     "FR_collections": [
@@ -125,12 +121,12 @@
       "kaja19 (0)",
       "offre-limitee (0)"
     ],
-    "ARIANA US_status": false,
+    "SABRINA FRAGRANCE_status": false,
     "EU_locked": false,
-    "ARIANA UK_status": false,
-    "EU_theme_hash": "4e72efaf8bb5c9912ee9d159c09c9745b9284db236235d9a596617dd350a6b5b",
-    "ARIANA AU_status": false,
+    "SABRINA UK_status": false,
+    "EU_theme_hash": "7e570e6453112f8f89aee7337c1b0968895328b78311889ec9f2b0a5f33d6cee",
     "EU_countdown": true,
+    "SABRINA AU_status": false,
     "EU_empty_collections": "1989-taylors-version-holiday|1989-taylors-version-shop|acoustic-piano-collection|all|all-accessories|all-apparel|all-merch|bags|blankets|cassettes|cds|decor|dresses|drinkware|fearless-taylors-version-holiday|fearless-taylors-version-shop|folklore-album-cardigan-cat-collection|folklore-album-cardigan-collection|folklore-album-holiday|folklore-album-shop|from-the-vault|hats|holiday-accessories|holiday-home-decor|holiday-hoodies-sweatshirts|holiday-jewelry|holiday-loungewear|lover-album-holiday|taylor-swift-evermore-album-holiday|taylor-swift-midnights-album-holiday",
     "EU_collections": [
       "1989-taylors-version-holiday (0)",
@@ -164,10 +160,9 @@
       "taylor-swift-evermore-album-holiday (0)",
       "taylor-swift-midnights-album-holiday (0)"
     ],
-    "ARIANA CA_status": false,
     "CA_locked": false,
-    "CA_theme_hash": "bdaa4e86d1a0c322b2bc216e56f9885e80b1f962b9503bf0b5f0b80e651da0a4",
-    "LAUFEY US_status": false,
+    "SABRINA CA_status": false,
+    "CA_theme_hash": "dc754842aff0525551ed27e175b19d96f13e2b8ed82973291c0afedcc4f94398",
     "CA_countdown": true,
     "CA_empty_collections": "1989-taylors-version|1989-taylors-version-deluxe-edition-cds|1989-taylors-version-eras-collection|1989-taylors-version-holiday|1989-taylors-version-photo-collection|1989-taylors-version-photo-collection-1|1989-taylors-version-shop|1989-taylors-version-special-editions|1989-taylors-version-summer|1989-taylors-version-vinyl|1989-tvc|all|all-accessories|all-apparel|all-merch|all-music|august-slipped-away-summer-sale-accessories|august-slipped-away-summer-sale-apparel|bags|best-sellers|bf-accessories|bf-home-decor|bf-hoodies-crewnecks|bf-shirts|bf-shorts-sweatpants|bf-taylor-swift-the-eras-tour|black-friday-accessories|black-friday-collection-home-decor|black-friday-shorts-sweatpants|from-the-vault",
     "CA_collections": [
@@ -202,11 +197,10 @@
       "black-friday-shorts-sweatpants (0)",
       "from-the-vault (0)"
     ],
-    "OLIVIA US_status": false,
+    "ARIANA US_status": false,
     "AU_locked": false,
-    "OLIVIA UK_status": false,
-    "AU_theme_hash": "f98249d6dc19203585b9a752ce438b71a6c0d10bb79e31db6b54651b9b8b9235",
-    "OLIVIA AU_status": false,
+    "ARIANA UK_status": false,
+    "AU_theme_hash": "89ad62bf47e03bf7632e34b190693308e995cf658c59aed5483cdf726e9c2d20",
     "AU_countdown": true,
     "AU_empty_collections": "1989-taylor-s-version-summer|1989-taylors-version-holiday|1989-taylors-version-shop|accessories|all|all-apparel|all-home|all-merch|all-music|bags|cassettes|cds|drinkware|evermore-summer|fearless-taylors-version-holiday|fearless-taylors-version-shop|fearless-taylors-version-summer|folklore-album-holiday|folklore-album-shop|folklore-summer|from-the-vault|hats|holiday-accessories|holiday-home-decor|holiday-hoodies-sweatshirts|holiday-jewelry|holiday-loungewear|holiday-ornaments|holiday-outerwear|music-shop",
     "AU_collections": [
@@ -241,6 +235,12 @@
       "holiday-outerwear (0)",
       "music-shop (0)"
     ],
+    "ARIANA AU_status": false,
+    "ARIANA CA_status": false,
+    "LAUFEY US_status": false,
+    "OLIVIA US_status": false,
+    "OLIVIA UK_status": false,
+    "OLIVIA AU_status": false,
     "OLIVIA CA_status": false,
     "CONAN US_status": false,
     "CONAN UK_status": false,
